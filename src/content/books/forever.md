@@ -28,6 +28,7 @@ banLocations:
 totalChallenges: 224
 description: "Forever is Judy Blume's groundbreaking novel about Katherine and Michael, two teenagers who fall in love and make the decision to have sex. Published in 1975, it was one of the first young adult novels to depict teenage sexuality honestly and without punishment."
 amazonUrl: "https://www.amazon.com/dp/1481414437?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/dRo7v7OOeuMfk-qbhPbSmw"
 bookshopUrl: "https://bookshop.org/p/books/forever-judy-blume/6432766?a=2537"
 ---
 

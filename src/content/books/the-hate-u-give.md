@@ -35,6 +35,7 @@ banLocations:
 totalChallenges: 185
 description: "The Hate U Give follows sixteen-year-old Starr Carter, who witnesses the fatal shooting of her unarmed childhood friend Khalil by a police officer. Inspired by the Black Lives Matter movement, the novel explores race, police brutality, code-switching, and the courage it takes to speak up."
 amazonUrl: "https://www.amazon.com/dp/0062498533?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/Cui38SNbWHi5Z2NSLio9fg"
 bookshopUrl: "https://bookshop.org/p/books/the-hate-u-give-angie-thomas/6435198?a=2537"
 ---
 

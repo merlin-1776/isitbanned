@@ -28,6 +28,7 @@ banLocations:
 totalChallenges: 104
 description: "A Court of Mist and Fury is the second book in Sarah J. Maas's ACOTAR series, following Feyre as she navigates the aftermath of trauma, discovers new powers, and falls for the mysterious High Lord Rhysand. It contains more explicit romantic content than its predecessor."
 amazonUrl: "https://www.amazon.com/dp/1619634465?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/BQ7V_Xv-HEBwZsjvAyTeCA"
 bookshopUrl: "https://bookshop.org/p/books/a-court-of-mist-and-fury-sarah-j-maas/15504758?a=2537"
 ---
 

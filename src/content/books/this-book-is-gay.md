@@ -32,6 +32,7 @@ banLocations:
 totalChallenges: 142
 description: "This Book Is Gay is a nonfiction guide for LGBTQ+ teens and their allies, covering topics from coming out to safe sex to navigating relationships. Juno Dawson's accessible, sometimes cheeky handbook has been one of the most banned books in America since the recent wave of challenges began."
 amazonUrl: "https://www.amazon.com/dp/1492617830?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/PabGWataRUDdLDsdjvZfWw"
 bookshopUrl: "https://bookshop.org/p/books/this-book-is-gay-juno-dawson/7738211?a=2537"
 ---
 

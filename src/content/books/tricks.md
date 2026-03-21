@@ -33,6 +33,7 @@ banLocations:
 totalChallenges: 172
 description: "Tricks follows five teenagers from different backgrounds whose lives converge as they are drawn into prostitution. Written in Hopkins' signature verse style, the novel explores sexual exploitation, addiction, abuse, and survival with unflinching realism."
 amazonUrl: "https://www.amazon.com/dp/1416950079?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/6XAnzlw-CrPI1qpC1B1JOQ"
 bookshopUrl: "https://bookshop.org/p/books/tricks-ellen-hopkins/6436012?a=2537"
 ---
 

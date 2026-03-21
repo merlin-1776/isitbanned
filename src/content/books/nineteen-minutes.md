@@ -35,6 +35,7 @@ banLocations:
 totalChallenges: 198
 description: "Nineteen Minutes by Jodi Picoult examines a school shooting and its aftermath through multiple perspectives, exploring bullying, social hierarchies, and the lives shattered by nineteen minutes of violence. It was the most banned book in the 2023-24 school year with 98 bans."
 amazonUrl: "https://www.amazon.com/dp/0743496736?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/blCeQJWyqiBTaGHZ6NuaFg"
 bookshopUrl: "https://bookshop.org/p/books/nineteen-minutes-jodi-picoult/6693524?a=2537"
 ---
 

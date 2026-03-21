@@ -29,7 +29,8 @@ banLocations:
 totalChallenges: 38
 description: "Beloved is a Pulitzer Prize-winning novel by Toni Morrison set after the American Civil War. Inspired by the true story of Margaret Garner, it tells the haunting tale of Sethe, an escaped enslaved woman in Ohio, who is visited by the ghost of her dead daughter. The novel confronts the lasting trauma of slavery."
 amazonUrl: "https://www.amazon.com/Beloved-Vintage-International-Toni-Morrison/dp/1400033411?tag=sfbrweb-20"
-bookshopUrl: "https://bookshop.org/p/books/beloved-toni-morrison/6424076"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/HmJy8yFFTGLvYM7tww3gjQ"
+bookshopUrl: "https://bookshop.org/p/books/beloved-toni-morrison/6424076?a=2537"
 ---
 
 Toni Morrison's Pulitzer Prize-winning masterpiece has been a target of book bans and challenges since its publication. Beloved tells the story of Sethe, who escaped slavery but cannot escape its psychological scars. When a mysterious young woman appears at her door, Sethe is forced to confront the most devastating act of her past.

@@ -35,6 +35,7 @@ banLocations:
 totalChallenges: 213
 description: "The Color Purple is Alice Walker's Pulitzer Prize-winning epistolary novel about Celie, a young Black woman in the rural South who endures abuse and oppression but ultimately finds her voice, independence, and capacity for love. It has been challenged continuously since its publication in 1982."
 amazonUrl: "https://www.amazon.com/dp/0156028352?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/YvzRLxzlLL0mWXq0Y24ROg"
 bookshopUrl: "https://bookshop.org/p/books/the-color-purple-alice-walker/6432876?a=2537"
 ---
 

@@ -32,6 +32,7 @@ banLocations:
 totalChallenges: 143
 description: "The Handmaid's Tale is Margaret Atwood's dystopian novel set in Gilead, a totalitarian theocracy that has replaced the United States. Told through the eyes of Offred, a woman forced into reproductive servitude, it explores the intersection of religious extremism, patriarchy, and state power."
 amazonUrl: "https://www.amazon.com/dp/038549081X?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/qTbIN1Rs6Z835Gjxq2sTdQ"
 bookshopUrl: "https://bookshop.org/p/books/the-handmaid-s-tale-margaret-atwood/6436089?a=2537"
 ---
 

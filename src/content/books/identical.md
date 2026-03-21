@@ -32,6 +32,7 @@ banLocations:
 totalChallenges: 154
 description: "Identical is a novel-in-verse about identical twin sisters Kaeleigh and Raeanne, whose seemingly perfect political family hides a nightmare of sexual abuse, addiction, and self-destruction. Hopkins uses alternating perspectives and mirror-image poems to reveal a devastating twist."
 amazonUrl: "https://www.amazon.com/dp/1416950052?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/6XAnzlw-CrNiQAJHesgR1w"
 bookshopUrl: "https://bookshop.org/p/books/identical-ellen-hopkins/6435899?a=2537"
 ---
 

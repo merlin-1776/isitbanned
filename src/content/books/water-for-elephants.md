@@ -28,6 +28,7 @@ banLocations:
 totalChallenges: 132
 description: "Water for Elephants is a historical novel set in a Depression-era traveling circus, following veterinary student Jacob Jankowski as he joins the Benzini Brothers Most Spectacular Show on Earth. The story interweaves romance, animal cruelty, and the brutal realities of circus life."
 amazonUrl: "https://www.amazon.com/dp/1565125606?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/k210dA_EXFn-VgUXDh-ILw"
 bookshopUrl: "https://bookshop.org/p/books/water-for-elephants-sara-gruen/6708232?a=2537"
 ---
 

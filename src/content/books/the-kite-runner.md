@@ -32,6 +32,7 @@ banLocations:
 totalChallenges: 148
 description: "The Kite Runner follows Amir, the son of a wealthy Kabul businessman, and his complicated relationship with Hassan, the son of his father's servant. Spanning decades and continents, it's a story of guilt, redemption, and the devastating impact of secrets against the backdrop of Afghanistan's modern history."
 amazonUrl: "https://www.amazon.com/dp/159463193X?tag=sfbrweb-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/item/Fudr3xWxvfWmllOsEENfwA"
 bookshopUrl: "https://bookshop.org/p/books/the-kite-runner-khaled-hosseini/6669521?a=2537"
 ---
 
