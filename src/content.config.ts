@@ -25,6 +25,7 @@ const books = defineCollection({
 			description: z.string(),
 			amazonUrl: z.string().optional(),
 			bookshopUrl: z.string().optional(),
+			capitalBooksUrl: z.string().optional(),
 		}),
 });
 

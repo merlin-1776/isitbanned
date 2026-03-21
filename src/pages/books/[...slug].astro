@@ -34,6 +34,7 @@ const {
 	totalChallenges,
 	amazonUrl,
 	bookshopUrl,
+	capitalBooksUrl,
 } = book.data;
 
 const uniqueStates = [...new Set(banLocations.map((l) => l.state))];
@@ -109,24 +110,44 @@ const reasonsList = banReasons.join(', ');
 				</div>
 			</section>
 
-			{(bookshopUrl || amazonUrl) && (
-				<section class="buy-section">
-					<h2>Read It Anyway</h2>
-					<p>The best response to a book ban is reading the book.</p>
-					<div class="buy-buttons">
-						{bookshopUrl && (
-							<a href={bookshopUrl} target="_blank" rel="noopener noreferrer" class="buy-btn bookshop">
+			<section class="buy-section">
+				<h2>Read It Anyway</h2>
+				<p>The best response to a book ban is reading the book. Here's where to get it:</p>
+				<div class="buy-options">
+					{capitalBooksUrl && (
+						<div class="buy-option capital">
+							<a href={capitalBooksUrl} target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
+								Buy from Capital Books
+							</a>
+							<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
+						</div>
+					)}
+					{!capitalBooksUrl && (
+						<div class="buy-option capital">
+							<a href="https://www.capitalbooksonk.com" target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
+								Buy from Capital Books
+							</a>
+							<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
+						</div>
+					)}
+					{bookshopUrl && (
+						<div class="buy-option bookshop">
+							<a href={bookshopUrl} target="_blank" rel="noopener noreferrer" class="buy-btn bookshop-btn">
 								Buy on Bookshop.org
 							</a>
-						)}
-						{amazonUrl && (
-							<a href={amazonUrl} target="_blank" rel="noopener noreferrer" class="buy-btn amazon">
+							<p class="buy-pitch">Support indie bookstores. Pick one or help them all.</p>
+						</div>
+					)}
+					{amazonUrl && (
+						<div class="buy-option amazon">
+							<a href={amazonUrl} target="_blank" rel="noopener noreferrer" class="buy-btn amazon-btn">
 								Buy on Amazon
 							</a>
-						)}
-					</div>
-				</section>
-			)}
+							<p class="buy-pitch">Yeah, we know. They're cheap, easy, and you already have an account.</p>
+						</div>
+					)}
+				</div>
+			</section>
 
 			<section class="faq">
 				<h2>Frequently Asked Questions</h2>
@@ -277,23 +298,37 @@ const reasonsList = banReasons.join(', ');
 				color: #fff;
 				padding: 2em;
 				border-radius: 12px;
-				text-align: center;
 				margin-bottom: 2em;
 			}
 			.buy-section h2 {
 				color: #fff;
 				font-size: 1.8em;
 				margin-bottom: 0.3em;
+				text-align: center;
 			}
-			.buy-section p {
+			.buy-section > p {
 				opacity: 0.8;
 				margin-bottom: 1.5em;
+				text-align: center;
 			}
-			.buy-buttons {
-				display: flex;
-				gap: 1em;
-				justify-content: center;
-				flex-wrap: wrap;
+			.buy-options {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+				gap: 1.5em;
+			}
+			.buy-option {
+				background: rgba(255, 255, 255, 0.05);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 10px;
+				padding: 1.5em;
+				text-align: center;
+			}
+			.buy-option .buy-pitch {
+				font-size: 0.85rem;
+				opacity: 0.7;
+				margin: 0.75em 0 0 0;
+				line-height: 1.5;
+				font-style: italic;
 			}
 			.buy-btn {
 				display: inline-block;
@@ -303,21 +338,36 @@ const reasonsList = banReasons.join(', ');
 				text-decoration: none;
 				font-size: 1rem;
 				transition: all 0.2s;
+				width: 100%;
+				box-sizing: border-box;
 			}
-			.buy-btn.bookshop {
+			.capital-btn {
+				background: #16a34a;
+				color: #fff;
+			}
+			.capital-btn:hover {
+				background: #15803d;
+				color: #fff;
+			}
+			.bookshop-btn {
 				background: var(--accent);
 				color: #fff;
 			}
-			.buy-btn.bookshop:hover {
+			.bookshop-btn:hover {
 				background: var(--accent-dark);
 				color: #fff;
 			}
-			.buy-btn.amazon {
+			.amazon-btn {
 				background: #f59e0b;
 				color: #111;
 			}
-			.buy-btn.amazon:hover {
+			.amazon-btn:hover {
 				background: #d97706;
+			}
+			@media (max-width: 720px) {
+				.buy-options {
+					grid-template-columns: 1fr;
+				}
 			}
 			.faq {
 				margin-bottom: 2em;
