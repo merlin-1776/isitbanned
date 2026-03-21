@@ -14,7 +14,7 @@ const books = (await getCollection('books')).sort(
 const allReasons = [...new Set(books.flatMap((b) => b.data.banReasons))].sort();
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io';
-const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+const basePath = '';
 
 const collectionSchema = {
 	"@context": "https://schema.org",

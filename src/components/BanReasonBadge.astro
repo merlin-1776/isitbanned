@@ -20,7 +20,7 @@ const colorMap: Record<string, string> = {
 
 const color = colorMap[reason] || '#6b7280';
 const slug = reason.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-const href = `${import.meta.env.BASE_URL}/reasons/${slug}`;
+const href = `/reasons/${slug}`;
 ---
 
 {linked ? (

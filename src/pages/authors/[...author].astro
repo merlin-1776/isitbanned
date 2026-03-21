@@ -42,7 +42,7 @@ const breadcrumbSchema = {
 			"@type": "ListItem",
 			"position": 1,
 			"name": "Home",
-			"item": `${Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io'}${import.meta.env.BASE_URL}/`
+			"item": `${Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io'}/`
 		},
 		{
 			"@type": "ListItem",
@@ -79,7 +79,7 @@ const personSchema = {
 		<Header />
 		<main>
 			<nav class="breadcrumb">
-				<a href={`${import.meta.env.BASE_URL}/`}>Home</a> →
+				<a href={`/`}>Home</a> →
 				<span>{authorName}</span>
 			</nav>
 

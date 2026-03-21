@@ -34,7 +34,7 @@ const { reasonName, books } = Astro.props;
 const totalChallenges = books.reduce((sum: number, b: any) => sum + b.data.totalChallenges, 0);
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io';
-const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+const basePath = '';
 
 const breadcrumbSchema = {
 	"@context": "https://schema.org",
@@ -81,7 +81,7 @@ const collectionSchema = {
 		<Header />
 		<main>
 			<nav class="breadcrumb">
-				<a href={`${import.meta.env.BASE_URL}/`}>Home</a> →
+				<a href={`/`}>Home</a> →
 				<span>{reasonName}</span>
 			</nav>
 
