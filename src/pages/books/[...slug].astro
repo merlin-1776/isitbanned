@@ -4,6 +4,7 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import BanReasonBadge from '../../components/BanReasonBadge.astro';
 import BookSchema from '../../components/BookSchema.astro';
+import Sidebar from '../../components/Sidebar.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection, render } from 'astro:content';
 
@@ -63,6 +64,7 @@ const reasonsList = banReasons.join(', ');
 	</head>
 	<body>
 		<Header />
+		<div class="page-layout">
 		<main>
 			<nav class="breadcrumb">
 				<a href={`${import.meta.env.BASE_URL}/`}>Home</a> →
@@ -134,7 +136,7 @@ const reasonsList = banReasons.join(', ');
 					)}
 					{!capitalBooksUrl && (
 						<div class="buy-option capital">
-							<a href="https://www.capitalbooksonk.com" target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
+							<a href="https://capitalbooksonk.com" target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
 								Buy from Capital Books
 							</a>
 							<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
@@ -178,9 +180,25 @@ const reasonsList = banReasons.join(', ');
 				</div>
 			</section>
 		</main>
+		<Sidebar />
+		</div>
 		<Footer />
 
 		<style>
+			.page-layout {
+				display: flex;
+				gap: 2em;
+				max-width: 1280px;
+				margin: 0 auto;
+				padding: 2em 1em;
+			}
+			main {
+				flex: 1;
+				min-width: 0;
+				width: auto;
+				max-width: none;
+				padding: 0;
+			}
 			.breadcrumb {
 				margin-bottom: 2em;
 				font-size: 0.85rem;
@@ -394,6 +412,11 @@ const reasonsList = banReasons.join(', ');
 			}
 			.amazon-btn:hover {
 				background: #d97706;
+			}
+			@media (max-width: 960px) {
+				.page-layout {
+					flex-direction: column;
+				}
 			}
 			@media (max-width: 720px) {
 				.buy-options {

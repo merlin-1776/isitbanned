@@ -1,0 +1,152 @@
+---
+import { getCollection } from 'astro:content';
+
+const books = await getCollection('books');
+
+// Build reason counts
+const reasonCounts = new Map<string, number>();
+for (const book of books) {
+	for (const reason of book.data.banReasons) {
+		reasonCounts.set(reason, (reasonCounts.get(reason) || 0) + 1);
+	}
+}
+const sortedReasons = Array.from(reasonCounts.entries()).sort((a, b) => b[1] - a[1]);
+
+// Build state counts
+const stateCounts = new Map<string, number>();
+for (const book of books) {
+	const states = new Set(book.data.banLocations.map((l) => l.state));
+	for (const state of states) {
+		stateCounts.set(state, (stateCounts.get(state) || 0) + 1);
+	}
+}
+const sortedStates = Array.from(stateCounts.entries()).sort((a, b) => b[1] - a[1]);
+
+function slugify(text: string) {
+	return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
+const basePath = import.meta.env.BASE_URL;
+
+const reasonColors: Record<string, string> = {
+	'Sexual Content': '#dc2626',
+	'LGBTQ+ Themes': '#7c3aed',
+	'Racial Content': '#d97706',
+	'Violence': '#b91c1c',
+	'Religious Objections': '#0369a1',
+	'Political Content': '#4338ca',
+	'Language': '#c2410c',
+	'Drug/Alcohol Use': '#15803d',
+	'Age Inappropriateness': '#be185d',
+};
+---
+
+<aside class="sidebar">
+	<div class="sidebar-section">
+		<h3>Why Books Get Banned</h3>
+		<ul class="sidebar-list reasons-list">
+			{sortedReasons.map(([reason, count]) => (
+				<li>
+					<a href={`${basePath}/reasons/${slugify(reason)}`}>
+						<span class="reason-dot" style={`background: ${reasonColors[reason] || '#6b7280'}`}></span>
+						<span class="sidebar-label">{reason}</span>
+						<span class="sidebar-count">{count}</span>
+					</a>
+				</li>
+			))}
+		</ul>
+	</div>
+
+	<div class="sidebar-section">
+		<h3>Bans by State</h3>
+		<ul class="sidebar-list states-list">
+			{sortedStates.map(([state, count]) => (
+				<li>
+					<a href={`${basePath}/states/${slugify(state)}`}>
+						<span class="sidebar-label">{state}</span>
+						<span class="sidebar-count">{count}</span>
+					</a>
+				</li>
+			))}
+		</ul>
+	</div>
+</aside>
+
+<style>
+	.sidebar {
+		width: 260px;
+		flex-shrink: 0;
+	}
+	.sidebar-section {
+		background: #fff;
+		border: 2px solid rgb(var(--gray-light));
+		border-radius: 12px;
+		padding: 1.25em;
+		margin-bottom: 1.5em;
+	}
+	.sidebar-section h3 {
+		font-size: 0.95rem;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: rgb(var(--gray-dark));
+		margin: 0 0 0.75em 0;
+		padding-bottom: 0.5em;
+		border-bottom: 2px solid rgb(var(--gray-light));
+	}
+	.sidebar-list {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.sidebar-list li {
+		margin: 0;
+	}
+	.sidebar-list a {
+		display: flex;
+		align-items: center;
+		gap: 0.5em;
+		padding: 0.4em 0.5em;
+		border-radius: 6px;
+		text-decoration: none;
+		color: rgb(var(--gray-dark));
+		font-size: 0.85rem;
+		transition: background-color 0.15s;
+	}
+	.sidebar-list a:hover {
+		background: rgba(220, 38, 38, 0.05);
+		color: var(--accent);
+	}
+	.reason-dot {
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		flex-shrink: 0;
+	}
+	.sidebar-label {
+		flex: 1;
+		font-weight: 600;
+	}
+	.sidebar-count {
+		background: rgb(var(--gray-light));
+		color: rgb(var(--gray));
+		font-size: 0.75rem;
+		font-weight: 700;
+		padding: 0.15em 0.5em;
+		border-radius: 9999px;
+		min-width: 1.5em;
+		text-align: center;
+	}
+	@media (max-width: 960px) {
+		.sidebar {
+			width: 100%;
+		}
+		.sidebar-section {
+			margin-bottom: 1em;
+		}
+		.states-list {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			gap: 0;
+		}
+	}
+</style>

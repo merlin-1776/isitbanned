@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import BookCard from '../../components/BookCard.astro';
+import Sidebar from '../../components/Sidebar.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
 
@@ -55,33 +56,36 @@ const breadcrumbSchema = {
 	</head>
 	<body>
 		<Header />
-		<main>
-			<h1>Banned Books Database</h1>
-			<p class="page-intro">Every book on this list has been banned or challenged in the United States. Browse, filter, and read them anyway.</p>
+		<div class="page-layout">
+			<main>
+				<h1>Banned Books Database</h1>
+				<p class="page-intro">Every book on this list has been banned or challenged in the United States. Browse, filter, and read them anyway.</p>
 
-			<div class="filters">
-				<span class="filter-label">Filter by reason:</span>
-				<button class="filter-btn active" data-reason="all">All</button>
-				{allReasons.map((reason) => (
-					<button class="filter-btn" data-reason={reason}>{reason}</button>
-				))}
-			</div>
+				<div class="filters">
+					<span class="filter-label">Filter by reason:</span>
+					<button class="filter-btn active" data-reason="all">All</button>
+					{allReasons.map((reason) => (
+						<button class="filter-btn" data-reason={reason}>{reason}</button>
+					))}
+				</div>
 
-			<div class="books-grid" id="books-grid">
-				{books.map((book) => (
-					<div class="book-item" data-reasons={JSON.stringify(book.data.banReasons)}>
-						<BookCard
-							title={book.data.title}
-							slug={book.data.slug}
-							author={book.data.author}
-							totalChallenges={book.data.totalChallenges}
-							banReasons={book.data.banReasons}
-							description={book.data.description}
-						/>
-					</div>
-				))}
-			</div>
-		</main>
+				<div class="books-grid" id="books-grid">
+					{books.map((book) => (
+						<div class="book-item" data-reasons={JSON.stringify(book.data.banReasons)}>
+							<BookCard
+								title={book.data.title}
+								slug={book.data.slug}
+								author={book.data.author}
+								totalChallenges={book.data.totalChallenges}
+								banReasons={book.data.banReasons}
+								description={book.data.description}
+							/>
+						</div>
+					))}
+				</div>
+			</main>
+			<Sidebar />
+		</div>
 		<Footer />
 
 		<script>
@@ -103,6 +107,17 @@ const breadcrumbSchema = {
 		</script>
 
 		<style>
+			.page-layout {
+				display: flex;
+				gap: 2em;
+				max-width: 1280px;
+				margin: 0 auto;
+				padding: 2em 1em;
+			}
+			main {
+				flex: 1;
+				min-width: 0;
+			}
 			h1 {
 				font-size: 2.5em;
 				margin-bottom: 0.3em;
@@ -149,6 +164,11 @@ const breadcrumbSchema = {
 				display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
 				gap: 1.5em;
+			}
+			@media (max-width: 960px) {
+				.page-layout {
+					flex-direction: column;
+				}
 			}
 			@media (max-width: 720px) {
 				h1 {
