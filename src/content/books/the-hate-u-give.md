@@ -34,8 +34,8 @@ banLocations:
     year: 2023
 totalChallenges: 185
 description: "The Hate U Give follows sixteen-year-old Starr Carter, who witnesses the fatal shooting of her unarmed childhood friend Khalil by a police officer. Inspired by the Black Lives Matter movement, the novel explores race, police brutality, code-switching, and the courage it takes to speak up."
-amazonUrl: "https://www.amazon.com/dp/0062498533?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/Cui38SNbWHi5Z2NSLio9fg"
+amazonUrl: "https://www.amazon.com/dp/0062498533/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062498533/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062498533"
 ---
 

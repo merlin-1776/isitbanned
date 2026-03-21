@@ -31,8 +31,8 @@ banLocations:
     year: 2024
 totalChallenges: 138
 description: "Stamped is a young adult adaptation of Ibram X. Kendi's Stamped from the Beginning, remixed by Jason Reynolds to trace the history of racist ideas in America from the 1400s to the present. It has been banned for its discussion of systemic racism and its antiracist framework."
-amazonUrl: "https://www.amazon.com/dp/0316453692?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/-lOcjb5TGYLri79IhIjZyw"
+amazonUrl: "https://www.amazon.com/dp/0316453692/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316453691/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316453691"
 ---
 

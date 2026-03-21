@@ -32,8 +32,8 @@ banLocations:
     year: 2024
 totalChallenges: 172
 description: "Tricks follows five teenagers from different backgrounds whose lives converge as they are drawn into prostitution. Written in Hopkins' signature verse style, the novel explores sexual exploitation, addiction, abuse, and survival with unflinching realism."
-amazonUrl: "https://www.amazon.com/dp/1416950079?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/6XAnzlw-CrPI1qpC1B1JOQ"
+amazonUrl: "https://www.amazon.com/dp/1416950079/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950073/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781416950073"
 ---
 

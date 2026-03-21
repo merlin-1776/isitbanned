@@ -33,8 +33,8 @@ banLocations:
     year: 2024
 totalChallenges: 187
 description: "The Absolutely True Diary of a Part-Time Indian is Sherman Alexie's semi-autobiographical novel about Arnold Spirit Jr., a Spokane Indian teenager who transfers from his reservation school to an all-white high school, navigating poverty, grief, racism, and identity with humor and cartoons."
-amazonUrl: "https://www.amazon.com/dp/0316013692?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/cd4Cey4mXNGFwUyYdRUTqQ"
+amazonUrl: "https://www.amazon.com/dp/0316013692/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316013680/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316013680"
 ---
 

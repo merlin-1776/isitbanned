@@ -31,8 +31,8 @@ banLocations:
     year: 2023
 totalChallenges: 148
 description: "The Kite Runner follows Amir, the son of a wealthy Kabul businessman, and his complicated relationship with Hassan, the son of his father's servant. Spanning decades and continents, it's a story of guilt, redemption, and the devastating impact of secrets against the backdrop of Afghanistan's modern history."
-amazonUrl: "https://www.amazon.com/dp/159463193X?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/Fudr3xWxvfWmllOsEENfwA"
+amazonUrl: "https://www.amazon.com/dp/159463193X/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781594631931/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781594631931"
 ---
 

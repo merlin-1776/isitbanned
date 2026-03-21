@@ -27,8 +27,8 @@ banLocations:
     year: 2023
 totalChallenges: 98
 description: "Me and Earl and the Dying Girl is a darkly comic young adult novel about Greg, a socially awkward high school senior who makes amateur films with his friend Earl and is forced by his mother to befriend Rachel, a classmate with leukemia. It was adapted into a Sundance award-winning film."
-amazonUrl: "https://www.amazon.com/dp/1419701762?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/jpo2KjG8N1Xyd1OnzeFw8g"
+amazonUrl: "https://www.amazon.com/dp/1419701762/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781419701764/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781419701764"
 ---
 

@@ -29,8 +29,8 @@ banLocations:
     sourceUrl: "https://www.kcur.org/education/2023/07/15/missouri-nixa-book-challenges/"
 totalChallenges: 153
 description: "Brave New World is Aldous Huxley's dystopian novel depicting a future society where humans are genetically engineered, conditioned into social castes, and kept docile through a pleasure drug called soma. Published in 1932, it remains a prescient critique of consumerism, technology, and the surrender of freedom for comfort."
-amazonUrl: "https://www.amazon.com/dp/0060850523?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/rkA3nXS2J2b5VcklVqnLDA"
+amazonUrl: "https://www.amazon.com/dp/0060850523/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060850524/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780060850524"
 ---
 

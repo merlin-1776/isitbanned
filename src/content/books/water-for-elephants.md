@@ -27,8 +27,8 @@ banLocations:
     year: 2024
 totalChallenges: 132
 description: "Water for Elephants is a historical novel set in a Depression-era traveling circus, following veterinary student Jacob Jankowski as he joins the Benzini Brothers Most Spectacular Show on Earth. The story interweaves romance, animal cruelty, and the brutal realities of circus life."
-amazonUrl: "https://www.amazon.com/dp/1565125606?tag=sfbrweb-20"
-capitalBooksUrl: "https://store.capitalbooksonk.com/item/k210dA_EXFn-VgUXDh-ILw"
+amazonUrl: "https://www.amazon.com/dp/1565125606/ref=nosim?tag=isitbanned-20"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781565125605/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781565125605"
 ---
 
