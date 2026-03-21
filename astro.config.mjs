@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://merlin-1776.github.io',
-	base: '/isitbanned',
+	site: 'https://isitbanned.com',
+	base: '/',
 	integrations: [mdx(), sitemap()],
 });
