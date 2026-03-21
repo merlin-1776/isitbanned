@@ -24,7 +24,7 @@ const topReasons = banReasons.slice(0, 3);
 		<p class="author">by {author}</p>
 		<p class="description">{description.slice(0, 120)}...</p>
 		<div class="reasons">
-			{topReasons.map((reason) => <BanReasonBadge reason={reason} />)}
+			{topReasons.map((reason) => <BanReasonBadge reason={reason} linked={false} />)}
 		</div>
 	</div>
 </a>
