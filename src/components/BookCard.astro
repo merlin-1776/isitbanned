@@ -14,7 +14,7 @@ const { title, slug, author, totalChallenges, banReasons, description } = Astro.
 const topReasons = banReasons.slice(0, 3);
 ---
 
-<a href={`${import.meta.env.BASE_URL}books/${slug}`} class="book-card">
+<a href={`${import.meta.env.BASE_URL}/books/${slug}`} class="book-card">
 	<div class="card-content">
 		<div class="card-header">
 			<span class="banned-tag">BANNED</span>
