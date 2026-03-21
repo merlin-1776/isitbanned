@@ -12,7 +12,7 @@ export async function GET(context) {
 			title: `${book.data.title} - BANNED`,
 			pubDate: book.data.datePublished ? new Date(book.data.datePublished) : new Date(),
 			description: book.data.description,
-			link: `/isitbanned/books/${book.data.slug}`,
+			link: `/books/${book.data.slug}`,
 		})),
 	});
 }
