@@ -29,7 +29,7 @@ banLocations:
 totalChallenges: 198
 description: "Slaughterhouse-Five is Kurt Vonnegut's anti-war masterpiece about Billy Pilgrim, who becomes 'unstuck in time' and experiences his life out of order, including his survival of the firebombing of Dresden as a prisoner of war. It has been challenged and banned continuously since 1972."
 amazonUrl: "https://www.amazon.com/dp/0385333484?tag=sfbrweb-20"
-bookshopUrl: "https://bookshop.org/p/books/slaughterhouse-five-kurt-vonnegut/6432654?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780385333481"
 ---
 
 Slaughterhouse-Five follows Billy Pilgrim, an optometrist who has become "unstuck in time," jumping between moments of his life including his time as a prisoner of war in Dresden during the Allied firebombing, his mundane postwar existence in suburban New York, and his alleged abduction by aliens from the planet Tralfamadore. Vonnegut's fragmented, darkly comic narrative structure mirrors the psychological damage of war, and his repeated refrain "So it goes" after each mention of death became one of the most recognizable phrases in American literature. The novel draws from Vonnegut's own experience surviving the Dresden bombing as a POW.

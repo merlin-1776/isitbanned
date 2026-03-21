@@ -33,7 +33,7 @@ totalChallenges: 146
 description: "Out of Darkness is a historical novel set in 1937 East Texas, interweaving a forbidden interracial love story between a Mexican-American girl and a Black boy with the real-life New London school explosion that killed nearly 300 people. It won the Américas Award for its portrayal of race and injustice."
 amazonUrl: "https://www.amazon.com/dp/1467742023?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/rW52X8wnYyX_nrjRy90kbw"
-bookshopUrl: "https://bookshop.org/p/books/out-of-darkness-ashley-hope-perez/8557831?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781467742023"
 ---
 
 Out of Darkness is set in the segregated oil-boom town of New London, Texas in 1937, where Naomi, a Mexican-American teenager, and Wash, a Black teenager, form a forbidden connection across the rigid racial boundaries of the Jim Crow South. Pérez interweaves their love story with the true history of the New London school explosion, one of the deadliest disasters in American history, creating a novel that examines how systemic racism shapes every aspect of life, from who gets to love whom to who gets to survive. The book also unflinchingly depicts the sexual abuse Naomi endures at the hands of her white stepfather.

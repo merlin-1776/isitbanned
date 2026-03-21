@@ -29,7 +29,7 @@ totalChallenges: 132
 description: "Water for Elephants is a historical novel set in a Depression-era traveling circus, following veterinary student Jacob Jankowski as he joins the Benzini Brothers Most Spectacular Show on Earth. The story interweaves romance, animal cruelty, and the brutal realities of circus life."
 amazonUrl: "https://www.amazon.com/dp/1565125606?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/k210dA_EXFn-VgUXDh-ILw"
-bookshopUrl: "https://bookshop.org/p/books/water-for-elephants-sara-gruen/6708232?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781565125605"
 ---
 
 Water for Elephants tells the story of Jacob Jankowski, a Cornell veterinary student who, after a family tragedy, hops a train and lands in the chaotic world of a Depression-era traveling circus. He falls for Marlena, the beautiful equestrian star married to the show's volatile, possibly psychopathic animal trainer August. Gruen's richly researched novel captured readers with its vivid recreation of circus life, its love story, and its unforgettable elephant, Rosie. The book spent over a year on the New York Times bestseller list and was adapted into a 2011 film.

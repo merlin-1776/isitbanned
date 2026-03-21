@@ -31,7 +31,7 @@ totalChallenges: 153
 description: "Brave New World is Aldous Huxley's dystopian novel depicting a future society where humans are genetically engineered, conditioned into social castes, and kept docile through a pleasure drug called soma. Published in 1932, it remains a prescient critique of consumerism, technology, and the surrender of freedom for comfort."
 amazonUrl: "https://www.amazon.com/dp/0060850523?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/rkA3nXS2J2b5VcklVqnLDA"
-bookshopUrl: "https://bookshop.org/p/books/brave-new-world-aldous-huxley/6432712?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780060850524"
 ---
 
 Brave New World presents a future where humanity has been engineered for stability at the cost of everything that makes life meaningful. Citizens are decanted from artificial wombs, conditioned from birth to accept their assigned caste, and kept compliant with a euphoric drug called soma and a culture of mandatory promiscuity. When Bernard Marx, a misfit Alpha, brings a "savage" named John from a reservation into this sterile paradise, the collision between natural human feeling and manufactured happiness exposes the horror beneath the World State's glossy surface. Huxley's 1932 novel has proven even more prophetic than Orwell's 1984 in predicting how societies might surrender freedom willingly for pleasure rather than under coercion.

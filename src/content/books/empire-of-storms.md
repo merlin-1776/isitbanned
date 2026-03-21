@@ -28,7 +28,7 @@ banLocations:
 totalChallenges: 96
 description: "Empire of Storms is the fifth book in Sarah J. Maas's Throne of Glass fantasy series, following assassin-queen Aelin Galathynius as she gathers allies for a war against a dark king. The book contains explicit sexual content and graphic battle sequences."
 amazonUrl: "https://www.amazon.com/dp/1619636077?tag=sfbrweb-20"
-bookshopUrl: "https://bookshop.org/p/books/empire-of-storms-sarah-j-maas/8131576?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781619636071"
 ---
 
 Empire of Storms is the fifth installment in Sarah J. Maas's Throne of Glass series, a sprawling fantasy saga that follows Aelin Galathynius, an assassin turned queen, as she fights to reclaim her kingdom and defeat the dark forces threatening her world. By this point in the series, the characters are older and the romantic content has escalated significantly, including an explicit sex scene that has been the primary target of challenges. The book also features intense battle sequences and themes of sacrifice and destiny that have made the series a global bestseller.

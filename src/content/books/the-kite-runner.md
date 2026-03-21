@@ -33,7 +33,7 @@ totalChallenges: 148
 description: "The Kite Runner follows Amir, the son of a wealthy Kabul businessman, and his complicated relationship with Hassan, the son of his father's servant. Spanning decades and continents, it's a story of guilt, redemption, and the devastating impact of secrets against the backdrop of Afghanistan's modern history."
 amazonUrl: "https://www.amazon.com/dp/159463193X?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/Fudr3xWxvfWmllOsEENfwA"
-bookshopUrl: "https://bookshop.org/p/books/the-kite-runner-khaled-hosseini/6669521?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781594631931"
 ---
 
 The Kite Runner begins in 1970s Kabul, where Amir and Hassan, boys from different social classes, share a childhood defined by kite-fighting tournaments and an unspoken bond. When Amir witnesses Hassan's sexual assault and does nothing, the guilt reshapes his entire life. The novel follows Amir through the Soviet invasion, exile in America, and an eventual return to Taliban-controlled Afghanistan to rescue Hassan's orphaned son. Hosseini's debut became a global phenomenon, selling over 12 million copies and bringing the complexities of Afghan culture and history to millions of Western readers.

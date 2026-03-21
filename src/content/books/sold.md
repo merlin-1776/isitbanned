@@ -32,7 +32,7 @@ totalChallenges: 162
 description: "Sold is a novel-in-verse about Lakshmi, a thirteen-year-old girl from Nepal who is trafficked and sold into sexual slavery in India. Written with devastating clarity, it exposes the realities of human trafficking while centering the resilience of its young protagonist."
 amazonUrl: "https://www.amazon.com/dp/0786851716?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/kfXc_pFfKfLwRrjtuOj81Q"
-bookshopUrl: "https://bookshop.org/p/books/sold-patricia-mccormick/6449293?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780786851713"
 ---
 
 Sold tells the story of Lakshmi, a thirteen-year-old girl from a poor mountain village in Nepal, who believes she is being sent to work as a maid in the city. Instead, she is sold into a brothel in Kolkata, India. Written in spare, devastating verse, McCormick's novel follows Lakshmi through her captivity, depicting both the horrors of sexual slavery and the small acts of courage and connection that sustain her. The book grew from McCormick's own reporting trips to the red-light districts of Kolkata.

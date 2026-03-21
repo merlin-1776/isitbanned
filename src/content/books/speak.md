@@ -33,7 +33,7 @@ totalChallenges: 161
 description: "Speak is Laurie Halse Anderson's award-winning novel about Melinda Sordino, a high school freshman who is ostracized after calling the police at a summer party. As the story unfolds, readers learn the truth: Melinda was raped, and her silence is slowly destroying her."
 amazonUrl: "https://www.amazon.com/dp/0312674392?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/PC1GwWPFAh9w-SAh0TFAyw"
-bookshopUrl: "https://bookshop.org/p/books/speak-laurie-halse-anderson/6435543?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780312674397"
 ---
 
 Speak follows Melinda Sordino through her nightmarish freshman year at Merryweather High School. She called the police at a summer party and is now universally despised by her classmates, but no one knows why she made the call, because Melinda has almost completely stopped speaking. Through her sardonic inner monologue and her art class projects, the truth gradually emerges: Melinda was raped at the party by an upperclassman, and her inability to tell anyone is consuming her. Anderson's novel is a landmark of young adult literature, credited with opening conversations about sexual assault and the importance of believing survivors.

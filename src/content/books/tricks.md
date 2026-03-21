@@ -34,7 +34,7 @@ totalChallenges: 172
 description: "Tricks follows five teenagers from different backgrounds whose lives converge as they are drawn into prostitution. Written in Hopkins' signature verse style, the novel explores sexual exploitation, addiction, abuse, and survival with unflinching realism."
 amazonUrl: "https://www.amazon.com/dp/1416950079?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/6XAnzlw-CrPI1qpC1B1JOQ"
-bookshopUrl: "https://bookshop.org/p/books/tricks-ellen-hopkins/6436012?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781416950073"
 ---
 
 Tricks weaves together the stories of five teenagers: Eden, a pastor's daughter; Seth, a gay teen thrown out by his father; Whitney, a model lured by promises of fame; Ginger, escaping an abusive home; and Cody, a gambler chasing a losing streak. Their paths converge in Las Vegas, where each ends up in prostitution through different circumstances but a shared vulnerability. Hopkins' verse novel is over 600 pages of interlocking narratives that build to a shattering conclusion, refusing to look away from the realities of sexual exploitation and the systems that enable it.

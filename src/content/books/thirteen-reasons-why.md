@@ -34,7 +34,7 @@ totalChallenges: 155
 description: "Thirteen Reasons Why follows high school student Clay Jensen as he listens to cassette tapes recorded by Hannah Baker, a classmate who died by suicide, detailing the thirteen people she holds responsible. The novel has been challenged for its depiction of suicide, sexual assault, and substance use."
 amazonUrl: "https://www.amazon.com/dp/0451478290?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/K-li6NXAP9rq7yMUizaLvg"
-bookshopUrl: "https://bookshop.org/p/books/thirteen-reasons-why-jay-asher/6435287?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780451478290"
 ---
 
 Thirteen Reasons Why begins with Clay Jensen receiving a package of cassette tapes recorded by Hannah Baker, a classmate who recently took her own life. Each side of each tape is dedicated to a person Hannah says played a role in her decision, and Clay spends a long night listening, walking through the town, and visiting the locations Hannah describes. Asher's novel confronts bullying, sexual assault, and the cascading effects of cruelty with a structure that keeps readers hooked through mounting dread.

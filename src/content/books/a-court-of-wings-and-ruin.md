@@ -28,7 +28,7 @@ banLocations:
 totalChallenges: 102
 description: "A Court of Wings and Ruin is the third book in Sarah J. Maas's ACOTAR series, following Feyre as she leads a dangerous mission against the villainous King of Hybern while navigating her powers and her relationship with Rhysand. It features explicit romance and epic fantasy warfare."
 amazonUrl: "https://www.amazon.com/dp/1619634496?tag=sfbrweb-20"
-bookshopUrl: "https://bookshop.org/p/books/a-court-of-wings-and-ruin-sarah-j-maas/15504759?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781619634497"
 ---
 
 A Court of Wings and Ruin brings the first arc of the ACOTAR series to a climactic conclusion. Feyre infiltrates the Spring Court as a spy, then rallies the divided High Lords of Prythian to stand against the King of Hybern, who threatens to destroy the wall between the faerie and human realms. The book combines large-scale fantasy warfare with intimate character moments and explicit romantic scenes, and its 700-page length gives Maas room to resolve the complex political and personal storylines she's built across the trilogy. Fans consider it one of the strongest entries in the series.

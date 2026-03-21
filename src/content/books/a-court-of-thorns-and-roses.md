@@ -29,7 +29,7 @@ totalChallenges: 108
 description: "A Court of Thorns and Roses is a fantasy romance retelling of Beauty and the Beast, following huntress Feyre as she's taken to a magical faerie land. The first book in Sarah J. Maas's massively popular series has been banned for its sexual content and violence."
 amazonUrl: "https://www.amazon.com/dp/1619635186?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/BQ7V_Xv-HECNPywwbEvqxg"
-bookshopUrl: "https://bookshop.org/p/books/a-court-of-thorns-and-roses-sarah-j-maas/15504757?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781619635180"
 ---
 
 A Court of Thorns and Roses reimagines Beauty and the Beast in a world of deadly faerie courts and ancient magic. Feyre, a mortal huntress struggling to feed her family, kills a wolf in the woods that turns out to be a faerie, and is dragged across the magical wall separating the human and fae realms as punishment. What follows is a story of captivity turning to alliance turning to love, as Feyre discovers that a dark curse threatens both worlds. The series became a publishing juggernaut, selling tens of millions of copies and dominating BookTok.

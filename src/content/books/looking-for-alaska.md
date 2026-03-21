@@ -34,7 +34,7 @@ totalChallenges: 189
 description: "Looking for Alaska is John Green's debut novel about a teenager who enrolls at a boarding school and falls for the brilliant, self-destructive Alaska Young. The book has faced persistent challenges for a brief oral sex scene and depictions of underage drinking and smoking."
 amazonUrl: "https://www.amazon.com/dp/0142402516?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/YbuqOsBAiIp4ROxpFKvEKg"
-bookshopUrl: "https://bookshop.org/p/books/looking-for-alaska-john-green/6708078?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780142402511"
 ---
 
 Looking for Alaska follows Miles "Pudge" Halter as he leaves his friendless existence in Florida for Culver Creek boarding school in Alabama, searching for what the dying poet François Rabelais called "the Great Perhaps." There he meets Alaska Young, a force of nature who reads voraciously, drinks too much, and keeps everyone around her off-balance. The novel is split into "before" and "after" a devastating event that forces Miles to confront loss, guilt, and the impossibility of truly knowing another person.

@@ -36,7 +36,7 @@ totalChallenges: 213
 description: "The Color Purple is Alice Walker's Pulitzer Prize-winning epistolary novel about Celie, a young Black woman in the rural South who endures abuse and oppression but ultimately finds her voice, independence, and capacity for love. It has been challenged continuously since its publication in 1982."
 amazonUrl: "https://www.amazon.com/dp/0156028352?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/YvzRLxzlLL0mWXq0Y24ROg"
-bookshopUrl: "https://bookshop.org/p/books/the-color-purple-alice-walker/6432876?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9780156028356"
 ---
 
 The Color Purple tells the story of Celie, a poor Black woman in 1930s Georgia who has been abused by her father and married off to a man she calls "Mister" who treats her as property. Through letters to God and eventually to her sister Nettie, Celie chronicles her journey from silent suffering to self-discovery, aided by the fierce blues singer Shug Avery, who becomes her lover and liberator. Walker's novel won both the Pulitzer Prize and the National Book Award, was adapted into a Steven Spielberg film and a Broadway musical, and remains one of the most important works of American literature.

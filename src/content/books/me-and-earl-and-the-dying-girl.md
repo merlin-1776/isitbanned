@@ -29,7 +29,7 @@ totalChallenges: 98
 description: "Me and Earl and the Dying Girl is a darkly comic young adult novel about Greg, a socially awkward high school senior who makes amateur films with his friend Earl and is forced by his mother to befriend Rachel, a classmate with leukemia. It was adapted into a Sundance award-winning film."
 amazonUrl: "https://www.amazon.com/dp/1419701762?tag=sfbrweb-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/item/jpo2KjG8N1Xyd1OnzeFw8g"
-bookshopUrl: "https://bookshop.org/p/books/me-and-earl-and-the-dying-girl-revised-edition-jesse-andrews/6435472?a=2537"
+bookshopUrl: "https://bookshop.org/a/2537/9781419701764"
 ---
 
 Me and Earl and the Dying Girl subverts every expectation of the "teen cancer book" genre. Greg Gaines is a self-deprecating narrator who survives high school by being semi-invisible, makes terrible homemade movies with his best friend Earl, and gets roped into spending time with Rachel, who has leukemia. The novel is deliberately awkward, frequently hilarious, and refuses the sentimental beats readers expect. Andrews' prose captures the authentic voice of a teenager who uses humor as armor while slowly, reluctantly learning that caring about people is worth the risk of losing them.
