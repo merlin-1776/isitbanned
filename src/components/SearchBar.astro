@@ -1,0 +1,143 @@
+---
+interface Props {
+	books: Array<{
+		title: string;
+		slug: string;
+		author: string;
+		totalChallenges: number;
+		banReasons: string[];
+		description: string;
+	}>;
+}
+
+const { books } = Astro.props;
+const basePath = import.meta.env.BASE_URL;
+---
+
+<div class="search-container">
+	<div class="search-wrapper">
+		<input
+			type="text"
+			id="book-search"
+			placeholder="Search for a book... Is it banned?"
+			autocomplete="off"
+		/>
+		<div id="search-results" class="search-results" style="display:none;"></div>
+	</div>
+</div>
+
+<script define:vars={{ books, basePath }}>
+	const input = document.getElementById('book-search');
+	const results = document.getElementById('search-results');
+
+	input.addEventListener('input', () => {
+		const query = input.value.toLowerCase().trim();
+		if (query.length < 2) {
+			results.style.display = 'none';
+			return;
+		}
+
+		const matches = books.filter(
+			(b) =>
+				b.title.toLowerCase().includes(query) ||
+				b.author.toLowerCase().includes(query)
+		);
+
+		if (matches.length === 0) {
+			results.innerHTML = '<div class="search-item no-result">No books found. Try another search.</div>';
+		} else {
+			results.innerHTML = matches
+				.map(
+					(b) =>
+						`<a href="${basePath}books/${b.slug}" class="search-item">
+							<span class="search-title">${b.title}</span>
+							<span class="search-author">by ${b.author}</span>
+							<span class="search-badge">BANNED</span>
+						</a>`
+				)
+				.join('');
+		}
+		results.style.display = 'block';
+	});
+
+	document.addEventListener('click', (e) => {
+		if (!e.target.closest('.search-wrapper')) {
+			results.style.display = 'none';
+		}
+	});
+</script>
+
+<style>
+	.search-container {
+		max-width: 600px;
+		margin: 0 auto;
+	}
+	.search-wrapper {
+		position: relative;
+	}
+	#book-search {
+		width: 100%;
+		padding: 1em 1.5em;
+		font-size: 1.2rem;
+		border: 3px solid rgb(var(--gray-light));
+		border-radius: 50px;
+		outline: none;
+		transition: border-color 0.2s;
+		box-sizing: border-box;
+		font-family: "Atkinson", sans-serif;
+	}
+	#book-search:focus {
+		border-color: var(--accent);
+	}
+	.search-results {
+		position: absolute;
+		top: 100%;
+		left: 0;
+		right: 0;
+		background: #fff;
+		border: 2px solid rgb(var(--gray-light));
+		border-radius: 12px;
+		margin-top: 0.5em;
+		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+		z-index: 100;
+		overflow: hidden;
+	}
+	.search-results :global(.search-item) {
+		display: flex;
+		align-items: center;
+		gap: 0.75em;
+		padding: 0.75em 1.25em;
+		text-decoration: none;
+		color: rgb(var(--black));
+		border-bottom: 1px solid rgb(var(--gray-light));
+		transition: background-color 0.15s;
+	}
+	.search-results :global(.search-item:hover) {
+		background: rgba(220, 38, 38, 0.05);
+	}
+	.search-results :global(.search-item:last-child) {
+		border-bottom: none;
+	}
+	.search-results :global(.search-title) {
+		font-weight: 700;
+		flex: 1;
+	}
+	.search-results :global(.search-author) {
+		color: rgb(var(--gray));
+		font-size: 0.85rem;
+	}
+	.search-results :global(.search-badge) {
+		background: var(--accent);
+		color: #fff;
+		font-size: 0.65rem;
+		font-weight: 800;
+		padding: 0.2em 0.5em;
+		border-radius: 4px;
+		letter-spacing: 0.1em;
+	}
+	.search-results :global(.no-result) {
+		color: rgb(var(--gray));
+		font-style: italic;
+		cursor: default;
+	}
+</style>

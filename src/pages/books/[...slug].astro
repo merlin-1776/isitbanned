@@ -1,0 +1,346 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import BanReasonBadge from '../../components/BanReasonBadge.astro';
+import BookSchema from '../../components/BookSchema.astro';
+import { SITE_TITLE } from '../../consts';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const books = await getCollection('books');
+	return books.map((book) => ({
+		params: { slug: book.data.slug },
+		props: { book },
+	}));
+}
+
+const { book } = Astro.props;
+const { Content } = await render(book);
+const {
+	title,
+	slug,
+	author,
+	isbn13,
+	publisher,
+	datePublished,
+	description,
+	banReasons,
+	banLocations,
+	totalChallenges,
+	amazonUrl,
+	bookshopUrl,
+} = book.data;
+
+const uniqueStates = [...new Set(banLocations.map((l) => l.state))];
+const reasonsList = banReasons.join(', ');
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`Yes, ${title} Is Banned! | ${SITE_TITLE}`}
+			description={`${title} by ${author} has been banned or challenged ${totalChallenges} times. Find out why, where, and how to read it anyway.`}
+		/>
+		<BookSchema
+			title={title}
+			slug={slug}
+			author={author}
+			isbn13={isbn13}
+			publisher={publisher}
+			datePublished={datePublished}
+			description={description}
+			banReasons={banReasons}
+			banLocations={banLocations}
+			totalChallenges={totalChallenges}
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<nav class="breadcrumb">
+				<a href={`${import.meta.env.BASE_URL}`}>Home</a> →
+				<a href={`${import.meta.env.BASE_URL}books/`}>Books</a> →
+				<span>{title}</span>
+			</nav>
+
+			<div class="book-header">
+				<span class="banned-stamp">BANNED</span>
+				<h1>Yes, <em>{title}</em> Is Banned!</h1>
+				<p class="book-meta">
+					by <strong>{author}</strong>
+					{publisher && <> · {publisher}</>}
+					{datePublished && <> · {datePublished.split('-')[0]}</>}
+				</p>
+				{isbn13 && <p class="isbn">ISBN: {isbn13}</p>}
+			</div>
+
+			<div class="challenges-count">
+				<span class="count-number">{totalChallenges}</span>
+				<span class="count-label">documented challenges</span>
+			</div>
+
+			<section class="book-content prose">
+				<Content />
+			</section>
+
+			<section class="ban-reasons">
+				<h2>Why Was It Banned?</h2>
+				<div class="reasons-list">
+					{banReasons.map((reason) => <BanReasonBadge reason={reason} />)}
+				</div>
+			</section>
+
+			<section class="ban-locations">
+				<h2>Where Was It Banned?</h2>
+				<div class="locations-grid">
+					{banLocations.map((loc) => (
+						<div class="location-item">
+							<span class="location-state">{loc.state}</span>
+							{loc.district && <span class="location-district">{loc.district}</span>}
+							{loc.year && <span class="location-year">{loc.year}</span>}
+						</div>
+					))}
+				</div>
+			</section>
+
+			{(bookshopUrl || amazonUrl) && (
+				<section class="buy-section">
+					<h2>Read It Anyway</h2>
+					<p>The best response to a book ban is reading the book.</p>
+					<div class="buy-buttons">
+						{bookshopUrl && (
+							<a href={bookshopUrl} target="_blank" rel="noopener noreferrer" class="buy-btn bookshop">
+								Buy on Bookshop.org
+							</a>
+						)}
+						{amazonUrl && (
+							<a href={amazonUrl} target="_blank" rel="noopener noreferrer" class="buy-btn amazon">
+								Buy on Amazon
+							</a>
+						)}
+					</div>
+				</section>
+			)}
+
+			<section class="faq">
+				<h2>Frequently Asked Questions</h2>
+
+				<div class="faq-item">
+					<h3>Is {title} banned?</h3>
+					<p>Yes, {title} by {author} has been banned or challenged in {totalChallenges} documented instances across {uniqueStates.length} states in the United States, including {uniqueStates.slice(0, 5).join(', ')}. It remains one of the most frequently challenged books in America.</p>
+				</div>
+
+				<div class="faq-item">
+					<h3>Why was {title} banned?</h3>
+					<p>{title} has been challenged and banned for the following reasons: {reasonsList}. These challenges have come from school boards, libraries, and parent groups seeking to restrict access to the book.</p>
+				</div>
+
+				<div class="faq-item">
+					<h3>Where is {title} banned?</h3>
+					<p>As of 2025, {title} has been banned or challenged in {uniqueStates.join(', ')}. Notable bans include {banLocations.slice(0, 3).map((l) => `${l.district || l.state} (${l.year || 'ongoing'})`).join(', ')}.</p>
+				</div>
+			</section>
+		</main>
+		<Footer />
+
+		<style>
+			.breadcrumb {
+				margin-bottom: 2em;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.breadcrumb a {
+				color: rgb(var(--gray));
+				text-decoration: none;
+			}
+			.breadcrumb a:hover {
+				color: var(--accent);
+			}
+			.book-header {
+				margin-bottom: 1.5em;
+			}
+			.banned-stamp {
+				display: inline-block;
+				background: var(--accent);
+				color: #fff;
+				font-size: 0.85rem;
+				font-weight: 800;
+				padding: 0.3em 1em;
+				border-radius: 4px;
+				letter-spacing: 0.15em;
+				margin-bottom: 0.75em;
+			}
+			h1 {
+				font-size: 2.5em;
+				line-height: 1.15;
+				margin-bottom: 0.3em;
+			}
+			h1 em {
+				font-style: italic;
+			}
+			.book-meta {
+				font-size: 1.1rem;
+				color: rgb(var(--gray));
+				margin: 0;
+			}
+			.isbn {
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+				margin-top: 0.25em;
+			}
+			.challenges-count {
+				display: flex;
+				align-items: baseline;
+				gap: 0.5em;
+				background: #111;
+				color: #fff;
+				padding: 1em 1.5em;
+				border-radius: 8px;
+				margin-bottom: 2em;
+			}
+			.count-number {
+				font-size: 3em;
+				font-weight: 800;
+				color: var(--accent);
+				line-height: 1;
+			}
+			.count-label {
+				font-size: 1.1rem;
+				opacity: 0.8;
+			}
+			.book-content {
+				margin-bottom: 2em;
+			}
+			.ban-reasons {
+				margin-bottom: 2em;
+			}
+			.ban-reasons h2 {
+				font-size: 1.8em;
+				margin-bottom: 0.75em;
+			}
+			.reasons-list {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5em;
+			}
+			.ban-locations {
+				margin-bottom: 2em;
+			}
+			.ban-locations h2 {
+				font-size: 1.8em;
+				margin-bottom: 0.75em;
+			}
+			.locations-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+				gap: 0.75em;
+			}
+			.location-item {
+				display: flex;
+				flex-direction: column;
+				padding: 0.75em 1em;
+				background: #fff;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 8px;
+				border-left: 4px solid var(--accent);
+			}
+			.location-state {
+				font-weight: 700;
+				font-size: 1rem;
+			}
+			.location-district {
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.location-year {
+				font-size: 0.8rem;
+				color: rgb(var(--gray));
+				font-weight: 600;
+			}
+			.buy-section {
+				background: #111;
+				color: #fff;
+				padding: 2em;
+				border-radius: 12px;
+				text-align: center;
+				margin-bottom: 2em;
+			}
+			.buy-section h2 {
+				color: #fff;
+				font-size: 1.8em;
+				margin-bottom: 0.3em;
+			}
+			.buy-section p {
+				opacity: 0.8;
+				margin-bottom: 1.5em;
+			}
+			.buy-buttons {
+				display: flex;
+				gap: 1em;
+				justify-content: center;
+				flex-wrap: wrap;
+			}
+			.buy-btn {
+				display: inline-block;
+				padding: 0.75em 2em;
+				border-radius: 8px;
+				font-weight: 700;
+				text-decoration: none;
+				font-size: 1rem;
+				transition: all 0.2s;
+			}
+			.buy-btn.bookshop {
+				background: var(--accent);
+				color: #fff;
+			}
+			.buy-btn.bookshop:hover {
+				background: var(--accent-dark);
+				color: #fff;
+			}
+			.buy-btn.amazon {
+				background: #f59e0b;
+				color: #111;
+			}
+			.buy-btn.amazon:hover {
+				background: #d97706;
+			}
+			.faq {
+				margin-bottom: 2em;
+			}
+			.faq h2 {
+				font-size: 1.8em;
+				margin-bottom: 1em;
+			}
+			.faq-item {
+				background: #fff;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 8px;
+				padding: 1.5em;
+				margin-bottom: 1em;
+			}
+			.faq-item h3 {
+				font-size: 1.1rem;
+				margin-bottom: 0.5em;
+				color: var(--accent-dark);
+			}
+			.faq-item p {
+				margin: 0;
+				font-size: 0.95rem;
+				line-height: 1.6;
+			}
+			@media (max-width: 720px) {
+				h1 {
+					font-size: 1.8em;
+				}
+				.count-number {
+					font-size: 2em;
+				}
+				.locations-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</body>
+</html>

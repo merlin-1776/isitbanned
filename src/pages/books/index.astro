@@ -1,0 +1,163 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import BookCard from '../../components/BookCard.astro';
+import { SITE_TITLE } from '../../consts';
+import { getCollection } from 'astro:content';
+
+const books = (await getCollection('books')).sort(
+	(a, b) => b.data.totalChallenges - a.data.totalChallenges
+);
+
+const allReasons = [...new Set(books.flatMap((b) => b.data.banReasons))].sort();
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io';
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const collectionSchema = {
+	"@context": "https://schema.org",
+	"@type": "CollectionPage",
+	"name": "Banned Books Database",
+	"description": "Browse all banned and challenged books in our database.",
+	"url": `${siteUrl}${basePath}/books/`
+};
+
+const breadcrumbSchema = {
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"name": "Home",
+			"item": `${siteUrl}${basePath}/`
+		},
+		{
+			"@type": "ListItem",
+			"position": 2,
+			"name": "Books",
+			"item": `${siteUrl}${basePath}/books/`
+		}
+	]
+};
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`Banned Books Database | ${SITE_TITLE}`}
+			description="Browse all banned and challenged books. Filter by ban reason, see where books have been banned, and find links to read them."
+		/>
+		<script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Banned Books Database</h1>
+			<p class="page-intro">Every book on this list has been banned or challenged in the United States. Browse, filter, and read them anyway.</p>
+
+			<div class="filters">
+				<span class="filter-label">Filter by reason:</span>
+				<button class="filter-btn active" data-reason="all">All</button>
+				{allReasons.map((reason) => (
+					<button class="filter-btn" data-reason={reason}>{reason}</button>
+				))}
+			</div>
+
+			<div class="books-grid" id="books-grid">
+				{books.map((book) => (
+					<div class="book-item" data-reasons={JSON.stringify(book.data.banReasons)}>
+						<BookCard
+							title={book.data.title}
+							slug={book.data.slug}
+							author={book.data.author}
+							totalChallenges={book.data.totalChallenges}
+							banReasons={book.data.banReasons}
+							description={book.data.description}
+						/>
+					</div>
+				))}
+			</div>
+		</main>
+		<Footer />
+
+		<script>
+			document.querySelectorAll('.filter-btn').forEach((btn) => {
+				btn.addEventListener('click', () => {
+					document.querySelectorAll('.filter-btn').forEach((b) => b.classList.remove('active'));
+					btn.classList.add('active');
+					const reason = btn.getAttribute('data-reason');
+					document.querySelectorAll('.book-item').forEach((item) => {
+						if (reason === 'all') {
+							(item as HTMLElement).style.display = '';
+						} else {
+							const reasons = JSON.parse(item.getAttribute('data-reasons') || '[]');
+							(item as HTMLElement).style.display = reasons.includes(reason) ? '' : 'none';
+						}
+					});
+				});
+			});
+		</script>
+
+		<style>
+			h1 {
+				font-size: 2.5em;
+				margin-bottom: 0.3em;
+			}
+			.page-intro {
+				color: rgb(var(--gray));
+				font-size: 1.1rem;
+				margin-bottom: 2em;
+			}
+			.filters {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5em;
+				align-items: center;
+				margin-bottom: 2em;
+			}
+			.filter-label {
+				font-weight: 700;
+				margin-right: 0.5em;
+				font-size: 0.9rem;
+			}
+			.filter-btn {
+				padding: 0.4em 0.8em;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 20px;
+				background: #fff;
+				cursor: pointer;
+				font-size: 0.8rem;
+				font-weight: 600;
+				color: rgb(var(--gray-dark));
+				transition: all 0.2s;
+				font-family: "Atkinson", sans-serif;
+			}
+			.filter-btn:hover {
+				border-color: var(--accent);
+				color: var(--accent);
+			}
+			.filter-btn.active {
+				background: var(--accent);
+				border-color: var(--accent);
+				color: #fff;
+			}
+			.books-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				gap: 1.5em;
+			}
+			@media (max-width: 720px) {
+				h1 {
+					font-size: 2em;
+				}
+				.books-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</body>
+</html>

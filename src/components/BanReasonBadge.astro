@@ -1,0 +1,39 @@
+---
+interface Props {
+	reason: string;
+}
+
+const { reason } = Astro.props;
+
+const colorMap: Record<string, string> = {
+	'Sexual Content': '#dc2626',
+	'LGBTQ+ Themes': '#7c3aed',
+	'Racial Content': '#d97706',
+	'Violence': '#b91c1c',
+	'Religious Objections': '#0369a1',
+	'Political Content': '#4338ca',
+	'Language': '#c2410c',
+	'Drug/Alcohol Use': '#15803d',
+	'Age Inappropriateness': '#be185d',
+};
+
+const color = colorMap[reason] || '#6b7280';
+---
+
+<span class="ban-reason-badge" style={`--badge-color: ${color}`}>
+	{reason}
+</span>
+
+<style>
+	.ban-reason-badge {
+		display: inline-block;
+		padding: 0.25em 0.75em;
+		border-radius: 9999px;
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: #fff;
+		background-color: var(--badge-color);
+		white-space: nowrap;
+		line-height: 1.4;
+	}
+</style>
