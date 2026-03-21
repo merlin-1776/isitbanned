@@ -7,6 +7,10 @@ import BookSchema from '../../components/BookSchema.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection, render } from 'astro:content';
 
+function slugifyAuthor(name: string) {
+	return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
 export async function getStaticPaths() {
 	const books = await getCollection('books');
 	return books.map((book) => ({
@@ -69,7 +73,7 @@ const reasonsList = banReasons.join(', ');
 				<span class="banned-stamp">BANNED</span>
 				<h1>Yes, <em>{title}</em> Is Banned!</h1>
 				<p class="book-meta">
-					by <strong>{author}</strong>
+					by <a href={`${import.meta.env.BASE_URL}/authors/${slugifyAuthor(author)}`} class="author-link"><strong>{author}</strong></a>
 					{publisher && <> · {publisher}</>}
 					{datePublished && <> · {datePublished.split('-')[0]}</>}
 				</p>
@@ -184,6 +188,15 @@ const reasonsList = banReasons.join(', ');
 				font-size: 1.1rem;
 				color: rgb(var(--gray));
 				margin: 0;
+			}
+			.author-link {
+				color: var(--accent);
+				text-decoration: none;
+				border-bottom: 1px solid transparent;
+				transition: border-color 0.2s;
+			}
+			.author-link:hover {
+				border-bottom-color: var(--accent);
 			}
 			.isbn {
 				font-size: 0.85rem;
