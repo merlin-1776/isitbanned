@@ -100,13 +100,23 @@ const reasonsList = banReasons.join(', ');
 			<section class="ban-locations">
 				<h2>Where Was It Banned?</h2>
 				<div class="locations-grid">
-					{banLocations.map((loc) => (
-						<div class="location-item">
-							<span class="location-state">{loc.state}</span>
-							{loc.district && <span class="location-district">{loc.district}</span>}
-							{loc.year && <span class="location-year">{loc.year}</span>}
-						</div>
-					))}
+					{banLocations.map((loc) => {
+						const stateSlug = loc.state.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+						return (
+							<div class="location-item">
+								<a href={`${import.meta.env.BASE_URL}/states/${stateSlug}`} class="location-state">{loc.state}</a>
+								{loc.district && <span class="location-district">{loc.district}</span>}
+								<span class="location-meta">
+									{loc.year && <span class="location-year">{loc.year}</span>}
+									{loc.sourceUrl && (
+										<a href={loc.sourceUrl} target="_blank" rel="noopener noreferrer" class="source-link" title="Read news coverage">
+											📰
+										</a>
+									)}
+								</span>
+							</div>
+						);
+					})}
 				</div>
 			</section>
 
@@ -283,15 +293,36 @@ const reasonsList = banReasons.join(', ');
 			.location-state {
 				font-weight: 700;
 				font-size: 1rem;
+				color: var(--accent);
+				text-decoration: none;
+				transition: opacity 0.2s;
+			}
+			.location-state:hover {
+				opacity: 0.8;
+				text-decoration: underline;
 			}
 			.location-district {
 				font-size: 0.85rem;
 				color: rgb(var(--gray));
 			}
+			.location-meta {
+				display: flex;
+				align-items: center;
+				gap: 0.5em;
+			}
 			.location-year {
 				font-size: 0.8rem;
 				color: rgb(var(--gray));
 				font-weight: 600;
+			}
+			.source-link {
+				font-size: 0.9rem;
+				text-decoration: none;
+				transition: transform 0.2s;
+				display: inline-block;
+			}
+			.source-link:hover {
+				transform: scale(1.2);
 			}
 			.buy-section {
 				background: #111;

@@ -13,12 +13,15 @@ banLocations:
   - state: "Texas"
     district: "Keller ISD"
     year: 2021
+    sourceUrl: "https://www.texastribune.org/2021/12/02/texas-books-race-sexuality/"
   - state: "Florida"
     district: "Brevard County"
     year: 2022
+    sourceUrl: "https://www.orlandosentinel.com/2022/05/16/brevard-county-school-board-bans-gender-queer/"
   - state: "Virginia"
     district: "Fairfax County Public Schools"
     year: 2021
+    sourceUrl: "https://www.washingtonpost.com/education/2021/11/15/fairfax-county-schools-pull-books/"
   - state: "Utah"
     district: "Davis School District"
     year: 2022

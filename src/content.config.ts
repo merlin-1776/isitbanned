@@ -19,6 +19,7 @@ const books = defineCollection({
 					state: z.string(),
 					district: z.string().optional(),
 					year: z.number().optional(),
+					sourceUrl: z.string().optional(),
 				})
 			),
 			totalChallenges: z.number(),
