@@ -27,8 +27,7 @@ banLocations:
     district: "Loudoun County Public Schools"
     year: 2024
 totalChallenges: 168
-description: "Crank is a novel-in-verse based on Ellen Hopkins' daughter's experience with methamphetamine addiction. Written in Hopkins' signature concrete poetry style, it follows teenager Kristina Snow as she spirals into drug abuse, losing herself to the 'monster' of crank."
-amazonUrl: "https://www.amazon.com/dp/1416940219/ref=nosim?tag=isitbanned-20"
+description: "Crank is a novel-in-verse based on Ellen Hopkins' daughter's experience with methamphetamine addiction. Written in Hopkins' signature concrete poetry style, it follows teenager Kristina Snow as she spirals into drug abuse, losing herself to the 'monster' of crank.'https://www.amazon.com/dp/1416940219/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416940210"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940210/k/keyword"
 ---

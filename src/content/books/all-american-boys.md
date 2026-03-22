@@ -30,8 +30,7 @@ banLocations:
     district: "Central Bucks School District"
     year: 2022
 totalChallenges: 36
-description: "All American Boys by Jason Reynolds and Brendan Kiely tackles police brutality and racism through two teens' perspectives. Banned for profanity, drug content, and being 'anti-police.'"
-amazonUrl: "https://www.amazon.com/dp/1481463349?tag=isitbanned-20"
+description: "All American Boys by Jason Reynolds and Brendan Kiely tackles police brutality and racism through two teens' perspectives. Banned for profanity, drug content, and being 'anti-police.''https://www.amazon.com/dp/1481463349?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481463348/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481463348"
 ---

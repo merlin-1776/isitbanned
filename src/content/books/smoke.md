@@ -30,8 +30,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 16
-description: "Smoke is the sequel to Burned, continuing Pattyn Von Stratten's story as she deals with devastating loss, her sister's rebellion, and the violent consequences of their father's abuse. It has been challenged for sexual content, violence, drug use, and language."
-amazonUrl: "https://www.amazon.com/dp/1416983287/ref=nosim?tag=isitbanned-20"
+description: "Smoke is the sequel to Burned, continuing Pattyn Von Stratten's story as she deals with devastating loss, her sister's rebellion, and the violent consequences of their father's abuse. It has been challenged for sexual content, violence, drug use, and language.'https://www.amazon.com/dp/1416983287/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416983286"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416983286/k/keyword"
 ---

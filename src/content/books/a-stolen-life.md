@@ -29,8 +29,7 @@ banLocations:
     district: "Pinellas County Schools"
     year: 2025
 totalChallenges: 22
-description: "A Stolen Life is Jaycee Dugard's memoir of being kidnapped at age eleven and held captive for eighteen years by Phillip and Nancy Garrido. It has been challenged for its descriptions of sexual abuse, captivity, and violence."
-amazonUrl: "https://www.amazon.com/dp/1451629184/ref=nosim?tag=isitbanned-20"
+description: "A Stolen Life is Jaycee Dugard's memoir of being kidnapped at age eleven and held captive for eighteen years by Phillip and Nancy Garrido. It has been challenged for its descriptions of sexual abuse, captivity, and violence.'https://www.amazon.com/dp/1451629184/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781451629187"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451629187/k/keyword"
 ---

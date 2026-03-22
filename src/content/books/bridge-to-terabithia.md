@@ -28,8 +28,7 @@ banLocations:
     year: 1996
     sourceUrl: "https://www.bannedlibrary.com/podcast/2016/1/16/banned-47-bridge-to-terabithia"
 totalChallenges: 55
-description: "Bridge to Terabithia by Katherine Paterson is a Newbery Medal-winning children's novel that has been repeatedly banned for profanity, occult themes, and its frank portrayal of death."
-amazonUrl: "https://www.amazon.com/dp/0064401847?tag=isitbanned-20"
+description: "Bridge to Terabithia by Katherine Paterson is a Newbery Medal-winning children's novel that has been repeatedly banned for profanity, occult themes, and its frank portrayal of death.'https://www.amazon.com/dp/0064401847?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064401845/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064401845"
 ---

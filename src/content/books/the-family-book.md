@@ -27,8 +27,7 @@ banLocations:
     district: "Davis School District"
     year: 2023
 totalChallenges: 35
-description: "The Family Book by Todd Parr is a picture book celebrating all types of families. Banned in Illinois, Florida, and Texas because one page mentions families with 'two moms or two dads.'"
-amazonUrl: "https://www.amazon.com/dp/0316070408/ref=nosim?tag=isitbanned-20"
+description: "The Family Book by Todd Parr is a picture book celebrating all types of families. Banned in Illinois, Florida, and Texas because one page mentions families with 'two moms or two dads.''https://www.amazon.com/dp/0316070408/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316070409/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316070409"
 ---

@@ -30,8 +30,7 @@ banLocations:
     district: "Clay County School District"
     year: 2023
 totalChallenges: 32
-description: "Shine by Lauren Myracle follows a teen girl investigating a hate crime against her gay best friend in a small Southern town. Banned for LGBTQ+ themes, violence, and drug references."
-amazonUrl: "https://www.amazon.com/dp/0810984172?tag=isitbanned-20"
+description: "Shine by Lauren Myracle follows a teen girl investigating a hate crime against her gay best friend in a small Southern town. Banned for LGBTQ+ themes, violence, and drug references.'https://www.amazon.com/dp/0810984172?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780810984172/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780810984172"
 ---

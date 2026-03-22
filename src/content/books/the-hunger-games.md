@@ -28,8 +28,7 @@ banLocations:
     year: 2013
     sourceUrl: "https://thecityvoice.org/2021/04/29/banned-the-hunger-games/"
 totalChallenges: 31
-description: "Suzanne Collins' dystopian novel about children forced to fight to the death, challenged for violence, anti-government themes, and being 'unsuited to age group.'"
-amazonUrl: "https://www.amazon.com/dp/0439023483?tag=isitbanned-20"
+description: "Suzanne Collins' dystopian novel about children forced to fight to the death, challenged for violence, anti-government themes, and being 'unsuited to age group.''https://www.amazon.com/dp/0439023483?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780439023481/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780439023481"
 ---

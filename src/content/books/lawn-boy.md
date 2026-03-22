@@ -30,8 +30,7 @@ banLocations:
     district: "Ankeny Community School District"
     year: 2023
 totalChallenges: 156
-description: "Lawn Boy is Jonathan Evison's coming-of-age novel about Mike Muñoz, a young Mexican-American man working as a landscaper while trying to figure out his class identity, his sexuality, and what he wants from life. It became one of the most challenged books in America starting in 2021."
-amazonUrl: "https://www.amazon.com/dp/1616207205/ref=nosim?tag=isitbanned-20"
+description: "Lawn Boy is Jonathan Evison's coming-of-age novel about Mike Muñoz, a young Mexican-American man working as a landscaper while trying to figure out his class identity, his sexuality, and what he wants from life. It became one of the most challenged books in America starting in 2021.'https://www.amazon.com/dp/1616207205/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781616207205"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781616207205/k/keyword"
 ---

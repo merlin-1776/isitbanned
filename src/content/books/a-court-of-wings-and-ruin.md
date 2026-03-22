@@ -26,8 +26,7 @@ banLocations:
     year: 2024
     sourceUrl: "https://www.stltoday.com/news/local/education/wentzville-book-removals-continue/article_2024.html"
 totalChallenges: 102
-description: "A Court of Wings and Ruin is the third book in Sarah J. Maas's ACOTAR series, following Feyre as she leads a dangerous mission against the villainous King of Hybern while navigating her powers and her relationship with Rhysand. It features explicit romance and epic fantasy warfare."
-amazonUrl: "https://www.amazon.com/dp/1619634496/ref=nosim?tag=isitbanned-20"
+description: "A Court of Wings and Ruin is the third book in Sarah J. Maas's ACOTAR series, following Feyre as she leads a dangerous mission against the villainous King of Hybern while navigating her powers and her relationship with Rhysand. It features explicit romance and epic fantasy warfare.'https://www.amazon.com/dp/1619634496/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781619634497"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781619634497/k/keyword"
 ---

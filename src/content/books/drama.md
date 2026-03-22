@@ -30,8 +30,7 @@ banLocations:
     year: 2020
     sourceUrl: "https://adventuresincensorship.com/blog/2020/1/28/drama-in-cheyenne"
 totalChallenges: 46
-description: "Raina Telgemeier's beloved graphic novel about middle school theater, banned from school districts for including LGBTQ+ characters."
-amazonUrl: "https://www.amazon.com/dp/0545326990?tag=isitbanned-20"
+description: "Raina Telgemeier's beloved graphic novel about middle school theater, banned from school districts for including LGBTQ+ characters.'https://www.amazon.com/dp/0545326990?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545326995/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545326995"
 ---

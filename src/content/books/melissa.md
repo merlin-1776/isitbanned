@@ -32,8 +32,7 @@ banLocations:
     year: 2019
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/george/"
 totalChallenges: 73
-description: "Alex Gino's middle-grade novel about a transgender fourth-grader, the most banned book in America from 2018 to 2020."
-amazonUrl: "https://www.amazon.com/dp/0545812542?tag=isitbanned-20"
+description: "Alex Gino's middle-grade novel about a transgender fourth-grader, the most banned book in America from 2018 to 2020.'https://www.amazon.com/dp/0545812542?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545812542/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545812542"
 ---

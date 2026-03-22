@@ -29,8 +29,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 16
-description: "I'll Give You the Sun follows twins Jude and Noah, whose bond is shattered by secrets, grief, and the discovery of Noah's sexuality. It has been challenged for LGBTQ+ themes, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/0803734964/ref=nosim?tag=isitbanned-20"
+description: "I'll Give You the Sun follows twins Jude and Noah, whose bond is shattered by secrets, grief, and the discovery of Noah's sexuality. It has been challenged for LGBTQ+ themes, sexual content, and language.'https://www.amazon.com/dp/0803734964/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780803734968"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780803734968/k/keyword"
 ---

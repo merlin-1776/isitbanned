@@ -29,8 +29,7 @@ banLocations:
     district: "Williamson County Schools"
     year: 2023
 totalChallenges: 162
-description: "Sold is a novel-in-verse about Lakshmi, a thirteen-year-old girl from Nepal who is trafficked and sold into sexual slavery in India. Written with devastating clarity, it exposes the realities of human trafficking while centering the resilience of its young protagonist."
-amazonUrl: "https://www.amazon.com/dp/0786851716/ref=nosim?tag=isitbanned-20"
+description: "Sold is a novel-in-verse about Lakshmi, a thirteen-year-old girl from Nepal who is trafficked and sold into sexual slavery in India. Written with devastating clarity, it exposes the realities of human trafficking while centering the resilience of its young protagonist.'https://www.amazon.com/dp/0786851716/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780786851713/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780786851713"
 ---

@@ -26,8 +26,7 @@ banLocations:
     district: "Wentzville School District"
     year: 2023
 totalChallenges: 22
-description: "Let's Talk About It by Erika Moen and Matthew Nolan is a graphic guide to sex, relationships, and bodies for teens. One of the top 10 most challenged books in 2022 and 2023."
-amazonUrl: "https://www.amazon.com/dp/1250233151?tag=isitbanned-20"
+description: "Let's Talk About It by Erika Moen and Matthew Nolan is a graphic guide to sex, relationships, and bodies for teens. One of the top 10 most challenged books in 2022 and 2023.'https://www.amazon.com/dp/1250233151?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250233158/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781250233158"
 ---

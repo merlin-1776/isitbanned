@@ -31,8 +31,7 @@ banLocations:
     year: 2008
     sourceUrl: "https://ncac.org/news/blog/top-10-banned-books-that-changed-the-face-of-black-history"
 totalChallenges: 45
-description: "Black Boy by Richard Wright is an autobiography of growing up Black in the Jim Crow South. Banned for decades for 'obscenity' and 'racial content' from Tennessee to New York."
-amazonUrl: "https://www.amazon.com/dp/0061130249/ref=nosim?tag=isitbanned-20"
+description: "Black Boy by Richard Wright is an autobiography of growing up Black in the Jim Crow South. Banned for decades for 'obscenity' and 'racial content' from Tennessee to New York.'https://www.amazon.com/dp/0061130249/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780061130243/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780061130243"
 ---

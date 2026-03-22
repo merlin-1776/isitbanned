@@ -27,8 +27,7 @@ banLocations:
     district: "Knox County Schools"
     year: 2024
 totalChallenges: 198
-description: "Slaughterhouse-Five is Kurt Vonnegut's anti-war masterpiece about Billy Pilgrim, who becomes 'unstuck in time' and experiences his life out of order, including his survival of the firebombing of Dresden as a prisoner of war. It has been challenged and banned continuously since 1972."
-amazonUrl: "https://www.amazon.com/dp/0385333484/ref=nosim?tag=isitbanned-20"
+description: "Slaughterhouse-Five is Kurt Vonnegut's anti-war masterpiece about Billy Pilgrim, who becomes 'unstuck in time' and experiences his life out of order, including his survival of the firebombing of Dresden as a prisoner of war. It has been challenged and banned continuously since 1972.'https://www.amazon.com/dp/0385333484/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780385333481"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385333481/k/keyword"
 ---

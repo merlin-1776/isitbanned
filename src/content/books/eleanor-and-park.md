@@ -27,8 +27,7 @@ banLocations:
     year: 2023
     sourceUrl: "https://bannedbooks.library.cmu.edu/rainbow-rowell-eleanor-park/"
 totalChallenges: 24
-description: "Rainbow Rowell's young adult love story set in 1986 Omaha, challenged for profanity, sexual content, and being 'too mature' for its teen audience."
-amazonUrl: "https://www.amazon.com/dp/1250012570?tag=isitbanned-20"
+description: "Rainbow Rowell's young adult love story set in 1986 Omaha, challenged for profanity, sexual content, and being 'too mature' for its teen audience.'https://www.amazon.com/dp/1250012570?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250012579/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781250012579"
 ---

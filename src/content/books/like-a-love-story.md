@@ -28,8 +28,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 14
-description: "Like a Love Story follows three teenagers in 1989 New York City navigating love, identity, and the AIDS crisis. It has been challenged for its LGBTQ+ themes and sexual content."
-amazonUrl: "https://www.amazon.com/dp/0062839365/ref=nosim?tag=isitbanned-20"
+description: "Like a Love Story follows three teenagers in 1989 New York City navigating love, identity, and the AIDS crisis. It has been challenged for its LGBTQ+ themes and sexual content.'https://www.amazon.com/dp/0062839365/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062839367"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062839367/k/keyword"
 ---

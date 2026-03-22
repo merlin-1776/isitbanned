@@ -28,8 +28,7 @@ banLocations:
     year: 2020
     sourceUrl: "https://www.nbcnews.com/news/us-news/alaska-school-board-deems-great-gatsby-other-famous-books-controversial-n1194436"
 totalChallenges: 26
-description: "Catch-22 by Joseph Heller is a satirical war novel about the absurdity of military bureaucracy. Banned for sexual content, profanity, women's portrayal, and anti-war themes."
-amazonUrl: "https://www.amazon.com/dp/1451626657?tag=isitbanned-20"
+description: "Catch-22 by Joseph Heller is a satirical war novel about the absurdity of military bureaucracy. Banned for sexual content, profanity, women's portrayal, and anti-war themes.'https://www.amazon.com/dp/1451626657?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451626650/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451626650"
 ---

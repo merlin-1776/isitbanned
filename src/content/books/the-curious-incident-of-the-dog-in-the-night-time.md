@@ -29,8 +29,7 @@ banLocations:
     district: "Davis School District"
     year: 2022
 totalChallenges: 27
-description: "The Curious Incident of the Dog in the Night-Time by Mark Haddon follows a neurodiverse teen solving a neighborhood mystery. Banned for profanity, religious viewpoints, and age appropriateness."
-amazonUrl: "https://www.amazon.com/dp/1400032717?tag=isitbanned-20"
+description: "The Curious Incident of the Dog in the Night-Time by Mark Haddon follows a neurodiverse teen solving a neighborhood mystery. Banned for profanity, religious viewpoints, and age appropriateness.'https://www.amazon.com/dp/1400032717?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781400032716/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781400032716"
 ---

@@ -28,8 +28,7 @@ banLocations:
     district: "Muskego-Norway School District"
     year: 1986
 totalChallenges: 30
-description: "Blubber by Judy Blume depicts schoolyard bullying without a neat moral resolution. Banned for profanity, bullying depictions, and the fact that the bullies face no consequences."
-amazonUrl: "https://www.amazon.com/dp/0142408905/ref=nosim?tag=isitbanned-20"
+description: "Blubber by Judy Blume depicts schoolyard bullying without a neat moral resolution. Banned for profanity, bullying depictions, and the fact that the bullies face no consequences.'https://www.amazon.com/dp/0142408905/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780142408902/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780142408902"
 ---

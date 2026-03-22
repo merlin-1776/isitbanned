@@ -26,8 +26,7 @@ banLocations:
     district: "Francis Howell School District"
     year: 2024
 totalChallenges: 108
-description: "A Court of Thorns and Roses is a fantasy romance retelling of Beauty and the Beast, following huntress Feyre as she's taken to a magical faerie land. The first book in Sarah J. Maas's massively popular series has been banned for its sexual content and violence."
-amazonUrl: "https://www.amazon.com/dp/1619635186/ref=nosim?tag=isitbanned-20"
+description: "A Court of Thorns and Roses is a fantasy romance retelling of Beauty and the Beast, following huntress Feyre as she's taken to a magical faerie land. The first book in Sarah J. Maas's massively popular series has been banned for its sexual content and violence.'https://www.amazon.com/dp/1619635186/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781619635180/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781619635180"
 ---

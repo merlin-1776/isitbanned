@@ -1,0 +1,13 @@
+---
+title: "Archenemy"
+slug: "archenemy"
+author: "Paul Hoblin"
+banReasons:
+  - "Sexual Content"
+banLocations:
+    - state: "Texas"
+      district: "North East Independent School District"
+      year: 2021
+totalChallenges: 1
+description: "'Archenemy"
+---

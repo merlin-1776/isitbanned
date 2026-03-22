@@ -28,8 +28,7 @@ banLocations:
     district: "Union County School District"
     year: 2025
 totalChallenges: 14
-description: "Forever for a Year follows Carolina and Trevor through the highs and lows of their first serious relationship, told in alternating perspectives. It has been challenged for its frank depiction of teenage sexuality and language."
-amazonUrl: "https://www.amazon.com/dp/1627791914/ref=nosim?tag=isitbanned-20"
+description: "Forever for a Year follows Carolina and Trevor through the highs and lows of their first serious relationship, told in alternating perspectives. It has been challenged for its frank depiction of teenage sexuality and language.'https://www.amazon.com/dp/1627791914/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781627791915"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781627791915/k/keyword"
 ---

@@ -28,8 +28,7 @@ banLocations:
     district: "Santa Rosa County Schools"
     year: 2025
 totalChallenges: 18
-description: "What Girls Are Made Of follows sixteen-year-old Nina Faye as she searches for love and validation through her relationship with her boyfriend, interspersed with chapters about the Virgin Mary. It has been challenged for sexual content and language."
-amazonUrl: "https://www.amazon.com/dp/1512410241/ref=nosim?tag=isitbanned-20"
+description: "What Girls Are Made Of follows sixteen-year-old Nina Faye as she searches for love and validation through her relationship with her boyfriend, interspersed with chapters about the Virgin Mary. It has been challenged for sexual content and language.'https://www.amazon.com/dp/1512410241/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781512410242"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781512410242/k/keyword"
 ---

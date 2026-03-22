@@ -26,8 +26,7 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.thedailybeast.com/most-banned-book-author-in-america-ellen-hopkins-calls-bs-on-parents-concern/"
 totalChallenges: 25
-description: "People Kill People by Ellen Hopkins examines gun violence through six interconnected perspectives. Banned across multiple states for its unflinching portrayal of guns, hate, and the choices that lead to tragedy."
-amazonUrl: "https://www.amazon.com/dp/1481442961/ref=nosim?tag=isitbanned-20"
+description: "People Kill People by Ellen Hopkins examines gun violence through six interconnected perspectives. Banned across multiple states for its unflinching portrayal of guns, hate, and the choices that lead to tragedy.'https://www.amazon.com/dp/1481442961/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481442961/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481442961"
 ---

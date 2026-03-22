@@ -27,8 +27,7 @@ banLocations:
     district: "Escambia County Schools"
     year: 2013
 totalChallenges: 30
-description: "A Child Called 'It' by Dave Pelzer is a memoir of severe child abuse. Frequently banned for graphic depictions of violence, profanity, and a scene questioning God."
-amazonUrl: "https://www.amazon.com/dp/1558743669?tag=isitbanned-20"
+description: "A Child Called 'It' by Dave Pelzer is a memoir of severe child abuse. Frequently banned for graphic depictions of violence, profanity, and a scene questioning God.'https://www.amazon.com/dp/1558743669?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781558743663/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781558743663"
 ---

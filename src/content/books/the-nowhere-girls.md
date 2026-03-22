@@ -28,8 +28,7 @@ banLocations:
     district: "Spotsylvania County Schools"
     year: 2022
 totalChallenges: 35
-description: "The Nowhere Girls by Amy Reed follows three misfit teenagers who take on their school's rape culture. Banned in multiple states for sexual content and LGBTQ+ themes."
-amazonUrl: "https://www.amazon.com/dp/1481481726/ref=nosim?tag=isitbanned-20"
+description: "The Nowhere Girls by Amy Reed follows three misfit teenagers who take on their school's rape culture. Banned in multiple states for sexual content and LGBTQ+ themes.'https://www.amazon.com/dp/1481481726/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481481724/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481481724"
 ---

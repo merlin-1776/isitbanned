@@ -29,8 +29,7 @@ banLocations:
     district: "Katy Independent School District"
     year: 2024
 totalChallenges: 14
-description: "The You I've Never Known follows Ariel, a teen discovering her sexual orientation while uncovering the truth about her father's manipulation and her mother's disappearance. It has been challenged for LGBTQ+ themes, sexual content, and violence."
-amazonUrl: "https://www.amazon.com/dp/1481442902/ref=nosim?tag=isitbanned-20"
+description: "The You I've Never Known follows Ariel, a teen discovering her sexual orientation while uncovering the truth about her father's manipulation and her mother's disappearance. It has been challenged for LGBTQ+ themes, sexual content, and violence.'https://www.amazon.com/dp/1481442902/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781481442909"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481442909/k/keyword"
 ---

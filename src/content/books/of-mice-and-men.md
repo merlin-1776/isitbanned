@@ -31,8 +31,7 @@ banLocations:
     year: 2006
     sourceUrl: "https://www.pbs.org/wgbh/americanexperience/features/banned-of-mice-and-men/"
 totalChallenges: 52
-description: "John Steinbeck's Depression-era novella about two migrant workers, challenged for profanity, racial slurs, and its portrayal of violence and euthanasia."
-amazonUrl: "https://www.amazon.com/dp/0140186425?tag=isitbanned-20"
+description: "John Steinbeck's Depression-era novella about two migrant workers, challenged for profanity, racial slurs, and its portrayal of violence and euthanasia.'https://www.amazon.com/dp/0140186425?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780140186420/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780140186420"
 ---

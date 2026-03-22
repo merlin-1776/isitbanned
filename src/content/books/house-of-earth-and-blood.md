@@ -28,8 +28,7 @@ banLocations:
     district: "Santa Rosa County Schools"
     year: 2025
 totalChallenges: 14
-description: "House of Earth and Blood is the first book in Sarah J. Maas's Crescent City series, following half-fae Bryce Quinlan as she investigates a string of brutal murders in a city of angels, demons, and shapeshifters. It has been challenged for sexual content and violence."
-amazonUrl: "https://www.amazon.com/dp/1635574048/ref=nosim?tag=isitbanned-20"
+description: "House of Earth and Blood is the first book in Sarah J. Maas's Crescent City series, following half-fae Bryce Quinlan as she investigates a string of brutal murders in a city of angels, demons, and shapeshifters. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/1635574048/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781635574043"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635574043/k/keyword"
 ---

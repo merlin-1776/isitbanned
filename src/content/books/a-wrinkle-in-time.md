@@ -25,8 +25,7 @@ banLocations:
     district: "Duval County Public Schools"
     year: 2006
 totalChallenges: 40
-description: "A Wrinkle in Time by Madeleine L'Engle is a beloved science fantasy novel challenged for decades by both religious conservatives (who call it witchcraft) and secularists (who object to its Christian themes)."
-amazonUrl: "https://www.amazon.com/dp/0374386137/ref=nosim?tag=isitbanned-20"
+description: "A Wrinkle in Time by Madeleine L'Engle is a beloved science fantasy novel challenged for decades by both religious conservatives (who call it witchcraft) and secularists (who object to its Christian themes).'https://www.amazon.com/dp/0374386137/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374386139/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780374386139"
 ---

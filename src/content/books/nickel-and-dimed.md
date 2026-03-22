@@ -26,8 +26,7 @@ banLocations:
     district: "Bedford County Schools"
     year: 2013
 totalChallenges: 20
-description: "Nickel and Dimed by Barbara Ehrenreich is an undercover investigation of low-wage work in America. Challenged for promoting 'socialist ideas,' drug references, and being 'anti-Christian' in school districts across several states."
-amazonUrl: "https://www.amazon.com/dp/0312626681/ref=nosim?tag=isitbanned-20"
+description: "Nickel and Dimed by Barbara Ehrenreich is an undercover investigation of low-wage work in America. Challenged for promoting 'socialist ideas,' drug references, and being 'anti-Christian' in school districts across several states.'https://www.amazon.com/dp/0312626681/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780312626686/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780312626686"
 ---

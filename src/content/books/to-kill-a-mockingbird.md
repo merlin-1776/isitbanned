@@ -31,8 +31,7 @@ banLocations:
     year: 2018
     sourceUrl: "https://www.history.com/articles/why-to-kill-a-mockingbird-keeps-getting-banned"
 totalChallenges: 88
-description: "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the American South, challenged for its use of racial slurs and depictions of racism."
-amazonUrl: "https://www.amazon.com/dp/0060935464?tag=isitbanned-20"
+description: "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the American South, challenged for its use of racial slurs and depictions of racism.'https://www.amazon.com/dp/0060935464?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060935467/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780060935467"
 ---

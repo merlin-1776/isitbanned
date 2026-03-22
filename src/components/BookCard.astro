@@ -8,10 +8,20 @@ interface Props {
 	totalChallenges: number;
 	banReasons: string[];
 	description: string;
+	series?: string;
+	book?: any;
 }
 
-const { title, slug, author, totalChallenges, banReasons, description } = Astro.props;
-const topReasons = banReasons.slice(0, 3);
+// Support both explicit props and a `book` object prop
+const props = Astro.props;
+const book = props.book?.data || props;
+const { title, slug, author, totalChallenges, banReasons, description } = book;
+const series = book.series || props.series;
+const topReasons = (banReasons || []).slice(0, 3);
+
+function slugify(name: string) {
+	return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
 ---
 
 <a href={`/books/${slug}`} class="book-card">
@@ -22,6 +32,11 @@ const topReasons = banReasons.slice(0, 3);
 		</div>
 		<h3>{title}</h3>
 		<p class="author">by {author}</p>
+		{series && (
+			<a href={`/series/${slugify(series)}`} class="series-badge" onclick="event.stopPropagation()">
+				📚 {series} Series
+			</a>
+		)}
 		<p class="description">{description.slice(0, 120)}...</p>
 		<div class="reasons">
 			{topReasons.map((reason) => <BanReasonBadge reason={reason} linked={false} />)}
@@ -85,6 +100,21 @@ const topReasons = banReasons.slice(0, 3);
 		color: rgb(var(--gray-dark));
 		margin: 0 0 1em 0;
 		line-height: 1.5;
+	}
+	.series-badge {
+		display: inline-block;
+		background: #1e3a5f;
+		color: #fff;
+		font-size: 0.75rem;
+		font-weight: 600;
+		padding: 0.2em 0.6em;
+		border-radius: 4px;
+		margin-bottom: 0.5em;
+		text-decoration: none;
+		transition: background 0.2s;
+	}
+	.series-badge:hover {
+		background: #2d5a87;
 	}
 	.reasons {
 		display: flex;

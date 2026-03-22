@@ -33,8 +33,7 @@ banLocations:
     district: "Spotsylvania County Schools"
     year: 2023
 totalChallenges: 198
-description: "Nineteen Minutes by Jodi Picoult examines a school shooting and its aftermath through multiple perspectives, exploring bullying, social hierarchies, and the lives shattered by nineteen minutes of violence. It was the most banned book in the 2023-24 school year with 98 bans."
-amazonUrl: "https://www.amazon.com/dp/0743496736/ref=nosim?tag=isitbanned-20"
+description: "Nineteen Minutes by Jodi Picoult examines a school shooting and its aftermath through multiple perspectives, exploring bullying, social hierarchies, and the lives shattered by nineteen minutes of violence. It was the most banned book in the 2023-24 school year with 98 bans.'https://www.amazon.com/dp/0743496736/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743496735/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743496735"
 ---

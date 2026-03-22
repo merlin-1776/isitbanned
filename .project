@@ -1,0 +1,6 @@
+# Project: IsItBanned.com
+- **Repo:** merlin-1776/isitbanned (GitHub)
+- **Stack:** Astro 6 static site
+- **Hosting:** Cloudflare Pages (project: isitbanned)
+- **Domain:** isitbanned.com
+- **Deploy:** npx astro build && npx wrangler pages deploy dist --project-name=isitbanned

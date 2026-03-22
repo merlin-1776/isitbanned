@@ -28,8 +28,7 @@ banLocations:
     year: 1993
     sourceUrl: "https://www.smithsonianmag.com/arts-culture/why-scary-stories-to-tell-in-the-dark-frightened-so-many-parents-in-the-1990s-180978945/"
 totalChallenges: 124
-description: "Scary Stories to Tell in the Dark by Alvin Schwartz was the most challenged book in America from 1990 to 1999, targeted for its frightening content, disturbing illustrations, and occult themes."
-amazonUrl: "https://www.amazon.com/dp/0062682857?tag=isitbanned-20"
+description: "Scary Stories to Tell in the Dark by Alvin Schwartz was the most challenged book in America from 1990 to 1999, targeted for its frightening content, disturbing illustrations, and occult themes.'https://www.amazon.com/dp/0062682857?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062682895/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062682895"
 ---

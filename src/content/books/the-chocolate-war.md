@@ -30,8 +30,7 @@ banLocations:
     district: "Leander ISD"
     year: 2022
 totalChallenges: 56
-description: "The Chocolate War by Robert Cormier is a YA novel about a student who refuses to participate in his school's chocolate fundraiser and faces brutal consequences. Repeatedly banned for sexual content, profanity, and violence since 1974."
-amazonUrl: "https://www.amazon.com/dp/0375829873?tag=isitbanned-20"
+description: "The Chocolate War by Robert Cormier is a YA novel about a student who refuses to participate in his school's chocolate fundraiser and faces brutal consequences. Repeatedly banned for sexual content, profanity, and violence since 1974.'https://www.amazon.com/dp/0375829873?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375829871/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780375829871"
 ---

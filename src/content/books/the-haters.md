@@ -29,8 +29,7 @@ banLocations:
     district: "Dubuque Community School District"
     year: 2024
 totalChallenges: 18
-description: "The Haters follows three jazz camp dropouts who start a band and go on a chaotic road trip through the American South. From the author of Me and Earl and the Dying Girl, it has been challenged for sexual content, language, and drug references."
-amazonUrl: "https://www.amazon.com/dp/1419720783/ref=nosim?tag=isitbanned-20"
+description: "The Haters follows three jazz camp dropouts who start a band and go on a chaotic road trip through the American South. From the author of Me and Earl and the Dying Girl, it has been challenged for sexual content, language, and drug references.'https://www.amazon.com/dp/1419720783/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781419720789"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781419720789/k/keyword"
 ---

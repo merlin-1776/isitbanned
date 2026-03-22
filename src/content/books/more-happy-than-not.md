@@ -29,8 +29,7 @@ banLocations:
     district: "Lamar Consolidated Independent School District"
     year: 2024
 totalChallenges: 14
-description: "More Happy Than Not follows Aaron Soto, a Bronx teenager who considers a memory-altering procedure to forget his emerging feelings for another boy. It has been challenged for LGBTQ+ themes, sexual content, and depictions of self-harm."
-amazonUrl: "https://www.amazon.com/dp/1616955600/ref=nosim?tag=isitbanned-20"
+description: "More Happy Than Not follows Aaron Soto, a Bronx teenager who considers a memory-altering procedure to forget his emerging feelings for another boy. It has been challenged for LGBTQ+ themes, sexual content, and depictions of self-harm.'https://www.amazon.com/dp/1616955600/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781616955601"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781616955601/k/keyword"
 ---

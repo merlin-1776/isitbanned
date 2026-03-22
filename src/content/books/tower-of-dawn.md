@@ -28,8 +28,7 @@ banLocations:
     district: "Knox County Schools"
     year: 2024
 totalChallenges: 18
-description: "Tower of Dawn follows Chaol Westfall as he journeys to the southern continent seeking healing and an alliance against the dark forces threatening Erilea. It has been challenged for sexual content and violence."
-amazonUrl: "https://www.amazon.com/dp/168119577X/ref=nosim?tag=isitbanned-20"
+description: "Tower of Dawn follows Chaol Westfall as he journeys to the southern continent seeking healing and an alliance against the dark forces threatening Erilea. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/168119577X/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781681195773"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781681195773/k/keyword"
 ---

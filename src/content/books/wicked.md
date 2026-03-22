@@ -30,8 +30,7 @@ banLocations:
     district: "Okaloosa County School District"
     year: 2025
 totalChallenges: 40
-description: "Wicked reimagines the Land of Oz from the perspective of the Wicked Witch of the West, Elphaba, exploring themes of good and evil, political oppression, and identity. It has been challenged for sexual content, political themes, and religious objections."
-amazonUrl: "https://www.amazon.com/dp/0060391448/ref=nosim?tag=isitbanned-20"
+description: "Wicked reimagines the Land of Oz from the perspective of the Wicked Witch of the West, Elphaba, exploring themes of good and evil, political oppression, and identity. It has been challenged for sexual content, political themes, and religious objections.'https://www.amazon.com/dp/0060391448/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780060391447"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060391447/k/keyword"
 ---

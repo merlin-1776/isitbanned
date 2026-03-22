@@ -29,8 +29,7 @@ banLocations:
     district: "Pinellas County Schools"
     year: 2025
 totalChallenges: 18
-description: "Beautiful follows Cassie as she reinvents herself at a new school, falling into a world of drugs, sex, and toxic friendship. It has been challenged for its depictions of underage drug use, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/1416978305/ref=nosim?tag=isitbanned-20"
+description: "Beautiful follows Cassie as she reinvents herself at a new school, falling into a world of drugs, sex, and toxic friendship. It has been challenged for its depictions of underage drug use, sexual content, and language.'https://www.amazon.com/dp/1416978305/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416978305"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416978305/k/keyword"
 ---

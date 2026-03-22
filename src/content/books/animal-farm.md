@@ -31,8 +31,7 @@ banLocations:
     year: 1982
     sourceUrl: "https://www.thelist.com/1122886/the-real-reason-animal-farm-became-a-banned-book/"
 totalChallenges: 29
-description: "Animal Farm by George Orwell is an allegorical novella about a farm revolution that descends into tyranny. Banned for political content from both the left and right since 1945."
-amazonUrl: "https://www.amazon.com/dp/0451526341?tag=isitbanned-20"
+description: "Animal Farm by George Orwell is an allegorical novella about a farm revolution that descends into tyranny. Banned for political content from both the left and right since 1945.'https://www.amazon.com/dp/0451526341?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780451526342/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780451526342"
 ---

@@ -29,8 +29,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 30
-description: "The Lovely Bones is narrated by Susie Salmon, a fourteen-year-old girl who watches from heaven as her family and killer navigate life after her murder. It has been challenged for its depiction of rape, murder, and mature themes."
-amazonUrl: "https://www.amazon.com/dp/0316168815/ref=nosim?tag=isitbanned-20"
+description: "The Lovely Bones is narrated by Susie Salmon, a fourteen-year-old girl who watches from heaven as her family and killer navigate life after her murder. It has been challenged for its depiction of rape, murder, and mature themes.'https://www.amazon.com/dp/0316168815/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780316168816"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316168816/k/keyword"
 ---

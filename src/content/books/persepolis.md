@@ -28,8 +28,7 @@ banLocations:
     year: 2023
     sourceUrl: "https://guides.lib.uconn.edu/c.php?g=606679&p=4206258"
 totalChallenges: 18
-description: "Marjane Satrapi's graphic memoir of growing up in Iran during the Islamic Revolution, banned for depictions of torture, violence, and political content."
-amazonUrl: "https://www.amazon.com/dp/037571457X?tag=isitbanned-20"
+description: "Marjane Satrapi's graphic memoir of growing up in Iran during the Islamic Revolution, banned for depictions of torture, violence, and political content.'https://www.amazon.com/dp/037571457X?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375714573/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780375714573"
 ---

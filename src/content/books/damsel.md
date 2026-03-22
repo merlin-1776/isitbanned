@@ -28,8 +28,7 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 22
-description: "Damsel is a dark feminist fairy tale in which a prince rescues a girl from a dragon, only for her to discover that the rescue is part of a horrifying cycle of violence and control. It has been challenged for sexual content and depictions of violence against women."
-amazonUrl: "https://www.amazon.com/dp/0062742329/ref=nosim?tag=isitbanned-20"
+description: "Damsel is a dark feminist fairy tale in which a prince rescues a girl from a dragon, only for her to discover that the rescue is part of a horrifying cycle of violence and control. It has been challenged for sexual content and depictions of violence against women.'https://www.amazon.com/dp/0062742329/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062742322"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062742322/k/keyword"
 ---

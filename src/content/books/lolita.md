@@ -26,8 +26,7 @@ banLocations:
     district: "Marion County Public Schools"
     year: 2023
 totalChallenges: 45
-description: "Lolita by Vladimir Nabokov is a controversial literary masterpiece about an unreliable narrator's obsession with a young girl. Banned globally for sexual content since 1955."
-amazonUrl: "https://www.amazon.com/dp/0679723161?tag=isitbanned-20"
+description: "Lolita by Vladimir Nabokov is a controversial literary masterpiece about an unreliable narrator's obsession with a young girl. Banned globally for sexual content since 1955.'https://www.amazon.com/dp/0679723161?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679723165/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679723165"
 ---

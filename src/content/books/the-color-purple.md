@@ -33,8 +33,7 @@ banLocations:
     district: "Oklahoma City Public Schools"
     year: 2024
 totalChallenges: 213
-description: "The Color Purple is Alice Walker's Pulitzer Prize-winning epistolary novel about Celie, a young Black woman in the rural South who endures abuse and oppression but ultimately finds her voice, independence, and capacity for love. It has been challenged continuously since its publication in 1982."
-amazonUrl: "https://www.amazon.com/dp/0156028352/ref=nosim?tag=isitbanned-20"
+description: "The Color Purple is Alice Walker's Pulitzer Prize-winning epistolary novel about Celie, a young Black woman in the rural South who endures abuse and oppression but ultimately finds her voice, independence, and capacity for love. It has been challenged continuously since its publication in 1982.'https://www.amazon.com/dp/0156028352/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780156028356/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780156028356"
 ---

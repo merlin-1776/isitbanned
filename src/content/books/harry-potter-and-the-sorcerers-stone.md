@@ -31,8 +31,7 @@ banLocations:
     year: 2000
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/harry-potter-series/"
 totalChallenges: 96
-description: "The first Harry Potter novel, the most challenged book of the 21st century, banned primarily for themes of witchcraft and perceived promotion of the occult."
-amazonUrl: "https://www.amazon.com/dp/059035342X?tag=isitbanned-20"
+description: "The first Harry Potter novel, the most challenged book of the 21st century, banned primarily for themes of witchcraft and perceived promotion of the occult.'https://www.amazon.com/dp/059035342X?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780590353427/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780590353427"
 ---

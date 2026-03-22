@@ -12,8 +12,7 @@ banLocations:
     district: "Cobb County School District"
     year: 2024
 totalChallenges: 18
-description: "A Court of Silver Flames follows Nesta Archeron as she deals with trauma, trains as a warrior, and begins a relationship with Cassian. It has been challenged for its explicit sexual content."
-amazonUrl: "https://www.amazon.com/dp/1635577993/ref=nosim?tag=isitbanned-20"
+description: "A Court of Silver Flames follows Nesta Archeron as she deals with trauma, trains as a warrior, and begins a relationship with Cassian. It has been challenged for its explicit sexual content.'https://www.amazon.com/dp/1635577993/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781635577990"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635577990/k/keyword"
 ---

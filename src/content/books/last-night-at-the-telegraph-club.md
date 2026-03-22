@@ -28,8 +28,7 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 30
-description: "Set in 1950s San Francisco Chinatown, Last Night at the Telegraph Club follows Lily Hu as she discovers her attraction to women during the McCarthy era, navigating identity, family expectations, and the threat of deportation. It has been challenged for its LGBTQ+ content."
-amazonUrl: "https://www.amazon.com/dp/0525555250/ref=nosim?tag=isitbanned-20"
+description: "Set in 1950s San Francisco Chinatown, Last Night at the Telegraph Club follows Lily Hu as she discovers her attraction to women during the McCarthy era, navigating identity, family expectations, and the threat of deportation. It has been challenged for its LGBTQ+ content.'https://www.amazon.com/dp/0525555250/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780525555254"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780525555254/k/keyword"
 ---

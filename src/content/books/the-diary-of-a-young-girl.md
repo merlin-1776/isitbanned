@@ -31,8 +31,7 @@ banLocations:
     year: 2023
     sourceUrl: "https://www.jta.org/2023/06/12/culture/a-new-version-of-the-holocausts-most-famous-diary-is-being-called-anne-frank-pornography-and-getting-banned-from-schools"
 totalChallenges: 28
-description: "Anne Frank's diary of hiding from the Nazis in Amsterdam, challenged for passages about her body, sexuality, and romantic feelings toward a female friend."
-amazonUrl: "https://www.amazon.com/dp/0553296981?tag=isitbanned-20"
+description: "Anne Frank's diary of hiding from the Nazis in Amsterdam, challenged for passages about her body, sexuality, and romantic feelings toward a female friend.'https://www.amazon.com/dp/0553296981?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780553296983/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780553296983"
 ---

@@ -29,8 +29,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 18
-description: "The Poet X follows Xiomara Batista, a Dominican American teenager in Harlem who pours her frustrations with her strict religious mother and her own desires into slam poetry. It has been challenged for its portrayal of religion, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/0062662805/ref=nosim?tag=isitbanned-20"
+description: "The Poet X follows Xiomara Batista, a Dominican American teenager in Harlem who pours her frustrations with her strict religious mother and her own desires into slam poetry. It has been challenged for its portrayal of religion, sexual content, and language.'https://www.amazon.com/dp/0062662805/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062662804"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062662804/k/keyword"
 ---

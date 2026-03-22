@@ -29,8 +29,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 16
-description: "The Female of the Species follows Alex Craft, a girl who killed the man who raped and murdered her sister, and the two classmates drawn into her orbit during senior year. It has been challenged for violence, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/0062320890/ref=nosim?tag=isitbanned-20"
+description: "The Female of the Species follows Alex Craft, a girl who killed the man who raped and murdered her sister, and the two classmates drawn into her orbit during senior year. It has been challenged for violence, sexual content, and language.'https://www.amazon.com/dp/0062320890/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062320896"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062320896/k/keyword"
 ---

@@ -26,8 +26,7 @@ banLocations:
     year: 2013
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/fifty-shades-of-grey/"
 totalChallenges: 22
-description: "E.L. James' erotic romance novel, removed from public libraries across the country for explicit sexual content and BDSM themes."
-amazonUrl: "https://www.amazon.com/dp/0345803485?tag=isitbanned-20"
+description: "E.L. James' erotic romance novel, removed from public libraries across the country for explicit sexual content and BDSM themes.'https://www.amazon.com/dp/0345803485?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780345803481/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780345803481"
 ---

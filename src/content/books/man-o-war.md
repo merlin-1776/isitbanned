@@ -28,8 +28,7 @@ banLocations:
     district: "School District of Osceola County"
     year: 2025
 totalChallenges: 16
-description: "Man o' War follows River, a nonbinary teen and competitive swimmer, navigating gender identity, first love, and family expectations. It has been challenged for its LGBTQ+ themes and sexual content."
-amazonUrl: "https://www.amazon.com/dp/0593353706/ref=nosim?tag=isitbanned-20"
+description: "Man o' War follows River, a nonbinary teen and competitive swimmer, navigating gender identity, first love, and family expectations. It has been challenged for its LGBTQ+ themes and sexual content.'https://www.amazon.com/dp/0593353706/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780593353707"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593353707/k/keyword"
 ---

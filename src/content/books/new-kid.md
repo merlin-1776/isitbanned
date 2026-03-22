@@ -28,10 +28,10 @@ banLocations:
     district: "Williamson County Schools"
     year: 2022
 totalChallenges: 30
-description: "New Kid by Jerry Craft is a Newbery Medal-winning graphic novel about a Black boy navigating a predominantly white private school. Banned for alleged critical race theory content."
-amazonUrl: "https://www.amazon.com/dp/0062691198?tag=isitbanned-20"
+description: "Jordan Banks, a Black seventh-grader from Washington Heights, navigates being one of the few kids of color at a prestigious private school.'https://www.amazon.com/dp/0062691198?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062691194/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062691194"
+whyRead: "Craft's graphic novel won the Newbery Medal, the Coretta Scott King Award, and the Kirkus Prize. It captures microaggressions with humor and heartbreak."
 ---
 
 Jordan Banks is a seventh-grader from Washington Heights who dreams of going to art school. Instead, his parents send him to Riverdale Academy Day School, a prestigious private school where he's one of the few kids of color. Jordan navigates microaggressions, mistaken identities (the teachers keep mixing up the Black students), and the exhausting daily work of code-switching between his neighborhood and his school. Jerry Craft based the story on his own childhood experiences and illustrated it as a graphic novel. It won the 2020 Newbery Medal, the first graphic novel to do so.

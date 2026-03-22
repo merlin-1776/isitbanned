@@ -29,8 +29,7 @@ banLocations:
     district: "Lubbock ISD"
     year: 2023
 totalChallenges: 19
-description: "Flowers for Algernon by Daniel Keyes tells the story of Charlie Gordon, a man with an intellectual disability who undergoes experimental surgery to increase his intelligence. Banned for sexual content, profanity, and religious objections."
-amazonUrl: "https://www.amazon.com/dp/0156030306?tag=isitbanned-20"
+description: "Flowers for Algernon by Daniel Keyes tells the story of Charlie Gordon, a man with an intellectual disability who undergoes experimental surgery to increase his intelligence. Banned for sexual content, profanity, and religious objections.'https://www.amazon.com/dp/0156030306?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780156030304/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780156030304"
 ---

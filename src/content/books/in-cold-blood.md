@@ -26,8 +26,7 @@ banLocations:
     year: 1999
     sourceUrl: "https://librarymom12.wordpress.com/2014/09/24/banned-book-week-2014-in-cold-blood/"
 totalChallenges: 15
-description: "In Cold Blood by Truman Capote is the pioneering true crime book about the 1959 murder of the Clutter family in Kansas. Banned for violence and sexual content in school districts across Georgia, California, and Kentucky."
-amazonUrl: "https://www.amazon.com/dp/0679745580/ref=nosim?tag=isitbanned-20"
+description: "In Cold Blood by Truman Capote is the pioneering true crime book about the 1959 murder of the Clutter family in Kansas. Banned for violence and sexual content in school districts across Georgia, California, and Kentucky.'https://www.amazon.com/dp/0679745580/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679745587/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679745587"
 ---

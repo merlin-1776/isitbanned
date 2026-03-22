@@ -30,8 +30,7 @@ banLocations:
     district: "Williamson County Schools"
     year: 2024
 totalChallenges: 146
-description: "Out of Darkness is a historical novel set in 1937 East Texas, interweaving a forbidden interracial love story between a Mexican-American girl and a Black boy with the real-life New London school explosion that killed nearly 300 people. It won the Américas Award for its portrayal of race and injustice."
-amazonUrl: "https://www.amazon.com/dp/1467742023/ref=nosim?tag=isitbanned-20"
+description: "Out of Darkness is a historical novel set in 1937 East Texas, interweaving a forbidden interracial love story between a Mexican-American girl and a Black boy with the real-life New London school explosion that killed nearly 300 people. It won the Américas Award for its portrayal of race and injustice.'https://www.amazon.com/dp/1467742023/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781467742023/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781467742023"
 ---

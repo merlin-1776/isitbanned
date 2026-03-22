@@ -27,8 +27,7 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.washingtonpost.com/education/2022/01/27/maus-ban-tennessee-mcminn-county-holocaust/"
 totalChallenges: 43
-description: "Art Spiegelman's Pulitzer Prize-winning graphic novel about the Holocaust, depicting Jews as mice and Nazis as cats, banned for profanity and a brief nude drawing."
-amazonUrl: "https://www.amazon.com/dp/0394747232?tag=isitbanned-20"
+description: "Art Spiegelman's Pulitzer Prize-winning graphic novel about the Holocaust, depicting Jews as mice and Nazis as cats, banned for profanity and a brief nude drawing.'https://www.amazon.com/dp/0394747232?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780394747231/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780394747231"
 ---

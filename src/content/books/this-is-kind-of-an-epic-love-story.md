@@ -28,8 +28,7 @@ banLocations:
     district: "Knox County Schools"
     year: 2025
 totalChallenges: 15
-description: "This Is Kind of an Epic Love Story follows Nathan Bird, a film-obsessed teen who realizes he's in love with his best friend Oliver. It has been challenged for its LGBTQ+ themes and sexual content."
-amazonUrl: "https://www.amazon.com/dp/0062820222/ref=nosim?tag=isitbanned-20"
+description: "This Is Kind of an Epic Love Story follows Nathan Bird, a film-obsessed teen who realizes he's in love with his best friend Oliver. It has been challenged for its LGBTQ+ themes and sexual content.'https://www.amazon.com/dp/0062820222/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062820228"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062820228/k/keyword"
 ---

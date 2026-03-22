@@ -21,8 +21,7 @@ banLocations:
     year: 2006
     sourceUrl: "https://adirondackcenterforwriting.org/charlottes-web-banned-by-duane-herrmann/"
 totalChallenges: 10
-description: "Charlotte's Web by E.B. White is a classic children's novel about a pig and a spider. Challenged because talking animals are 'blasphemous' and the spider's death is 'inappropriate for children.'"
-amazonUrl: "https://www.amazon.com/dp/0064400557/ref=nosim?tag=isitbanned-20"
+description: "Charlotte's Web by E.B. White is a classic children's novel about a pig and a spider. Challenged because talking animals are 'blasphemous' and the spider's death is 'inappropriate for children.''https://www.amazon.com/dp/0064400557/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064400558/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064400558"
 ---

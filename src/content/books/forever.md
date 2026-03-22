@@ -26,8 +26,7 @@ banLocations:
     district: "Greenville County Schools"
     year: 2024
 totalChallenges: 224
-description: "Forever is Judy Blume's groundbreaking novel about Katherine and Michael, two teenagers who fall in love and make the decision to have sex. Published in 1975, it was one of the first young adult novels to depict teenage sexuality honestly and without punishment."
-amazonUrl: "https://www.amazon.com/dp/1481414437/ref=nosim?tag=isitbanned-20"
+description: "Forever is Judy Blume's groundbreaking novel about Katherine and Michael, two teenagers who fall in love and make the decision to have sex. Published in 1975, it was one of the first young adult novels to depict teenage sexuality honestly and without punishment.'https://www.amazon.com/dp/1481414437/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481414432/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481414432"
 ---

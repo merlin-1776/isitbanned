@@ -29,8 +29,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2024
 totalChallenges: 16
-description: "Homegoing traces two branches of a family tree across three centuries, from 18th-century Ghana through the slave trade to modern America. It has been challenged for its depictions of sexual violence, racial violence, and mature themes."
-amazonUrl: "https://www.amazon.com/dp/1101947136/ref=nosim?tag=isitbanned-20"
+description: "Homegoing traces two branches of a family tree across three centuries, from 18th-century Ghana through the slave trade to modern America. It has been challenged for its depictions of sexual violence, racial violence, and mature themes.'https://www.amazon.com/dp/1101947136/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781101947135"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781101947135/k/keyword"
 ---

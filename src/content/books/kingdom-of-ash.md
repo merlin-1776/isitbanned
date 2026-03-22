@@ -28,8 +28,7 @@ banLocations:
     district: "Columbia County School District (GA)"
     year: 2025
 totalChallenges: 20
-description: "Kingdom of Ash is the epic conclusion to Sarah J. Maas's Throne of Glass series, in which Aelin Galathynius fights to save her world from a dark god. It has been challenged for sexual content and violence."
-amazonUrl: "https://www.amazon.com/dp/1619636115/ref=nosim?tag=isitbanned-20"
+description: "Kingdom of Ash is the epic conclusion to Sarah J. Maas's Throne of Glass series, in which Aelin Galathynius fights to save her world from a dark god. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/1619636115/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781619636118"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781619636118/k/keyword"
 ---

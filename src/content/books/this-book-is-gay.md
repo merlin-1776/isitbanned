@@ -30,10 +30,10 @@ banLocations:
     district: "Berkeley County School District"
     year: 2024
 totalChallenges: 142
-description: "This Book Is Gay is a nonfiction guide for LGBTQ+ teens and their allies, covering topics from coming out to safe sex to navigating relationships. Juno Dawson's accessible, sometimes cheeky handbook has been one of the most banned books in America since the recent wave of challenges began."
-amazonUrl: "https://www.amazon.com/dp/1492617830/ref=nosim?tag=isitbanned-20"
+description: "A frank, funny guide to all things LGBTQ+ for teens and curious adults, covering identity, coming out, sex, and mental health.'https://www.amazon.com/dp/1492617830/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781492617839/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781492617839"
+whyRead: "Dawson writes with the warmth and directness of a cool older sibling who's been through it. Honest information about queer identity isn't dangerous. Ignorance is."
 ---
 
 This Book Is Gay is exactly what its title promises: a frank, funny, and informative guide to being LGBTQ+. Dawson covers the basics of sexual orientation and gender identity, offers practical advice about coming out, discusses safe sex, and addresses the mental health challenges that disproportionately affect queer youth. The book includes contributions from real LGBTQ+ young people sharing their experiences, and Dawson's tone is warm, irreverent, and deliberately casual, like a knowledgeable older sibling who's been through it all and wants to make things easier.

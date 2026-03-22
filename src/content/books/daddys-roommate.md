@@ -28,8 +28,7 @@ banLocations:
     district: "Cumberland County Public Library"
     year: 1996
 totalChallenges: 90
-description: "Daddy's Roommate by Michael Willhoite is a picture book about a boy whose father lives with another man. The 2nd most challenged book of the 1990s, it continues to be banned in Florida and across the country."
-amazonUrl: "https://www.amazon.com/dp/1555831184/ref=nosim?tag=isitbanned-20"
+description: "Daddy's Roommate by Michael Willhoite is a picture book about a boy whose father lives with another man. The 2nd most challenged book of the 1990s, it continues to be banned in Florida and across the country.'https://www.amazon.com/dp/1555831184/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781555831189/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781555831189"
 ---

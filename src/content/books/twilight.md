@@ -28,8 +28,7 @@ banLocations:
     year: 2010
     sourceUrl: "https://www.theguardian.com/books/2010/apr/15/stephenie-meyer-most-challenged-authors"
 totalChallenges: 64
-description: "Twilight by Stephenie Meyer has been banned and challenged for its religious viewpoint, sexual content, and occult themes involving vampires and the supernatural."
-amazonUrl: "https://www.amazon.com/dp/0316015849?tag=isitbanned-20"
+description: "Twilight by Stephenie Meyer has been banned and challenged for its religious viewpoint, sexual content, and occult themes involving vampires and the supernatural.'https://www.amazon.com/dp/0316015849?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316015844/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316015844"
 ---

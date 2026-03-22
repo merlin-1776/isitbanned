@@ -29,8 +29,7 @@ banLocations:
     district: "School District of Palm Beach County"
     year: 2025
 totalChallenges: 22
-description: "Storm and Fury follows Trinity Marrow, an eighteen-year-old with a dangerous secret, who is caught between warring angels and demons. It has been challenged for sexual content, violence, and religious themes involving angels and demons."
-amazonUrl: "https://www.amazon.com/dp/1335015302/ref=nosim?tag=isitbanned-20"
+description: "Storm and Fury follows Trinity Marrow, an eighteen-year-old with a dangerous secret, who is caught between warring angels and demons. It has been challenged for sexual content, violence, and religious themes involving angels and demons.'https://www.amazon.com/dp/1335015302/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781335015303"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781335015303/k/keyword"
 ---

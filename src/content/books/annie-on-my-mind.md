@@ -27,8 +27,7 @@ banLocations:
     district: "Multnomah County Library"
     year: 1994
 totalChallenges: 50
-description: "Annie on My Mind by Nancy Garden is a groundbreaking YA novel about two teenage girls who fall in love. Burned in front of the Kansas City School Board in 1993, it was restored only after an ACLU lawsuit."
-amazonUrl: "https://www.amazon.com/dp/0374400113/ref=nosim?tag=isitbanned-20"
+description: "Annie on My Mind by Nancy Garden is a groundbreaking YA novel about two teenage girls who fall in love. Burned in front of the Kansas City School Board in 1993, it was restored only after an ACLU lawsuit.'https://www.amazon.com/dp/0374400113/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374400118/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780374400118"
 ---

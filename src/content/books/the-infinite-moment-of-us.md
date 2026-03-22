@@ -27,8 +27,7 @@ banLocations:
     district: "Ankeny Community School District"
     year: 2024
 totalChallenges: 16
-description: "The Infinite Moment of Us follows Wren and Charlie as they fall in love the summer after high school graduation, navigating first love, family pressure, and sexual intimacy. It has been challenged for its depiction of teen sexuality."
-amazonUrl: "https://www.amazon.com/dp/1419707930/ref=nosim?tag=isitbanned-20"
+description: "The Infinite Moment of Us follows Wren and Charlie as they fall in love the summer after high school graduation, navigating first love, family pressure, and sexual intimacy. It has been challenged for its depiction of teen sexuality.'https://www.amazon.com/dp/1419707930/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781419707933"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781419707933/k/keyword"
 ---

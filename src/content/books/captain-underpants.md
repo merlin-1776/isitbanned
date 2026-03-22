@@ -28,8 +28,7 @@ banLocations:
     year: 2019
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/harry-potter-series/"
 totalChallenges: 85
-description: "Dav Pilkey's beloved children's series about two fourth-graders who hypnotize their principal into becoming a superhero, the #1 most challenged book in 2012 and 2013."
-amazonUrl: "https://www.amazon.com/dp/0545385628?tag=isitbanned-20"
+description: "Dav Pilkey's beloved children's series about two fourth-graders who hypnotize their principal into becoming a superhero, the #1 most challenged book in 2012 and 2013.'https://www.amazon.com/dp/0545385628?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545385626/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545385626"
 ---

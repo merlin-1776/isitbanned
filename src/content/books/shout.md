@@ -29,8 +29,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 15
-description: "Shout is Laurie Halse Anderson's memoir-in-verse about surviving sexual assault, becoming a writer, and the decades she spent hearing from readers of Speak who shared their own stories of abuse. It has been challenged for its discussion of sexual assault and mature themes."
-amazonUrl: "https://www.amazon.com/dp/0670012106/ref=nosim?tag=isitbanned-20"
+description: "Shout is Laurie Halse Anderson's memoir-in-verse about surviving sexual assault, becoming a writer, and the decades she spent hearing from readers of Speak who shared their own stories of abuse. It has been challenged for its discussion of sexual assault and mature themes.'https://www.amazon.com/dp/0670012106/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780670012107"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780670012107/k/keyword"
 ---

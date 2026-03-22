@@ -32,8 +32,7 @@ banLocations:
     year: 2009
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/i-know-why-the-caged-bird-sings/"
 totalChallenges: 39
-description: "Maya Angelou's memoir of growing up Black in the Jim Crow South, challenged for its depiction of childhood sexual assault, racism, and sexuality."
-amazonUrl: "https://www.amazon.com/dp/0345514408?tag=isitbanned-20"
+description: "Maya Angelou's memoir of growing up Black in the Jim Crow South, challenged for its depiction of childhood sexual assault, racism, and sexuality.'https://www.amazon.com/dp/0345514408?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780345514400/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780345514400"
 ---

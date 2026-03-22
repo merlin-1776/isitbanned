@@ -30,8 +30,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 16
-description: "Traffick is the sequel to Tricks, following five teenagers trapped in sex trafficking as they fight to escape and rebuild their lives. It has been challenged for its depictions of sexual exploitation, violence, drug use, and language."
-amazonUrl: "https://www.amazon.com/dp/1442482877/ref=nosim?tag=isitbanned-20"
+description: "Traffick is the sequel to Tricks, following five teenagers trapped in sex trafficking as they fight to escape and rebuild their lives. It has been challenged for its depictions of sexual exploitation, violence, drug use, and language.'https://www.amazon.com/dp/1442482877/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781442482876"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781442482876/k/keyword"
 ---

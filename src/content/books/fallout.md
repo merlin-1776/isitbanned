@@ -29,8 +29,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 18
-description: "Fallout follows the three children of Kristina Snow from the Crank trilogy as they navigate the lasting damage of their mother's methamphetamine addiction. It has been challenged for depictions of drug abuse, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/1416950095/ref=nosim?tag=isitbanned-20"
+description: "Fallout follows the three children of Kristina Snow from the Crank trilogy as they navigate the lasting damage of their mother's methamphetamine addiction. It has been challenged for depictions of drug abuse, sexual content, and language.'https://www.amazon.com/dp/1416950095/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416950097"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950097/k/keyword"
 ---

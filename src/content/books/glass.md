@@ -30,8 +30,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 22
-description: "Glass is the sequel to Crank, continuing Kristina Snow's descent into methamphetamine addiction as she loses custody of her son and spirals deeper into the drug world. It has been challenged for its depictions of drug abuse, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/1416940901/ref=nosim?tag=isitbanned-20"
+description: "Glass is the sequel to Crank, continuing Kristina Snow's descent into methamphetamine addiction as she loses custody of her son and spirals deeper into the drug world. It has been challenged for its depictions of drug abuse, sexual content, and language.'https://www.amazon.com/dp/1416940901/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416940906"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940906/k/keyword"
 ---

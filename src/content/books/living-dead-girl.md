@@ -29,8 +29,7 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 30
-description: "Living Dead Girl tells the story of Alice, a girl kidnapped at age ten and held captive by a predator for five years. Written in spare, haunting prose, it has been challenged for its depiction of child sexual abuse and violence."
-amazonUrl: "https://www.amazon.com/dp/1416960597/ref=nosim?tag=isitbanned-20"
+description: "Living Dead Girl tells the story of Alice, a girl kidnapped at age ten and held captive by a predator for five years. Written in spare, haunting prose, it has been challenged for its depiction of child sexual abuse and violence.'https://www.amazon.com/dp/1416960597/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416960591"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416960591/k/keyword"
 ---

@@ -26,8 +26,7 @@ banLocations:
     district: "Little Rock Central High School"
     year: 2013
 totalChallenges: 15
-description: "Fight Club by Chuck Palahniuk is a novel about masculinity, consumerism, and underground violence. Banned from the Texas prison system, challenged in schools, and censored in China."
-amazonUrl: "https://www.amazon.com/dp/0393327345/ref=nosim?tag=isitbanned-20"
+description: "Fight Club by Chuck Palahniuk is a novel about masculinity, consumerism, and underground violence. Banned from the Texas prison system, challenged in schools, and censored in China.'https://www.amazon.com/dp/0393327345/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780393327342/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780393327342"
 ---

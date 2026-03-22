@@ -30,8 +30,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 25
-description: "Burned tells the story of Pattyn Von Stratten, a seventeen-year-old girl raised in a strict Mormon household who begins to question everything she's been taught about faith, love, and obedience. It has been challenged for its depiction of religion, sexual content, and drug use."
-amazonUrl: "https://www.amazon.com/dp/1416903550/ref=nosim?tag=isitbanned-20"
+description: "Burned tells the story of Pattyn Von Stratten, a seventeen-year-old girl raised in a strict Mormon household who begins to question everything she's been taught about faith, love, and obedience. It has been challenged for its depiction of religion, sexual content, and drug use.'https://www.amazon.com/dp/1416903550/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416903550"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416903550/k/keyword"
 ---

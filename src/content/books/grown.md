@@ -29,8 +29,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 18
-description: "Grown follows Enchanted Jones, a teenage singer who is groomed and abused by a famous R&B artist, inspired by real cases of celebrity predation. It has been challenged for sexual content, violence, and language."
-amazonUrl: "https://www.amazon.com/dp/0062840355/ref=nosim?tag=isitbanned-20"
+description: "Grown follows Enchanted Jones, a teenage singer who is groomed and abused by a famous R&B artist, inspired by real cases of celebrity predation. It has been challenged for sexual content, violence, and language.'https://www.amazon.com/dp/0062840355/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062840356"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062840356/k/keyword"
 ---

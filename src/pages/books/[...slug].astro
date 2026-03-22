@@ -36,10 +36,22 @@ const {
 	amazonUrl,
 	bookshopUrl,
 	capitalBooksUrl,
+	buyLinks,
+	series,
+	seriesOrder,
+	whyRead,
 } = book.data;
 
 const uniqueStates = [...new Set(banLocations.map((l) => l.state))];
 const reasonsList = banReasons.join(', ');
+
+// Get other books in same series
+const allBooks = await getCollection('books');
+const seriesBooks = series
+	? allBooks
+		.filter((b) => b.data.series === series && b.data.slug !== slug)
+		.sort((a, b) => (a.data.seriesOrder || 0) - (b.data.seriesOrder || 0))
+	: [];
 ---
 
 <!doctype html>
@@ -74,6 +86,9 @@ const reasonsList = banReasons.join(', ');
 
 			<div class="book-header">
 				<span class="banned-stamp">BANNED</span>
+				{series && (
+					<a href={`/series/${slugifyAuthor(series)}`} class="series-tag">📚 {series} Series</a>
+				)}
 				<h1>Yes, <em>{title}</em> Is Banned!</h1>
 				<p class="book-meta">
 					by <a href={`/authors/${slugifyAuthor(author)}`} class="author-link"><strong>{author}</strong></a>
@@ -88,9 +103,31 @@ const reasonsList = banReasons.join(', ');
 				<span class="count-label">documented challenges</span>
 			</div>
 
+			{whyRead && (
+				<section class="why-read">
+					<h2>📖 Why You Should Read This Book</h2>
+					<p>{whyRead}</p>
+				</section>
+			)}
+
 			<section class="book-content prose">
 				<Content />
 			</section>
+
+			{seriesBooks.length > 0 && (
+				<section class="series-nav">
+					<h2>More in the {series} Series</h2>
+					<div class="series-list">
+						{seriesBooks.map((b) => (
+							<a href={`/books/${b.data.slug}`} class="series-item">
+								{b.data.seriesOrder && <span class="series-num">#{b.data.seriesOrder}</span>}
+								<span class="series-title">{b.data.title}</span>
+								<span class="series-challenges">{b.data.totalChallenges} challenges</span>
+							</a>
+						))}
+					</div>
+				</section>
+			)}
 
 			<section class="ban-reasons">
 				<h2>Why Was It Banned?</h2>
@@ -125,40 +162,66 @@ const reasonsList = banReasons.join(', ');
 			<section class="buy-section">
 				<h2>Read It Anyway</h2>
 				<p>The best response to a book ban is reading the book. Here's where to get it:</p>
-				<div class="buy-options">
-					{capitalBooksUrl && (
-						<div class="buy-option capital">
-							<a href={capitalBooksUrl} target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
-								Buy from Capital Books
-							</a>
-							<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
-						</div>
-					)}
-					{!capitalBooksUrl && (
-						<div class="buy-option capital">
-							<a href="https://capitalbooksonk.com" target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
-								Buy from Capital Books
-							</a>
-							<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
-						</div>
-					)}
-					{bookshopUrl && (
-						<div class="buy-option bookshop">
-							<a href={bookshopUrl} target="_blank" rel="noopener noreferrer" class="buy-btn bookshop-btn">
-								Buy on Bookshop.org
-							</a>
-							<p class="buy-pitch">Support indie bookstores. Pick one or help them all. (We make 10%.)</p>
-						</div>
-					)}
-					{amazonUrl && (
-						<div class="buy-option amazon">
-							<a href={amazonUrl} target="_blank" rel="noopener noreferrer" class="buy-btn amazon-btn">
-								Buy on Amazon
-							</a>
-							<p class="buy-pitch">Yeah, we know. They're cheap, easy, and you already have an account. (We make 4%.)</p>
-						</div>
-					)}
-				</div>
+
+				{/* Multiple editions/formats */}
+				{buyLinks && buyLinks.length > 0 && (
+					<div class="editions">
+						{buyLinks.map((edition) => (
+							<div class="edition-group">
+								<h3 class="edition-label">{edition.label}</h3>
+								<div class="buy-options">
+									{edition.capitalBooks && (
+										<a href={edition.capitalBooks} target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">Capital Books</a>
+									)}
+									{edition.bookshop && (
+										<a href={edition.bookshop} target="_blank" rel="noopener noreferrer" class="buy-btn bookshop-btn">Bookshop.org</a>
+									)}
+									{edition.amazon && (
+										<a href={edition.amazon} target="_blank" rel="noopener noreferrer" class="buy-btn amazon-btn">Amazon</a>
+									)}
+								</div>
+							</div>
+						))}
+					</div>
+				)}
+
+				{/* Legacy single links (fallback) */}
+				{(!buyLinks || buyLinks.length === 0) && (
+					<div class="buy-options">
+						{capitalBooksUrl && (
+							<div class="buy-option capital">
+								<a href={capitalBooksUrl} target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
+									Buy from Capital Books
+								</a>
+								<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
+							</div>
+						)}
+						{!capitalBooksUrl && (
+							<div class="buy-option capital">
+								<a href="https://capitalbooksonk.com" target="_blank" rel="noopener noreferrer" class="buy-btn capital-btn">
+									Buy from Capital Books
+								</a>
+								<p class="buy-pitch">Support the bookstore that built this site. You won't get your book overnight, but we'll make 30%.</p>
+							</div>
+						)}
+						{bookshopUrl && (
+							<div class="buy-option bookshop">
+								<a href={bookshopUrl} target="_blank" rel="noopener noreferrer" class="buy-btn bookshop-btn">
+									Buy on Bookshop.org
+								</a>
+								<p class="buy-pitch">Support indie bookstores. Pick one or help them all. (We make 10%.)</p>
+							</div>
+						)}
+						{amazonUrl && (
+							<div class="buy-option amazon">
+								<a href={amazonUrl} target="_blank" rel="noopener noreferrer" class="buy-btn amazon-btn">
+									Buy on Amazon
+								</a>
+								<p class="buy-pitch">Yeah, we know. They're cheap, easy, and you already have an account. (We make 4%.)</p>
+							</div>
+						)}
+					</div>
+				)}
 			</section>
 
 			<section class="faq">
@@ -224,6 +287,22 @@ const reasonsList = banReasons.join(', ');
 				border-radius: 4px;
 				letter-spacing: 0.15em;
 				margin-bottom: 0.75em;
+			}
+			.series-tag {
+				display: inline-block;
+				background: #1e3a5f;
+				color: #fff;
+				font-size: 0.85rem;
+				font-weight: 600;
+				padding: 0.3em 1em;
+				border-radius: 4px;
+				margin-bottom: 0.75em;
+				margin-left: 0.5em;
+				text-decoration: none;
+				transition: background 0.2s;
+			}
+			.series-tag:hover {
+				background: #2d5a87;
 			}
 			h1 {
 				font-size: 2.5em;
@@ -422,6 +501,87 @@ const reasonsList = banReasons.join(', ');
 				.buy-options {
 					grid-template-columns: 1fr;
 				}
+			}
+			.why-read {
+				background: linear-gradient(135deg, #1e3a5f, #2d5a87);
+				color: #fff;
+				padding: 2em;
+				border-radius: 12px;
+				margin-bottom: 2em;
+			}
+			.why-read h2 {
+				color: #fff;
+				font-size: 1.5em;
+				margin-bottom: 0.5em;
+			}
+			.why-read p {
+				font-size: 1.05rem;
+				line-height: 1.7;
+				opacity: 0.95;
+			}
+			.series-nav {
+				margin-bottom: 2em;
+			}
+			.series-nav h2 {
+				font-size: 1.5em;
+				margin-bottom: 0.75em;
+			}
+			.series-list {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+				gap: 0.75em;
+			}
+			.series-item {
+				display: flex;
+				flex-direction: column;
+				padding: 0.75em 1em;
+				background: #fff;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 8px;
+				text-decoration: none;
+				transition: border-color 0.2s;
+			}
+			.series-item:hover {
+				border-color: var(--accent);
+			}
+			.series-num {
+				font-size: 0.8rem;
+				font-weight: 700;
+				color: var(--accent);
+			}
+			.series-title {
+				font-weight: 600;
+				color: #111;
+			}
+			.series-challenges {
+				font-size: 0.8rem;
+				color: rgb(var(--gray));
+			}
+			.editions {
+				display: flex;
+				flex-direction: column;
+				gap: 1em;
+			}
+			.edition-group {
+				background: rgba(255, 255, 255, 0.05);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 10px;
+				padding: 1.25em;
+			}
+			.edition-label {
+				color: #fff;
+				font-size: 1rem;
+				margin-bottom: 0.75em;
+			}
+			.edition-group .buy-options {
+				display: flex;
+				gap: 0.75em;
+				flex-wrap: wrap;
+			}
+			.edition-group .buy-btn {
+				flex: 1;
+				min-width: 140px;
+				text-align: center;
 			}
 			.faq {
 				margin-bottom: 2em;

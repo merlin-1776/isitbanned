@@ -29,8 +29,7 @@ banLocations:
     district: "School District of Palm Beach County"
     year: 2025
 totalChallenges: 25
-description: "A Clash of Kings, the second book in the A Song of Ice and Fire series, continues the epic struggle for the Iron Throne as multiple kings vie for power across Westeros. It has been challenged for graphic violence, sexual content, and language."
-amazonUrl: "https://www.amazon.com/dp/0553579908/ref=nosim?tag=isitbanned-20"
+description: "A Clash of Kings, the second book in the A Song of Ice and Fire series, continues the epic struggle for the Iron Throne as multiple kings vie for power across Westeros. It has been challenged for graphic violence, sexual content, and language.'https://www.amazon.com/dp/0553579908/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780553579901"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780553579901/k/keyword"
 ---

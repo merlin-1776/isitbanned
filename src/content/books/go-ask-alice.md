@@ -28,8 +28,7 @@ banLocations:
     year: 2023
     sourceUrl: "https://www.miamiherald.com/news/local/education/article279607304.html"
 totalChallenges: 91
-description: "Go Ask Alice is an anonymous diary-style novel about a teenage girl's descent into drug addiction. It has been one of the most frequently banned books in America since the 1970s."
-amazonUrl: "https://www.amazon.com/dp/1442468076?tag=isitbanned-20"
+description: "Go Ask Alice is an anonymous diary-style novel about a teenage girl's descent into drug addiction. It has been one of the most frequently banned books in America since the 1970s.'https://www.amazon.com/dp/1442468076?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781442468078/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781442468078"
 ---

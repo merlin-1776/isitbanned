@@ -30,8 +30,7 @@ banLocations:
     district: "Monroe County Schools"
     year: 2025
 totalChallenges: 20
-description: "Perfect follows four teenagers whose pursuit of perfection leads them into eating disorders, steroid abuse, drug addiction, and the pressure to hide their true selves. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language."
-amazonUrl: "https://www.amazon.com/dp/1416983244/ref=nosim?tag=isitbanned-20"
+description: "Perfect follows four teenagers whose pursuit of perfection leads them into eating disorders, steroid abuse, drug addiction, and the pressure to hide their true selves. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language.'https://www.amazon.com/dp/1416983244/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416983248"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416983248/k/keyword"
 ---

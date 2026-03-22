@@ -30,8 +30,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 25
-description: "This One Summer is a graphic novel about Rose and Windy, two girls spending the summer at a lakeside town, navigating their parents' problems and the confusing threshold between childhood and adolescence. It has been challenged for sexual references, drug use, and LGBTQ+ themes."
-amazonUrl: "https://www.amazon.com/dp/159643774X/ref=nosim?tag=isitbanned-20"
+description: "This One Summer is a graphic novel about Rose and Windy, two girls spending the summer at a lakeside town, navigating their parents' problems and the confusing threshold between childhood and adolescence. It has been challenged for sexual references, drug use, and LGBTQ+ themes.'https://www.amazon.com/dp/159643774X/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781596437746"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781596437746/k/keyword"
 ---

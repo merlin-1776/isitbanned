@@ -30,8 +30,7 @@ banLocations:
     district: "Central Bucks School District"
     year: 2023
 totalChallenges: 40
-description: "My Sister's Keeper by Jodi Picoult tells the story of a girl conceived to be a donor match for her sister with leukemia. Banned in Florida, Iowa, and other states for sexual content and mature themes."
-amazonUrl: "https://www.amazon.com/dp/0743454537/ref=nosim?tag=isitbanned-20"
+description: "My Sister's Keeper by Jodi Picoult tells the story of a girl conceived to be a donor match for her sister with leukemia. Banned in Florida, Iowa, and other states for sexual content and mature themes.'https://www.amazon.com/dp/0743454537/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743454537/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743454537"
 ---

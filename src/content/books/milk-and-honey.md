@@ -29,8 +29,7 @@ banLocations:
     district: "Lewis Central Community School District"
     year: 2024
 totalChallenges: 25
-description: "Milk and Honey is a collection of poetry divided into four chapters dealing with survival, abuse, love, and femininity. It has been challenged for its references to sexual violence, sexuality, and content considered inappropriate for younger readers."
-amazonUrl: "https://www.amazon.com/dp/144947425X/ref=nosim?tag=isitbanned-20"
+description: "Milk and Honey is a collection of poetry divided into four chapters dealing with survival, abuse, love, and femininity. It has been challenged for its references to sexual violence, sexuality, and content considered inappropriate for younger readers.'https://www.amazon.com/dp/144947425X/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781449474256"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781449474256/k/keyword"
 ---

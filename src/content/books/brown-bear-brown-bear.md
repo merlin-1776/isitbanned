@@ -17,8 +17,7 @@ banLocations:
     year: 2010
     sourceUrl: "https://www.csmonitor.com/Books/2012/1003/30-banned-books-that-may-surprise-you/Brown-Bear-Brown-Bear-What-Do-You-See-by-Bill-Martin-Jr"
 totalChallenges: 5
-description: "Brown Bear, Brown Bear, What Do You See? by Bill Martin Jr. was banned in Texas in 2010 because the State Board of Education confused the children's author with a philosopher who wrote about Marxism."
-amazonUrl: "https://www.amazon.com/dp/0805047905/ref=nosim?tag=isitbanned-20"
+description: "Brown Bear, Brown Bear, What Do You See? by Bill Martin Jr. was banned in Texas in 2010 because the State Board of Education confused the children's author with a philosopher who wrote about Marxism.'https://www.amazon.com/dp/0805047905/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780805047905/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780805047905"
 ---

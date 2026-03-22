@@ -29,8 +29,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 16
-description: "Vampire Academy follows Rose Hathaway, a half-vampire guardian-in-training, and her best friend Lissa, a Moroi vampire princess, as they navigate supernatural politics and forbidden romance. It has been challenged for sexual content, violence, and occult themes."
-amazonUrl: "https://www.amazon.com/dp/1595141745/ref=nosim?tag=isitbanned-20"
+description: "Vampire Academy follows Rose Hathaway, a half-vampire guardian-in-training, and her best friend Lissa, a Moroi vampire princess, as they navigate supernatural politics and forbidden romance. It has been challenged for sexual content, violence, and occult themes.'https://www.amazon.com/dp/1595141745/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781595141743"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781595141743/k/keyword"
 ---

@@ -30,8 +30,7 @@ banLocations:
     district: "Pensacola School District"
     year: 2000
 totalChallenges: 22
-description: "The Great Gatsby by F. Scott Fitzgerald is a classic American novel about wealth, obsession, and the American Dream. Challenged for sexual references, profanity, and depictions of alcohol."
-amazonUrl: "https://www.amazon.com/dp/0743273567?tag=isitbanned-20"
+description: "The Great Gatsby by F. Scott Fitzgerald is a classic American novel about wealth, obsession, and the American Dream. Challenged for sexual references, profanity, and depictions of alcohol.'https://www.amazon.com/dp/0743273567?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743273565/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743273565"
 ---

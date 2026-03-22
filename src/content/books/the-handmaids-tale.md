@@ -30,8 +30,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2023
 totalChallenges: 143
-description: "The Handmaid's Tale is Margaret Atwood's dystopian novel set in Gilead, a totalitarian theocracy that has replaced the United States. Told through the eyes of Offred, a woman forced into reproductive servitude, it explores the intersection of religious extremism, patriarchy, and state power."
-amazonUrl: "https://www.amazon.com/dp/038549081X/ref=nosim?tag=isitbanned-20"
+description: "The Handmaid's Tale is Margaret Atwood's dystopian novel set in Gilead, a totalitarian theocracy that has replaced the United States. Told through the eyes of Offred, a woman forced into reproductive servitude, it explores the intersection of religious extremism, patriarchy, and state power.'https://www.amazon.com/dp/038549081X/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385490818/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385490818"
 ---

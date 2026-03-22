@@ -27,8 +27,7 @@ banLocations:
     year: 1986
     sourceUrl: "https://wordsdontdie.wordpress.com/banned-books-index/judy-blume/"
 totalChallenges: 30
-description: "Deenie by Judy Blume follows a teenager diagnosed with scoliosis who must wear a back brace. Banned for decades because the main character mentions masturbation."
-amazonUrl: "https://www.amazon.com/dp/1481411373/ref=nosim?tag=isitbanned-20"
+description: "Deenie by Judy Blume follows a teenager diagnosed with scoliosis who must wear a back brace. Banned for decades because the main character mentions masturbation.'https://www.amazon.com/dp/1481411373/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780481411370/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780481411370"
 ---

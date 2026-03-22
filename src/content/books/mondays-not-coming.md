@@ -29,8 +29,7 @@ banLocations:
     district: "Monroe County Schools"
     year: 2025
 totalChallenges: 16
-description: "Monday's Not Coming follows Claudia, a Black teenager whose best friend Monday goes missing and no one seems to care enough to look for her. It has been challenged for violence, language, and racial themes."
-amazonUrl: "https://www.amazon.com/dp/0062422677/ref=nosim?tag=isitbanned-20"
+description: "Monday's Not Coming follows Claudia, a Black teenager whose best friend Monday goes missing and no one seems to care enough to look for her. It has been challenged for violence, language, and racial themes.'https://www.amazon.com/dp/0062422677/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062422675"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062422675/k/keyword"
 ---

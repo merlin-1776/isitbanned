@@ -28,8 +28,7 @@ banLocations:
     district: "Alpine School District"
     year: 2022
 totalChallenges: 20
-description: "Saga (Volume 1) by Brian K. Vaughan and Fiona Staples is an epic sci-fi/fantasy comic about star-crossed parents from warring alien races. Banned for sexual content, LGBTQ+ themes, and violence."
-amazonUrl: "https://www.amazon.com/dp/1607066017?tag=isitbanned-20"
+description: "Saga (Volume 1) by Brian K. Vaughan and Fiona Staples is an epic sci-fi/fantasy comic about star-crossed parents from warring alien races. Banned for sexual content, LGBTQ+ themes, and violence.'https://www.amazon.com/dp/1607066017?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781607066019/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781607066019"
 ---

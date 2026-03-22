@@ -30,8 +30,7 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 20
-description: "Tilt follows three teenagers whose lives intersect around love, sex, and identity, told in Ellen Hopkins's signature verse format. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language."
-amazonUrl: "https://www.amazon.com/dp/1416983295/ref=nosim?tag=isitbanned-20"
+description: "Tilt follows three teenagers whose lives intersect around love, sex, and identity, told in Ellen Hopkins's signature verse format. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language.'https://www.amazon.com/dp/1416983295/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416983293"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416983293/k/keyword"
 ---

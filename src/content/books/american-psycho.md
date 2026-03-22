@@ -26,8 +26,7 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.esquire.com/entertainment/movies/a38910670/china-fight-club-ending-chuck-palahniuk-reaction/"
 totalChallenges: 20
-description: "American Psycho by Bret Easton Ellis is a satirical novel about a Wall Street serial killer. Banned in Australia, restricted in Germany, and challenged worldwide for extreme violence and sexual content."
-amazonUrl: "https://www.amazon.com/dp/0679735771/ref=nosim?tag=isitbanned-20"
+description: "American Psycho by Bret Easton Ellis is a satirical novel about a Wall Street serial killer. Banned in Australia, restricted in Germany, and challenged worldwide for extreme violence and sexual content.'https://www.amazon.com/dp/0679735771/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679735779/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679735779"
 ---

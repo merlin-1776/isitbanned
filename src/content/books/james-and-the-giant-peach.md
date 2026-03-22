@@ -30,8 +30,7 @@ banLocations:
     district: "Dallas ISD"
     year: 1995
 totalChallenges: 20
-description: "James and the Giant Peach by Roald Dahl is a children's fantasy about a boy who escapes his cruel aunts inside a magical giant peach. Banned for references to tobacco, alcohol, and the word 'ass.'"
-amazonUrl: "https://www.amazon.com/dp/0142410365/ref=nosim?tag=isitbanned-20"
+description: "James and the Giant Peach by Roald Dahl is a children's fantasy about a boy who escapes his cruel aunts inside a magical giant peach. Banned for references to tobacco, alcohol, and the word 'ass.''https://www.amazon.com/dp/0142410365/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780142410363/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780142410363"
 ---

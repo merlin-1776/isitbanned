@@ -29,8 +29,7 @@ banLocations:
     district: "Spotsylvania County Public Schools"
     year: 2022
 totalChallenges: 28
-description: "Gone with the Wind by Margaret Mitchell is a sweeping Civil War-era novel challenged for racial slurs, romanticized slavery, sexual content, and violence."
-amazonUrl: "https://www.amazon.com/dp/1451635621?tag=isitbanned-20"
+description: "Gone with the Wind by Margaret Mitchell is a sweeping Civil War-era novel challenged for racial slurs, romanticized slavery, sexual content, and violence.'https://www.amazon.com/dp/1451635621?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451635621/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451635621"
 ---

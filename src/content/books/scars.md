@@ -24,8 +24,7 @@ banLocations:
     district: "Wentzville School District"
     year: 2022
 totalChallenges: 20
-description: "Scars by Cheryl Rainfield is a YA novel about a teenager recovering from childhood sexual abuse who uses self-harm to cope. Banned for sexual content and violence across Texas and Florida school districts."
-amazonUrl: "https://www.amazon.com/dp/1934813324/ref=nosim?tag=isitbanned-20"
+description: "Scars by Cheryl Rainfield is a YA novel about a teenager recovering from childhood sexual abuse who uses self-harm to cope. Banned for sexual content and violence across Texas and Florida school districts.'https://www.amazon.com/dp/1934813324/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781934813324/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781934813324"
 ---

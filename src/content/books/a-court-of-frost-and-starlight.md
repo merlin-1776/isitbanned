@@ -27,8 +27,7 @@ banLocations:
     district: "Pinellas County Schools"
     year: 2025
 totalChallenges: 20
-description: "A Court of Frost and Starlight is a bridge novella in Sarah J. Maas's A Court of Thorns and Roses series, following Feyre and her inner circle as they celebrate the Winter Solstice while healing from war. It has been challenged primarily for sexual content."
-amazonUrl: "https://www.amazon.com/dp/1635575613/ref=nosim?tag=isitbanned-20"
+description: "A Court of Frost and Starlight is a bridge novella in Sarah J. Maas's A Court of Thorns and Roses series, following Feyre and her inner circle as they celebrate the Winter Solstice while healing from war. It has been challenged primarily for sexual content.'https://www.amazon.com/dp/1635575613/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781635575613"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635575613/k/keyword"
 ---

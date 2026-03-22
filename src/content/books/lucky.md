@@ -28,8 +28,7 @@ banLocations:
     district: "St. Francis Area Schools"
     year: 2025
 totalChallenges: 20
-description: "Lucky is Alice Sebold's memoir of being raped as a college freshman and the subsequent criminal trial. It has been challenged for its graphic descriptions of sexual assault and violence."
-amazonUrl: "https://www.amazon.com/dp/0316096199/ref=nosim?tag=isitbanned-20"
+description: "Lucky is Alice Sebold's memoir of being raped as a college freshman and the subsequent criminal trial. It has been challenged for its graphic descriptions of sexual assault and violence.'https://www.amazon.com/dp/0316096199/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780316096195"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316096195/k/keyword"
 ---

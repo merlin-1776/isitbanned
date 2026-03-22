@@ -28,8 +28,7 @@ banLocations:
     district: "Granbury ISD"
     year: 2024
 totalChallenges: 30
-description: "Oryx and Crake by Margaret Atwood is a speculative fiction novel about genetic engineering, corporate power, and humanity's capacity for self-destruction. Banned in Utah statewide in 2024 and challenged across multiple Texas districts."
-amazonUrl: "https://www.amazon.com/dp/0385721676/ref=nosim?tag=isitbanned-20"
+description: "Oryx and Crake by Margaret Atwood is a speculative fiction novel about genetic engineering, corporate power, and humanity's capacity for self-destruction. Banned in Utah statewide in 2024 and challenged across multiple Texas districts.'https://www.amazon.com/dp/0385721676/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385721677/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385721677"
 ---

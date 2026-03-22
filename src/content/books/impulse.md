@@ -30,8 +30,7 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 20
-description: "Impulse follows three teenagers who meet in a psychiatric hospital after each has attempted suicide. It has been challenged for its depictions of suicide, sexual content, drug use, and LGBTQ+ themes."
-amazonUrl: "https://www.amazon.com/dp/1416903569/ref=nosim?tag=isitbanned-20"
+description: "Impulse follows three teenagers who meet in a psychiatric hospital after each has attempted suicide. It has been challenged for its depictions of suicide, sexual content, drug use, and LGBTQ+ themes.'https://www.amazon.com/dp/1416903569/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781416903567"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416903567/k/keyword"
 ---

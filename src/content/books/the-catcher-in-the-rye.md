@@ -31,8 +31,7 @@ banLocations:
     year: 1963
     sourceUrl: "https://bannedbooks.library.cmu.edu/j-d-salinger-the-catcher-in-the-rye/"
 totalChallenges: 75
-description: "J.D. Salinger's classic novel about teenage alienation, the most censored book in American high schools from 1961 to 1982."
-amazonUrl: "https://www.amazon.com/dp/0316769487?tag=isitbanned-20"
+description: "J.D. Salinger's classic novel about teenage alienation, the most censored book in American high schools from 1961 to 1982.'https://www.amazon.com/dp/0316769487?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316769488/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316769488"
 ---

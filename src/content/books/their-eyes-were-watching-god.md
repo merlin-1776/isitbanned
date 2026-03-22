@@ -28,8 +28,7 @@ banLocations:
     district: "Brevard County Schools"
     year: 2023
 totalChallenges: 18
-description: "Their Eyes Were Watching God by Zora Neale Hurston follows Janie Crawford's search for love and independence in the early 20th century South. Challenged for sexual content, language, and racial themes."
-amazonUrl: "https://www.amazon.com/dp/0061120065?tag=isitbanned-20"
+description: "Their Eyes Were Watching God by Zora Neale Hurston follows Janie Crawford's search for love and independence in the early 20th century South. Challenged for sexual content, language, and racial themes.'https://www.amazon.com/dp/0061120065?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780061120060/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780061120060"
 ---

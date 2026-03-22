@@ -29,8 +29,7 @@ banLocations:
     district: "Oak Ridge Schools"
     year: 2025
 totalChallenges: 18
-description: "I Am Not Your Perfect Mexican Daughter follows Julia Reyes, a first-generation Mexican American teenager dealing with her sister's death, her family's expectations, and her own ambitions. It has been challenged for sexual content, language, and drug references."
-amazonUrl: "https://www.amazon.com/dp/1524700487/ref=nosim?tag=isitbanned-20"
+description: "I Am Not Your Perfect Mexican Daughter follows Julia Reyes, a first-generation Mexican American teenager dealing with her sister's death, her family's expectations, and her own ambitions. It has been challenged for sexual content, language, and drug references.'https://www.amazon.com/dp/1524700487/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781524700485"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781524700485/k/keyword"
 ---

@@ -1,0 +1,207 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import BookCard from '../../components/BookCard.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { SITE_TITLE } from '../../consts';
+import { getCollection } from 'astro:content';
+
+function slugify(name: string) {
+	return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
+export async function getStaticPaths() {
+	const books = await getCollection('books');
+	const seriesMap = new Map<string, typeof books>();
+
+	for (const book of books) {
+		if (!book.data.series) continue;
+		const seriesSlug = slugify(book.data.series);
+		if (!seriesMap.has(seriesSlug)) {
+			seriesMap.set(seriesSlug, []);
+		}
+		seriesMap.get(seriesSlug)!.push(book);
+	}
+
+	return Array.from(seriesMap.entries()).map(([slug, books]) => ({
+		params: { series: slug },
+		props: {
+			seriesName: books[0].data.series!,
+			books: books.sort((a, b) => (a.data.seriesOrder || 999) - (b.data.seriesOrder || 999)),
+		},
+	}));
+}
+
+const { seriesName, books } = Astro.props;
+const totalChallenges = books.reduce((sum: number, b: any) => sum + b.data.totalChallenges, 0);
+const uniqueStates = [...new Set(books.flatMap((b: any) => b.data.banLocations.map((l: any) => l.state)))];
+const authors = [...new Set(books.map((b: any) => b.data.author))];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`${seriesName} Series — Banned Books | ${SITE_TITLE}`}
+			description={`The ${seriesName} series has been banned or challenged ${totalChallenges} times across ${uniqueStates.length} states. ${books.length} books in this series have been targeted for removal.`}
+		/>
+	</head>
+	<body>
+		<Header />
+		<div class="page-layout">
+		<main>
+			<nav class="breadcrumb">
+				<a href="/">Home</a> →
+				<a href="/books/">Books</a> →
+				<span>{seriesName} Series</span>
+			</nav>
+
+			<div class="series-header">
+				<span class="banned-stamp">BANNED SERIES</span>
+				<h1>The <em>{seriesName}</em> Series</h1>
+				<p class="series-meta">
+					by {authors.map((a, i) => (
+						<><a href={`/authors/${slugify(a)}`} class="author-link"><strong>{a}</strong></a>{i < authors.length - 1 ? ', ' : ''}</>
+					))}
+				</p>
+			</div>
+
+			<div class="series-stats">
+				<div class="stat">
+					<span class="stat-number">{books.length}</span>
+					<span class="stat-label">books targeted</span>
+				</div>
+				<div class="stat">
+					<span class="stat-number">{totalChallenges}</span>
+					<span class="stat-label">total challenges</span>
+				</div>
+				<div class="stat">
+					<span class="stat-number">{uniqueStates.length}</span>
+					<span class="stat-label">states</span>
+				</div>
+			</div>
+
+			<section class="books-grid">
+				<h2>Books in This Series</h2>
+				{books.map((book: any) => <BookCard book={book} />)}
+			</section>
+
+			<section class="faq">
+				<h2>Frequently Asked Questions</h2>
+				<div class="faq-item">
+					<h3>Is the {seriesName} series banned?</h3>
+					<p>Yes. {books.length} books in the {seriesName} series have been banned or challenged a combined {totalChallenges} times across {uniqueStates.length} states, including {uniqueStates.slice(0, 5).join(', ')}.</p>
+				</div>
+				<div class="faq-item">
+					<h3>Which {seriesName} books are banned?</h3>
+					<p>The following titles have been banned or challenged: {books.map((b: any) => b.data.title).join(', ')}.</p>
+				</div>
+			</section>
+		</main>
+		<Sidebar />
+		</div>
+		<Footer />
+
+		<style>
+			.page-layout {
+				display: flex;
+				gap: 2em;
+				max-width: 1280px;
+				margin: 0 auto;
+				padding: 2em 1em;
+			}
+			main {
+				flex: 1;
+				min-width: 0;
+			}
+			.breadcrumb {
+				margin-bottom: 2em;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.breadcrumb a {
+				color: rgb(var(--gray));
+				text-decoration: none;
+			}
+			.breadcrumb a:hover {
+				color: var(--accent);
+			}
+			.series-header {
+				margin-bottom: 1.5em;
+			}
+			.banned-stamp {
+				display: inline-block;
+				background: var(--accent);
+				color: #fff;
+				font-size: 0.85rem;
+				font-weight: 800;
+				padding: 0.3em 1em;
+				border-radius: 4px;
+				letter-spacing: 0.15em;
+				margin-bottom: 0.75em;
+			}
+			h1 {
+				font-size: 2.5em;
+				line-height: 1.15;
+				margin-bottom: 0.3em;
+			}
+			h1 em { font-style: italic; }
+			.series-meta { font-size: 1.1rem; color: rgb(var(--gray)); }
+			.author-link {
+				color: var(--accent);
+				text-decoration: none;
+			}
+			.author-link:hover { text-decoration: underline; }
+			.series-stats {
+				display: flex;
+				gap: 1.5em;
+				margin-bottom: 2em;
+			}
+			.stat {
+				background: #111;
+				color: #fff;
+				padding: 1em 1.5em;
+				border-radius: 8px;
+				text-align: center;
+				flex: 1;
+			}
+			.stat-number {
+				display: block;
+				font-size: 2.5em;
+				font-weight: 800;
+				color: var(--accent);
+				line-height: 1;
+			}
+			.stat-label {
+				font-size: 0.85rem;
+				opacity: 0.7;
+			}
+			.books-grid {
+				margin-bottom: 2em;
+			}
+			.books-grid h2 {
+				font-size: 1.8em;
+				margin-bottom: 0.75em;
+			}
+			.faq { margin-bottom: 2em; }
+			.faq h2 { font-size: 1.8em; margin-bottom: 1em; }
+			.faq-item {
+				background: #fff;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 8px;
+				padding: 1.5em;
+				margin-bottom: 1em;
+			}
+			.faq-item h3 { font-size: 1.1rem; margin-bottom: 0.5em; color: var(--accent-dark); }
+			.faq-item p { margin: 0; font-size: 0.95rem; line-height: 1.6; }
+			@media (max-width: 960px) {
+				.page-layout { flex-direction: column; }
+			}
+			@media (max-width: 720px) {
+				h1 { font-size: 1.8em; }
+				.series-stats { flex-direction: column; }
+			}
+		</style>
+	</body>
+</html>

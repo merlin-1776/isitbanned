@@ -30,8 +30,7 @@ banLocations:
     district: "Cobb County School District"
     year: 2024
 totalChallenges: 30
-description: "Push tells the story of Precious Jones, an illiterate, obese Black teenager in Harlem who has been raped repeatedly by her father and abused by her mother. It has been challenged for graphic depictions of sexual abuse, violence, and language."
-amazonUrl: "https://www.amazon.com/dp/0679446265/ref=nosim?tag=isitbanned-20"
+description: "Push tells the story of Precious Jones, an illiterate, obese Black teenager in Harlem who has been raped repeatedly by her father and abused by her mother. It has been challenged for graphic depictions of sexual abuse, violence, and language.'https://www.amazon.com/dp/0679446265/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780679446262"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679446262/k/keyword"
 ---

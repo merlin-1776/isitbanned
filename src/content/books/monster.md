@@ -29,8 +29,7 @@ banLocations:
     district: "Wake County Public Schools"
     year: 2013
 totalChallenges: 25
-description: "Monster by Walter Dean Myers follows a 16-year-old Black teenager on trial for felony murder, told through his screenplay. Banned for violence, profanity, and mature themes in multiple states."
-amazonUrl: "https://www.amazon.com/dp/0064407314/ref=nosim?tag=isitbanned-20"
+description: "Monster by Walter Dean Myers follows a 16-year-old Black teenager on trial for felony murder, told through his screenplay. Banned for violence, profanity, and mature themes in multiple states.'https://www.amazon.com/dp/0064407314/ref=nosim?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064407311/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064407311"
 ---

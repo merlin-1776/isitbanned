@@ -29,8 +29,7 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 14
-description: "The Carnival at Bray follows Maggie Lynch, a Chicago teenager transplanted to a small Irish town in 1993, navigating grief, first love, and the grunge music scene. It has been challenged for sexual content, drug use, and language."
-amazonUrl: "https://www.amazon.com/dp/1467730548/ref=nosim?tag=isitbanned-20"
+description: "The Carnival at Bray follows Maggie Lynch, a Chicago teenager transplanted to a small Irish town in 1993, navigating grief, first love, and the grunge music scene. It has been challenged for sexual content, drug use, and language.'https://www.amazon.com/dp/1467730548/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781467730549"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781467730549/k/keyword"
 ---

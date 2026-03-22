@@ -29,8 +29,7 @@ banLocations:
     district: "Department of Defense Educational Activitity"
     year: 2025
 totalChallenges: 35
-description: "Beyond Magenta presents the stories of six transgender and nonbinary teens through interviews and photographs. It has been challenged for its LGBTQ+ content, sexual references, and being considered inappropriate for its target audience."
-amazonUrl: "https://www.amazon.com/dp/0763656119/ref=nosim?tag=isitbanned-20"
+description: "Beyond Magenta presents the stories of six transgender and nonbinary teens through interviews and photographs. It has been challenged for its LGBTQ+ content, sexual references, and being considered inappropriate for its target audience.'https://www.amazon.com/dp/0763656119/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780763656119"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780763656119/k/keyword"
 ---

@@ -30,8 +30,7 @@ banLocations:
     district: "Lamar Consolidated Independent School District"
     year: 2024
 totalChallenges: 14
-description: "We Are the Ants follows Henry Denton, a teen who has been periodically abducted by aliens and is now given a choice: press a button to save the world, or let it end. It has been challenged for LGBTQ+ themes, sexual content, and depictions of suicide."
-amazonUrl: "https://www.amazon.com/dp/1481449636/ref=nosim?tag=isitbanned-20"
+description: "We Are the Ants follows Henry Denton, a teen who has been periodically abducted by aliens and is now given a choice: press a button to save the world, or let it end. It has been challenged for LGBTQ+ themes, sexual content, and depictions of suicide.'https://www.amazon.com/dp/1481449636/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781481449632"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481449632/k/keyword"
 ---

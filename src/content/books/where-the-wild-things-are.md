@@ -28,8 +28,7 @@ banLocations:
     year: 2023
     sourceUrl: "https://readingpartners.org/blog/five-childrens-books-you-didnt-know-were-banned/"
 totalChallenges: 42
-description: "Where the Wild Things Are by Maurice Sendak has been challenged and banned since 1963 for being too dark and frightening for children, with objections to its supernatural elements."
-amazonUrl: "https://www.amazon.com/dp/0064431789?tag=isitbanned-20"
+description: "Where the Wild Things Are by Maurice Sendak has been challenged and banned since 1963 for being too dark and frightening for children, with objections to its supernatural elements.'https://www.amazon.com/dp/0064431789?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064431781/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064431781"
 ---

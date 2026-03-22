@@ -28,8 +28,7 @@ banLocations:
     district: "Santa Rosa County Schools"
     year: 2025
 totalChallenges: 20
-description: "Red Hood is a feminist retelling of Little Red Riding Hood in which Bisou Martel discovers a connection between her body, the wolves in the nearby woods, and generations of women who came before her. It has been challenged for sexual content and violence."
-amazonUrl: "https://www.amazon.com/dp/0062742353/ref=nosim?tag=isitbanned-20"
+description: "Red Hood is a feminist retelling of Little Red Riding Hood in which Bisou Martel discovers a connection between her body, the wolves in the nearby woods, and generations of women who came before her. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/0062742353/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780062742353"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062742353/k/keyword"
 ---

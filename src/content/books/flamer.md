@@ -29,8 +29,7 @@ banLocations:
     district: "Central Bucks School District"
     year: 2023
 totalChallenges: 136
-description: "Flamer is a graphic novel memoir about Aiden Navarro, a half-Filipino boy at a Boy Scout camp in the early 2000s who is struggling with his identity, his attraction to other boys, and relentless bullying. It was a National Book Award finalist and has been widely banned."
-amazonUrl: "https://www.amazon.com/dp/1627796410/ref=nosim?tag=isitbanned-20"
+description: "Flamer is a graphic novel memoir about Aiden Navarro, a half-Filipino boy at a Boy Scout camp in the early 2000s who is struggling with his identity, his attraction to other boys, and relentless bullying. It was a National Book Award finalist and has been widely banned.'https://www.amazon.com/dp/1627796410/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781627796415"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781627796415/k/keyword"
 ---

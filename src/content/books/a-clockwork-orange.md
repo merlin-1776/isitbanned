@@ -30,8 +30,7 @@ banLocations:
     district: "Okaloosa County School District"
     year: 2025
 totalChallenges: 85
-description: "A Clockwork Orange follows Alex, a teenage delinquent in a dystopian future who leads his gang through nights of ultraviolence before being subjected to a brutal government rehabilitation program. It has been challenged for its graphic depictions of violence, sexual assault, and drug use."
-amazonUrl: "https://www.amazon.com/dp/0393312836/ref=nosim?tag=isitbanned-20"
+description: "A Clockwork Orange follows Alex, a teenage delinquent in a dystopian future who leads his gang through nights of ultraviolence before being subjected to a brutal government rehabilitation program. It has been challenged for its graphic depictions of violence, sexual assault, and drug use.'https://www.amazon.com/dp/0393312836/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9780393312836"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780393312836/k/keyword"
 ---

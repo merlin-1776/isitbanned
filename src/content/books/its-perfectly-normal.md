@@ -28,8 +28,7 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.jsonline.com/story/news/education/2023/11/07/heres-a-list-wisconsin-schools-with-book-bans-and-restrictions/71401064007/"
 totalChallenges: 78
-description: "It's Perfectly Normal by Robie H. Harris is a comprehensive sex education book for young people. It has been one of the most frequently banned books in America for its frank illustrations and discussions of puberty, sex, and sexual health."
-amazonUrl: "https://www.amazon.com/dp/0763668729?tag=isitbanned-20"
+description: "It's Perfectly Normal by Robie H. Harris is a comprehensive sex education book for young people. It has been one of the most frequently banned books in America for its frank illustrations and discussions of puberty, sex, and sexual health.'https://www.amazon.com/dp/0763668729?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780763668723/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780763668723"
 ---

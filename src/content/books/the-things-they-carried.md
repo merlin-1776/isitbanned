@@ -27,8 +27,7 @@ banLocations:
     year: 2018
     sourceUrl: "https://www.oif.ala.org/the-things-they-carried-a-challenge-in-utah/"
 totalChallenges: 35
-description: "The Things They Carried by Tim O'Brien is a collection of linked stories about the Vietnam War that has been banned and challenged for its profanity, sexual content, and graphic violence."
-amazonUrl: "https://www.amazon.com/dp/0618706410?tag=isitbanned-20"
+description: "The Things They Carried by Tim O'Brien is a collection of linked stories about the Vietnam War that has been banned and challenged for its profanity, sexual content, and graphic violence.'https://www.amazon.com/dp/0618706410?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780618706419/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780618706419"
 ---

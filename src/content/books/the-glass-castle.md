@@ -32,8 +32,7 @@ banLocations:
     year: 2023
     sourceUrl: "https://en.wikipedia.org/wiki/The_Glass_Castle"
 totalChallenges: 37
-description: "Jeannette Walls' memoir of growing up with dysfunctional, nomadic parents, challenged for depictions of alcoholism, sexual assault, and child neglect."
-amazonUrl: "https://www.amazon.com/dp/074324754X?tag=isitbanned-20"
+description: "Jeannette Walls' memoir of growing up with dysfunctional, nomadic parents, challenged for depictions of alcoholism, sexual assault, and child neglect.'https://www.amazon.com/dp/074324754X?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743247542/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743247542"
 ---

@@ -27,8 +27,7 @@ banLocations:
     year: 2008
     sourceUrl: "https://reactormag.com/banned-books-week-philip-pullmans-his-dark-materials/"
 totalChallenges: 42
-description: "Philip Pullman's fantasy novel about a girl in a parallel universe, challenged for anti-religious themes and criticized by the Catholic League as promoting atheism."
-amazonUrl: "https://www.amazon.com/dp/0440238137?tag=isitbanned-20"
+description: "Philip Pullman's fantasy novel about a girl in a parallel universe, challenged for anti-religious themes and criticized by the Catholic League as promoting atheism.'https://www.amazon.com/dp/0440238137?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780440238133/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780440238133"
 ---

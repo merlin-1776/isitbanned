@@ -32,8 +32,7 @@ banLocations:
     year: 2003
     sourceUrl: "https://bbark.deepforestproductions.com/column/2011/03/27/banned-books-awareness-giver-lois-lowry/"
 totalChallenges: 64
-description: "Lois Lowry's Newbery Medal-winning dystopian novel about a society that has eliminated pain, color, and choice, challenged over 11,000 times since publication."
-amazonUrl: "https://www.amazon.com/dp/0544336267?tag=isitbanned-20"
+description: "Lois Lowry's Newbery Medal-winning dystopian novel about a society that has eliminated pain, color, and choice, challenged over 11,000 times since publication.'https://www.amazon.com/dp/0544336267?tag=isitbanned-20"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780544336261/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780544336261"
 ---
