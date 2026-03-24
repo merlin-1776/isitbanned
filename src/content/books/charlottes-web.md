@@ -21,9 +21,11 @@ banLocations:
     year: 2006
     sourceUrl: "https://adirondackcenterforwriting.org/charlottes-web-banned-by-duane-herrmann/"
 totalChallenges: 10
-description: "Charlotte's Web by E.B. White is a classic children's novel about a pig and a spider. Challenged because talking animals are 'blasphemous' and the spider's death is 'inappropriate for children.''https://www.amazon.com/dp/0064400557/ref=nosim?tag=isitbanned-20"
+description: "Charlotte's Web by E.B. White is a classic children's novel about a pig and a spider. Challenged because talking animals are 'blasphemous' and the spider's death is 'inappropriate for children.'"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064400558/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064400558"
+whyRead: "White wrote a perfect children's novel about friendship, mortality, and a spider who could spell. It's been making kids cry about a pig since 1952."
+amazonUrl: "https://www.amazon.com/dp/0140364498/ref=nosim?tag=isitbanned-20"
 ---
 
 Charlotte's Web is the story of a pig named Wilbur and his friendship with a barn spider named Charlotte, who saves his life by weaving words into her web. When Charlotte writes "SOME PIG" above Wilbur's pen, the farmer decides to spare him from slaughter. Published in 1952 by Harper & Brothers with illustrations by Garth Williams, it's sold over 45 million copies, been translated into 23 languages, and earned the 1953 Newbery Honor. It is, by any measure, one of the most beloved children's books ever written.

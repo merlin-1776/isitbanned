@@ -29,9 +29,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 16
-description: "I'll Give You the Sun follows twins Jude and Noah, whose bond is shattered by secrets, grief, and the discovery of Noah's sexuality. It has been challenged for LGBTQ+ themes, sexual content, and language.'https://www.amazon.com/dp/0803734964/ref=nosim?tag=isitbanned-20"
+description: "I'll Give You the Sun follows twins Jude and Noah, whose bond is shattered by secrets, grief, and the discovery of Noah's sexuality. It has been challenged for LGBTQ+ themes, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780803734968"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780803734968/k/keyword"
+whyRead: "Nelson's novel about twins who split apart and slowly reconnect is told in two timelines, two voices, and some of the most gorgeous prose in YA."
+amazonUrl: "https://www.amazon.com/dp/0142425761/ref=nosim?tag=isitbanned-20"
 ---
 
 Jandy Nelson's Printz Award winner alternates between twin perspectives and timelines. At thirteen, Noah is the artist, sensitive and secretly in love with the boy next door. Jude is the daredevil, their mother's favorite. At sixteen, their positions have reversed: Noah has retreated into himself, Jude has taken up art, and a family tragedy has driven them apart. Nelson writes with lyrical excess, her prose stuffed with color and metaphor and the kind of emotional intensity that mirrors the adolescent experience of feeling everything at maximum volume. The novel is about art, grief, forgiveness, and the irreducible complexity of loving someone you're also competing with.

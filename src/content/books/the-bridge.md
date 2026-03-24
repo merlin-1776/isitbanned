@@ -16,4 +16,7 @@ banLocations:
       year: 2021
 totalChallenges: 3
 description: "'The Bridge"
+amazonUrl: "https://www.amazon.com/dp/1338325051/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781338325034"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781338325034/k/keyword"
 ---

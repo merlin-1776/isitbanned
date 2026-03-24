@@ -28,9 +28,11 @@ banLocations:
     district: "Muskego-Norway School District"
     year: 1986
 totalChallenges: 30
-description: "Blubber by Judy Blume depicts schoolyard bullying without a neat moral resolution. Banned for profanity, bullying depictions, and the fact that the bullies face no consequences.'https://www.amazon.com/dp/0142408905/ref=nosim?tag=isitbanned-20"
+description: "Blubber by Judy Blume depicts schoolyard bullying without a neat moral resolution. Banned for profanity, bullying depictions, and the fact that the bullies face no consequences."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780142408902/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780142408902"
+whyRead: "Blume wrote a book about childhood bullying where nobody learns a lesson and nobody is punished. That's what makes it honest."
+amazonUrl: "https://www.amazon.com/dp/0440407075/ref=nosim?tag=isitbanned-20"
 ---
 
 Blubber is Judy Blume's unflinching look at bullying through the eyes of Jill Brenner, a fifth-grader who participates in the relentless tormenting of her classmate Linda, nicknamed "Blubber" after a class presentation about whales. The bullying is cruel, specific, and escalating, and Blume doesn't soften it. When Jill finally tries to stand up for Linda, the pack turns on her instead. Published in 1974 by Bradbury Press, it's one of the rare children's books that shows how bullying actually works: messy, contagious, and often unpunished.

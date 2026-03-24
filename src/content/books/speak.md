@@ -30,9 +30,11 @@ banLocations:
     district: "Edmond Public Schools"
     year: 2023
 totalChallenges: 161
-description: "Speak is Laurie Halse Anderson's award-winning novel about Melinda Sordino, a high school freshman who is ostracized after calling the police at a summer party. As the story unfolds, readers learn the truth: Melinda was raped, and her silence is slowly destroying her.'https://www.amazon.com/dp/0312674392/ref=nosim?tag=isitbanned-20"
+description: "Speak is Laurie Halse Anderson's award-winning novel about Melinda Sordino, a high school freshman who is ostracized after calling the police at a summer party. As the story unfolds, readers learn the truth: Melinda was raped, and her silence is slowly destroying her."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780312674397/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780312674397"
+whyRead: "Anderson's novel about a girl who stops speaking after a sexual assault gave language to millions of survivors. Silencing the book is silencing them again."
+amazonUrl: "https://www.amazon.com/dp/0312674392/ref=nosim?tag=isitbanned-20"
 ---
 
 Speak follows Melinda Sordino through her nightmarish freshman year at Merryweather High School. She called the police at a summer party and is now universally despised by her classmates, but no one knows why she made the call, because Melinda has almost completely stopped speaking. Through her sardonic inner monologue and her art class projects, the truth gradually emerges: Melinda was raped at the party by an upperclassman, and her inability to tell anyone is consuming her. Anderson's novel is a landmark of young adult literature, credited with opening conversations about sexual assault and the importance of believing survivors.

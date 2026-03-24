@@ -30,9 +30,11 @@ banLocations:
     district: "Williamson County Schools"
     year: 2024
 totalChallenges: 146
-description: "Out of Darkness is a historical novel set in 1937 East Texas, interweaving a forbidden interracial love story between a Mexican-American girl and a Black boy with the real-life New London school explosion that killed nearly 300 people. It won the Américas Award for its portrayal of race and injustice.'https://www.amazon.com/dp/1467742023/ref=nosim?tag=isitbanned-20"
+description: "Out of Darkness is a historical novel set in 1937 East Texas, interweaving a forbidden interracial love story between a Mexican-American girl and a Black boy with the real-life New London school explosion that killed nearly 300 people. It won the Américas Award for its portrayal of race and injustice."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781467742023/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781467742023"
+whyRead: "Pérez's novel about the 1937 New London school explosion confronts racism in 1930s Texas with the urgency of someone writing about today."
+amazonUrl: "https://www.amazon.com/dp/1467742023/ref=nosim?tag=isitbanned-20"
 ---
 
 Out of Darkness is set in the segregated oil-boom town of New London, Texas in 1937, where Naomi, a Mexican-American teenager, and Wash, a Black teenager, form a forbidden connection across the rigid racial boundaries of the Jim Crow South. Pérez interweaves their love story with the true history of the New London school explosion, one of the deadliest disasters in American history, creating a novel that examines how systemic racism shapes every aspect of life, from who gets to love whom to who gets to survive. The book also unflinchingly depicts the sexual abuse Naomi endures at the hands of her white stepfather.

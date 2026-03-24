@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Ninth House"
+amazonUrl: "https://www.amazon.com/dp/1250798000/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781473227972"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781473227972/k/keyword"
 ---

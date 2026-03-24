@@ -28,9 +28,11 @@ banLocations:
     district: "Brevard County Schools"
     year: 2023
 totalChallenges: 18
-description: "Their Eyes Were Watching God by Zora Neale Hurston follows Janie Crawford's search for love and independence in the early 20th century South. Challenged for sexual content, language, and racial themes.'https://www.amazon.com/dp/0061120065?tag=isitbanned-20"
+description: "Their Eyes Were Watching God by Zora Neale Hurston follows Janie Crawford's search for love and independence in the early 20th century South. Challenged for sexual content, language, and racial themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780061120060/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780061120060"
+whyRead: "Hurston's masterpiece about a Black woman's search for love and selfhood in early 20th-century Florida is one of the great American novels. Full stop."
+amazonUrl: "https://www.amazon.com/dp/0061470376/ref=nosim?tag=isitbanned-20"
 ---
 
 Janie Crawford tells her story to her friend Pheoby, narrating three marriages and a life spent searching for something she calls "the horizon." Her first husband is chosen for her. Her second gives her status but stifles her voice. Her third, Tea Cake, gives her joy and catastrophe in almost equal measure. Zora Neale Hurston published the novel in 1937, and it was largely forgotten until Alice Walker championed it in the 1970s. It's now considered one of the most important American novels of the twentieth century.

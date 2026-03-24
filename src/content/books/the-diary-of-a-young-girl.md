@@ -31,9 +31,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://www.jta.org/2023/06/12/culture/a-new-version-of-the-holocausts-most-famous-diary-is-being-called-anne-frank-pornography-and-getting-banned-from-schools"
 totalChallenges: 28
-description: "Anne Frank's diary of hiding from the Nazis in Amsterdam, challenged for passages about her body, sexuality, and romantic feelings toward a female friend.'https://www.amazon.com/dp/0553296981?tag=isitbanned-20"
+description: "Anne Frank's diary of hiding from the Nazis in Amsterdam, challenged for passages about her body, sexuality, and romantic feelings toward a female friend."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780553296983/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780553296983"
+whyRead: "Anne Frank's diary is the most widely read firsthand account of the Holocaust. Banning it is an act against historical memory."
+amazonUrl: "https://www.amazon.com/dp/9389567955/ref=nosim?tag=isitbanned-20"
 ---
 
 Anne Frank began her diary on June 12, 1942, her 13th birthday, and kept writing until August 1, 1944, three days before the Nazis discovered the Secret Annex in Amsterdam where her family had been hiding. She died in the Bergen-Belsen concentration camp in February 1945, at age 15. Her father Otto, the only family member to survive, published her diary in 1947. It has since been translated into more than 70 languages and sold over 30 million copies.

@@ -22,4 +22,7 @@ banLocations:
       year: 2021
 totalChallenges: 5
 description: "'They Called Themselves The K.K.K.: The Birth of an American Terrorist Group"
+amazonUrl: "https://www.amazon.com/dp/1441871578/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781441871572"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781441871572/k/keyword"
 ---

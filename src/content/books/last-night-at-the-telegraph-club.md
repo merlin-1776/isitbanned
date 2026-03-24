@@ -28,9 +28,11 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 30
-description: "Set in 1950s San Francisco Chinatown, Last Night at the Telegraph Club follows Lily Hu as she discovers her attraction to women during the McCarthy era, navigating identity, family expectations, and the threat of deportation. It has been challenged for its LGBTQ+ content.'https://www.amazon.com/dp/0525555250/ref=nosim?tag=isitbanned-20"
+description: "Set in 1950s San Francisco Chinatown, Last Night at the Telegraph Club follows Lily Hu as she discovers her attraction to women during the McCarthy era, navigating identity, family expectations, and the threat of deportation. It has been challenged for its LGBTQ+ content."
 bookshopUrl: "https://bookshop.org/a/2537/9780525555254"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780525555254/k/keyword"
+whyRead: "Lo's novel about a Chinese-American lesbian teenager in 1950s San Francisco is a love story that's also a history lesson. It won the National Book Award."
+amazonUrl: "https://www.amazon.com/dp/8804752262/ref=nosim?tag=isitbanned-20"
 ---
 
 Malinda Lo's National Book Award-winning novel is set in 1954 San Francisco, where seventeen-year-old Lily Hu navigates the intersection of her Chinese American identity and her growing realization that she's attracted to women. When Lily and her classmate Kathleen Miller sneak out to the Telegraph Club, a lesbian bar in North Beach, Lily discovers a world she didn't know existed, one that could destroy her family's precarious standing during the anti-Communist paranoia of the Red Scare. The novel weaves together queer history, immigration history, and cold war politics with remarkable precision.

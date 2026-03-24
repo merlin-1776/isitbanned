@@ -32,9 +32,11 @@ banLocations:
     district: "Mustang Public Schools"
     year: 2024
 totalChallenges: 187
-description: "The Absolutely True Diary of a Part-Time Indian is Sherman Alexie's semi-autobiographical novel about Arnold Spirit Jr., a Spokane Indian teenager who transfers from his reservation school to an all-white high school, navigating poverty, grief, racism, and identity with humor and cartoons.'https://www.amazon.com/dp/0316013692/ref=nosim?tag=isitbanned-20"
+description: "The Absolutely True Diary of a Part-Time Indian is Sherman Alexie's semi-autobiographical novel about Arnold Spirit Jr., a Spokane Indian teenager who transfers from his reservation school to an all-white high school, navigating poverty, grief, racism, and identity with humor and cartoons."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316013680/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316013680"
+whyRead: "Alexie wrote the funniest, most heartbreaking book about growing up Native American. It's based on his own life."
+amazonUrl: "https://www.amazon.com/dp/0316013684/ref=nosim?tag=isitbanned-20"
 ---
 
 The Absolutely True Diary of a Part-Time Indian follows Junior, a budding cartoonist on the Spokane Indian Reservation, who decides to attend the wealthy white high school in the neighboring town. His decision makes him a traitor on the rez and an outsider at his new school, and the novel unfolds as Junior navigates both worlds with self-deprecating humor, raw honesty, and the cartoons he draws to make sense of his life. Alexie based the story on his own experiences growing up on the Spokane reservation, and the book won the National Book Award for Young People's Literature.

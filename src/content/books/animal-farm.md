@@ -31,9 +31,11 @@ banLocations:
     year: 1982
     sourceUrl: "https://www.thelist.com/1122886/the-real-reason-animal-farm-became-a-banned-book/"
 totalChallenges: 29
-description: "Animal Farm by George Orwell is an allegorical novella about a farm revolution that descends into tyranny. Banned for political content from both the left and right since 1945.'https://www.amazon.com/dp/0451526341?tag=isitbanned-20"
+description: "Animal Farm by George Orwell is an allegorical novella about a farm revolution that descends into tyranny. Banned for political content from both the left and right since 1945."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780451526342/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780451526342"
+whyRead: "Orwell wrote a farm fable that exposed totalitarianism so clearly that the Soviet Union banned it. Now American school districts are doing the same."
+amazonUrl: "https://www.amazon.com/dp/2851841203/ref=nosim?tag=isitbanned-20"
 ---
 
 The animals of Manor Farm overthrow their human owner and establish a society based on equality. The pigs, being the smartest, take charge. Gradually, the pigs accumulate privileges, rewrite the rules, and become indistinguishable from the humans they replaced. George Orwell wrote Animal Farm as an allegory of the Russian Revolution and Stalinism, but its portrait of how revolutions devour themselves applies well beyond any single country or era.

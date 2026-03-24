@@ -29,10 +29,11 @@ banLocations:
     district: "Cottage Grove Public Library"
     year: 1994
 totalChallenges: 80
-description: "Heather's favorite number is two: two arms, two legs, two pets, and two mommies. When she starts school, she discovers that families come in all shapes.'https://www.amazon.com/dp/0763690422/ref=nosim?tag=isitbanned-20"
+description: "Heather's favorite number is two: two arms, two legs, two pets, and two mommies. When she starts school, she discovers that families come in all shapes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780763690427/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780763690427"
 whyRead: "Newman's 1989 picture book was one of the first to show a lesbian family. It's been banned for over 35 years. Heather still has two mommies."
+amazonUrl: "https://www.amazon.com/dp/0763690422/ref=nosim?tag=isitbanned-20"
 ---
 
 Heather Has Two Mommies is a picture book about a little girl named Heather who has two mothers, Mama Jane and Mama Kate. She goes to playgroup, discovers that families come in all shapes, and feels fine about hers. That's it. That's the whole book. First self-published in 1989 with a $4,000 budget raised through donations, it became one of the first children's books to depict a same-sex family. Candlewick Press published an updated edition with new illustrations by Laura Cornell in 2015.

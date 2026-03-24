@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "''Multiplication Is for White People': Raising Expectations for Other People's Children"
+amazonUrl: "https://www.amazon.com/dp/1799977692/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781799977698"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781799977698/k/keyword"
 ---

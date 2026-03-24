@@ -30,9 +30,11 @@ banLocations:
     district: "Leander ISD"
     year: 2022
 totalChallenges: 56
-description: "The Chocolate War by Robert Cormier is a YA novel about a student who refuses to participate in his school's chocolate fundraiser and faces brutal consequences. Repeatedly banned for sexual content, profanity, and violence since 1974.'https://www.amazon.com/dp/0375829873?tag=isitbanned-20"
+description: "The Chocolate War by Robert Cormier is a YA novel about a student who refuses to participate in his school's chocolate fundraiser and faces brutal consequences. Repeatedly banned for sexual content, profanity, and violence since 1974."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375829871/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780375829871"
+whyRead: "Cormier's novel about a kid who refuses to sell chocolates is the darkest, most honest YA novel about conformity and institutional cruelty ever written."
+amazonUrl: "https://www.amazon.com/dp/0375829873/ref=nosim?tag=isitbanned-20"
 ---
 
 Jerry Renault is a freshman at Trinity, a Catholic boys' school run by sadistic Brother Leon and policed by a secret student gang called the Vigils. When Jerry refuses to sell chocolates for the school fundraiser, his small act of defiance spirals into something much bigger and much uglier. Robert Cormier published the novel in 1974, and it became one of the most challenged YA books in American history.

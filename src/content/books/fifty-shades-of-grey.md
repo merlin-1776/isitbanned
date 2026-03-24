@@ -26,9 +26,11 @@ banLocations:
     year: 2013
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/fifty-shades-of-grey/"
 totalChallenges: 22
-description: "E.L. James' erotic romance novel, removed from public libraries across the country for explicit sexual content and BDSM themes.'https://www.amazon.com/dp/0345803485?tag=isitbanned-20"
+description: "E.L. James' erotic romance novel, removed from public libraries across the country for explicit sexual content and BDSM themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780345803481/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780345803481"
+whyRead: "James' erotic novel sold 150 million copies and launched an entire cultural conversation about female desire. The literary establishment hated it. Readers didn't care."
+amazonUrl: "https://www.amazon.com/dp/8490623740/ref=nosim?tag=isitbanned-20"
 ---
 
 E.L. James' 2011 novel began as Twilight fan fiction and became one of the fastest-selling books in publishing history, moving over 150 million copies worldwide. The story follows Anastasia Steele, a college student who enters into a BDSM relationship with billionaire Christian Grey. The book's explicit sexual content made it a cultural phenomenon and a lightning rod for library challenges, though with an unusual twist: unlike most banned books, this one was primarily pulled from adult sections of public libraries, not school libraries.

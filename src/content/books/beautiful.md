@@ -29,9 +29,11 @@ banLocations:
     district: "Pinellas County Schools"
     year: 2025
 totalChallenges: 18
-description: "Beautiful follows Cassie as she reinvents herself at a new school, falling into a world of drugs, sex, and toxic friendship. It has been challenged for its depictions of underage drug use, sexual content, and language.'https://www.amazon.com/dp/1416978305/ref=nosim?tag=isitbanned-20"
+description: "Beautiful follows Cassie as she reinvents herself at a new school, falling into a world of drugs, sex, and toxic friendship. It has been challenged for its depictions of underage drug use, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781416978305"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416978305/k/keyword"
+whyRead: "Hopkins' verse novel about a teenage girl's descent into meth addiction is a companion to Crank told from a different angle. Same drug, different destruction."
+amazonUrl: "https://www.amazon.com/dp/1416978305/ref=nosim?tag=isitbanned-20"
 ---
 
 Amy Reed's debut novel follows Cassie, who transfers to a new school determined to shed her quiet, invisible past. She befriends Alex, a charismatic and reckless girl who introduces her to a world of parties, drugs, and older boys. What starts as liberation quickly becomes something darker as Cassie loses control of the person she's becoming. Reed writes about the seductiveness of self-destruction with uncomfortable honesty, showing how a teenager's desire to be seen can make her vulnerable to exactly the wrong kind of attention.

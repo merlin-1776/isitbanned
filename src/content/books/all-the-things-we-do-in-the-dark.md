@@ -22,4 +22,7 @@ banLocations:
       year: 2021
 totalChallenges: 5
 description: "'All the Things We Do in the Dark"
+amazonUrl: "https://www.amazon.com/dp/0062852590/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780062852601"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062852601/k/keyword"
 ---

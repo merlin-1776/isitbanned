@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Young Gifted and Black: Meet 52 Black Heroes from Past and Present"
+amazonUrl: "https://www.amazon.com/dp/1786030888/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781786030887"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781786030887/k/keyword"
 ---

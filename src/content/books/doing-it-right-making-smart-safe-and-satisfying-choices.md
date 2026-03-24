@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Doing It Right: Making Smart, Safe, and Satisfying Choices About Sex"
+amazonUrl: "https://www.amazon.com/dp/141691823X/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781416918233"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416918233/k/keyword"
 ---

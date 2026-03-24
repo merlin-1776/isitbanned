@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Lucy Peale"
+amazonUrl: "https://www.amazon.com/dp/0785757155/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781560546115"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781560546115/k/keyword"
 ---

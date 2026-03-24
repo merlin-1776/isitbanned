@@ -33,9 +33,11 @@ banLocations:
     district: "Central York School District"
     year: 2021
 totalChallenges: 174
-description: "All Boys Aren't Blue is George M. Johnson's young adult memoir about growing up Black and queer in New Jersey and Virginia. The book explores identity, family, and sexuality through personal essays, and has been one of the most challenged books in America since its 2020 publication.'https://www.amazon.com/dp/0593111508/ref=nosim?tag=isitbanned-20"
+description: "All Boys Aren't Blue is George M. Johnson's young adult memoir about growing up Black and queer in New Jersey and Virginia. The book explores identity, family, and sexuality through personal essays, and has been one of the most challenged books in America since its 2020 publication."
 bookshopUrl: "https://bookshop.org/a/2537/9780593111505"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593111505/k/keyword"
+whyRead: "Johnson's memoir gives Black queer teenagers a mirror. The people banning it are telling those kids their stories don't matter."
+amazonUrl: "https://www.amazon.com/dp/0593111508/ref=nosim?tag=isitbanned-20"
 ---
 
 All Boys Aren't Blue is a memoir-manifesto in which George M. Johnson recounts growing up as a Black queer kid in New Jersey and Virginia. Through a series of personal essays, Johnson explores childhood bullying, family dynamics, the Black church, gender nonconformity, and early sexual experiences with unflinching honesty. The book is addressed directly to young people who might see themselves in Johnson's story, and its frank discussions of sexual identity and coming-of-age have resonated deeply with LGBTQ+ teens.

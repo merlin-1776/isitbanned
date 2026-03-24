@@ -11,4 +11,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Life at School and in the Community (Teens: Being Gay, Lesbian, Bisexual, or Transgender)"
+amazonUrl: "https://www.amazon.com/dp/1615329404/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781615329403"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781615329403/k/keyword"
 ---

@@ -27,9 +27,11 @@ banLocations:
     district: "Pinellas County Schools"
     year: 2025
 totalChallenges: 20
-description: "A Court of Frost and Starlight is a bridge novella in Sarah J. Maas's A Court of Thorns and Roses series, following Feyre and her inner circle as they celebrate the Winter Solstice while healing from war. It has been challenged primarily for sexual content.'https://www.amazon.com/dp/1635575613/ref=nosim?tag=isitbanned-20"
+description: "A Court of Frost and Starlight is a bridge novella in Sarah J. Maas's A Court of Thorns and Roses series, following Feyre and her inner circle as they celebrate the Winter Solstice while healing from war. It has been challenged primarily for sexual content."
 bookshopUrl: "https://bookshop.org/a/2537/9781635575613"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635575613/k/keyword"
+whyRead: "Maas' ACOTAR novella bridges the first trilogy and the next arc. It's a breather between epic battles, and fans love it for the quiet character moments."
+amazonUrl: "https://www.amazon.com/dp/152880869X/ref=nosim?tag=isitbanned-20"
 ---
 
 A Court of Frost and Starlight sits between the original trilogy and A Court of Silver Flames in Sarah J. Maas's wildly popular fantasy series. The novella is a quieter, more intimate entry: the war against Hybern is over, and Feyre and Rhysand are rebuilding the Night Court. The story follows their inner circle through the Winter Solstice celebrations as each character grapples with trauma, new relationships, and what peace actually feels like after years of conflict. Maas uses the breathing room to deepen character dynamics and set up the threads that will drive Silver Flames.

@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Afterworlds"
+amazonUrl: "https://www.amazon.com/dp/1481438514/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780143572046"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780143572046/k/keyword"
 ---

@@ -28,9 +28,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://www.miamiherald.com/news/local/education/article279607304.html"
 totalChallenges: 91
-description: "Go Ask Alice is an anonymous diary-style novel about a teenage girl's descent into drug addiction. It has been one of the most frequently banned books in America since the 1970s.'https://www.amazon.com/dp/1442468076?tag=isitbanned-20"
+description: "Go Ask Alice is an anonymous diary-style novel about a teenage girl's descent into drug addiction. It has been one of the most frequently banned books in America since the 1970s."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781442468078/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781442468078"
+whyRead: "Whether diary or fiction, Go Ask Alice captured drug culture's grip on teenagers with raw immediacy. It's been scaring and saving kids since 1971."
+amazonUrl: "https://www.amazon.com/dp/1442468076/ref=nosim?tag=isitbanned-20"
 ---
 
 Go Ask Alice is presented as the real diary of a 15-year-old girl who accidentally takes LSD at a party and spirals into drug addiction, homelessness, and prostitution before dying of an overdose. Published in 1971 and attributed to "Anonymous," the book was later revealed to be largely the work of therapist Beatrice Sparks, who likely based it on a composite of her patients' experiences. Regardless of its contested authorship, the book became a cultural touchstone, selling millions of copies and becoming standard reading in many schools.

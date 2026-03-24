@@ -19,4 +19,7 @@ banLocations:
       year: 2022
 totalChallenges: 4
 description: "'Half of a Yellow Sun"
+amazonUrl: "https://www.amazon.com/dp/0676978126/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9783630872476"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9783630872476/k/keyword"
 ---

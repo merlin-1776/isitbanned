@@ -28,9 +28,11 @@ banLocations:
     district: "Dubuque Community School District"
     year: 2024
 totalChallenges: 14
-description: "The Sun and Her Flowers is Rupi Kaur's second poetry collection, exploring themes of growth, ancestry, immigration, loss, and self-love. It has been challenged for its sexual references and language.'https://www.amazon.com/dp/1449486797/ref=nosim?tag=isitbanned-20"
+description: "The Sun and Her Flowers is Rupi Kaur's second poetry collection, exploring themes of growth, ancestry, immigration, loss, and self-love. It has been challenged for its sexual references and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781449486792"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781449486792/k/keyword"
+whyRead: "Kaur's second poetry collection about growth after trauma proved that her debut wasn't a fluke. She's the bestselling poet of her generation."
+amazonUrl: "https://www.amazon.com/dp/8432234052/ref=nosim?tag=isitbanned-20"
 ---
 
 Rupi Kaur's follow-up to Milk and Honey is organized around five themes: wilting, falling, rooting, rising, and blooming. The collection expands beyond the personal trauma focus of her debut to explore immigration, displacement, ancestry, and the experience of being a brown woman in a world that fetishizes and marginalizes her simultaneously. Kaur's signature style, lowercase text, minimal punctuation, simple line drawings, remains intact, and the poems are designed to be accessible, quotable, and emotionally immediate. The book debuted at number one on the New York Times bestseller list.

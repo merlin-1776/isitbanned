@@ -29,9 +29,11 @@ banLocations:
     district: "Davis School District"
     year: 2022
 totalChallenges: 27
-description: "The Curious Incident of the Dog in the Night-Time by Mark Haddon follows a neurodiverse teen solving a neighborhood mystery. Banned for profanity, religious viewpoints, and age appropriateness.'https://www.amazon.com/dp/1400032717?tag=isitbanned-20"
+description: "The Curious Incident of the Dog in the Night-Time by Mark Haddon follows a neurodiverse teen solving a neighborhood mystery. Banned for profanity, religious viewpoints, and age appropriateness."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781400032716/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781400032716"
+whyRead: "Haddon's novel told from the perspective of a boy with autism is a mystery, a math puzzle, and one of the most original voices in modern fiction."
+amazonUrl: "https://www.amazon.com/dp/0099572834/ref=nosim?tag=isitbanned-20"
 ---
 
 Christopher John Francis Boone is fifteen, knows every prime number up to 7,057, and has never ventured farther than the end of his street alone. When he finds his neighbor's dog dead on the lawn, stabbed with a garden fork, he decides to investigate. The mystery leads him much further than expected, into secrets his father has been keeping and a journey across London that terrifies him. Mark Haddon wrote the novel from Christopher's perspective, and its unusual structure (numbered in primes, peppered with diagrams and math problems) mirrors how Christopher processes the world.

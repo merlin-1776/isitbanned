@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Lush"
+amazonUrl: "https://www.amazon.com/dp/0439853478/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781545409060"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781545409060/k/keyword"
 ---

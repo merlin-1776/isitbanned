@@ -28,10 +28,11 @@ banLocations:
     district: "Davis School District"
     year: 2023
 totalChallenges: 30
-description: "While riding the subway with his abuela, Julian sees three women dressed as mermaids and is inspired to dress up as one himself.'https://www.amazon.com/dp/0763690457/ref=nosim?tag=isitbanned-20"
+description: "While riding the subway with his abuela, Julian sees three women dressed as mermaids and is inspired to dress up as one himself."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780763690458/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780763690458"
 whyRead: "Love's Stonewall Award-winning picture book is pure visual magic. Julian's grandmother doesn't scold or correct, she adorns."
+amazonUrl: "https://www.amazon.com/dp/166204982X/ref=nosim?tag=isitbanned-20"
 ---
 
 Julián Is a Mermaid is a nearly wordless picture book about a boy who sees three women dressed as mermaids on the subway and becomes enchanted. When he gets home to Abuela's apartment, he fashions his own mermaid costume from a curtain, ferns, and flowers. When Abuela sees what he's done, she doesn't scold him. She takes him to the Coney Island Mermaid Parade. Published by Candlewick Press in 2018, it was a Stonewall Book Award winner and appeared on nearly every "best picture books" list that year.

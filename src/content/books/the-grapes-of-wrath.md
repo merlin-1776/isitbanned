@@ -30,9 +30,11 @@ banLocations:
     district: "North East ISD"
     year: 2023
 totalChallenges: 35
-description: "The Grapes of Wrath by John Steinbeck follows the Joad family's migration from Oklahoma to California during the Dust Bowl. Burned and banned for political content, profanity, and sexual themes since 1939.'https://www.amazon.com/dp/0143039431?tag=isitbanned-20"
+description: "The Grapes of Wrath by John Steinbeck follows the Joad family's migration from Oklahoma to California during the Dust Bowl. Burned and banned for political content, profanity, and sexual themes since 1939."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780143039433/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780143039433"
+whyRead: "Steinbeck's Pulitzer winner about the Dust Bowl migration is the great American novel about poverty, dignity, and the failure of the system."
+amazonUrl: "https://www.amazon.com/dp/1580497713/ref=nosim?tag=isitbanned-20"
 ---
 
 The Joad family loses their Oklahoma farm to the Dust Bowl and heads west to California, chasing the promise of work and land. What they find instead is exploitation, hunger, and a system designed to grind migrant workers down. John Steinbeck published the novel in 1939, won the Pulitzer Prize in 1940, and later called it the book he was "most proud of." It also made him one of the most hated authors in parts of California.

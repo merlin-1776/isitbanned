@@ -28,9 +28,11 @@ banLocations:
     district: "Lee County Schools"
     year: 2025
 totalChallenges: 28
-description: "Breathless follows Claudine Henry through a transformative summer of first love, self-discovery, and sexual awakening before her senior year. It has been challenged for its frank depiction of teenage sexuality and language.'https://www.amazon.com/dp/0385911963/ref=nosim?tag=isitbanned-20"
+description: "Breathless follows Claudine Henry through a transformative summer of first love, self-discovery, and sexual awakening before her senior year. It has been challenged for its frank depiction of teenage sexuality and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780385911962"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385911962/k/keyword"
+whyRead: "Niven's novel about a college swimmer navigating consent and sexual identity is timely, frank, and treats its characters like adults."
+amazonUrl: "https://www.amazon.com/dp/0241502209/ref=nosim?tag=isitbanned-20"
 ---
 
 Jennifer Niven's 2020 YA novel tells the story of Claudine Henry, who escapes her complicated family life for a summer on a Georgia island. There she meets Jeremiah Crew, and what follows is a story about first love that doesn't shy away from the physical realities of teenage relationships. Niven, known for All the Bright Places, brings the same emotional honesty to Breathless, treating her protagonist's sexual awakening as a natural and healthy part of growing up rather than something to be whispered about or punished for.

@@ -28,9 +28,11 @@ banLocations:
     district: "Alpine School District"
     year: 2022
 totalChallenges: 20
-description: "Saga (Volume 1) by Brian K. Vaughan and Fiona Staples is an epic sci-fi/fantasy comic about star-crossed parents from warring alien races. Banned for sexual content, LGBTQ+ themes, and violence.'https://www.amazon.com/dp/1607066017?tag=isitbanned-20"
+description: "Saga (Volume 1) by Brian K. Vaughan and Fiona Staples is an epic sci-fi/fantasy comic about star-crossed parents from warring alien races. Banned for sexual content, LGBTQ+ themes, and violence."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781607066019/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781607066019"
+whyRead: "Vaughan and Staples created the most acclaimed comic series of the 2010s: an interstellar Romeo and Juliet with a baby, told with zero compromise."
+amazonUrl: "https://www.amazon.com/dp/1534370544/ref=nosim?tag=isitbanned-20"
 ---
 
 Alana and Marko are soldiers from opposite sides of a galaxy-spanning war. She has wings. He has horns. They fall in love, desert their armies, and have a baby named Hazel, who narrates the story from some point in the future. Every government, bounty hunter, and freelance killer in the galaxy wants them dead or captured. Brian K. Vaughan writes and Fiona Staples illustrates, and together they built one of the most acclaimed comics of the century.

@@ -12,9 +12,11 @@ banLocations:
     district: "Cobb County School District"
     year: 2024
 totalChallenges: 18
-description: "A Court of Silver Flames follows Nesta Archeron as she deals with trauma, trains as a warrior, and begins a relationship with Cassian. It has been challenged for its explicit sexual content.'https://www.amazon.com/dp/1635577993/ref=nosim?tag=isitbanned-20"
+description: "A Court of Silver Flames follows Nesta Archeron as she deals with trauma, trains as a warrior, and begins a relationship with Cassian. It has been challenged for its explicit sexual content."
 bookshopUrl: "https://bookshop.org/a/2537/9781635577990"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635577990/k/keyword"
+whyRead: "Maas centers Nesta's story of trauma recovery and self-destruction in the ACOTAR world. It's the darkest book in the series and the most emotionally complex."
+amazonUrl: "https://www.amazon.com/dp/1526602318/ref=nosim?tag=isitbanned-20"
 ---
 
 A Court of Silver Flames marks Sarah J. Maas's clearest departure from YA into adult fantasy romance. Nesta Archeron, the prickliest character in the series, is spiraling after the war against Hybern: drinking, sleeping around, and pushing away everyone who tries to help. When she's essentially forced into training at the warrior camp, she channels her rage into combat and begins a combustible relationship with Cassian. The sexual content in Silver Flames is significantly more explicit than in previous entries, with extended intimate scenes that sparked both enthusiasm from romance readers and alarm from parents who'd categorized Maas as a YA author.

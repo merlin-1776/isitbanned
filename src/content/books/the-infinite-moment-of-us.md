@@ -27,9 +27,11 @@ banLocations:
     district: "Ankeny Community School District"
     year: 2024
 totalChallenges: 16
-description: "The Infinite Moment of Us follows Wren and Charlie as they fall in love the summer after high school graduation, navigating first love, family pressure, and sexual intimacy. It has been challenged for its depiction of teen sexuality.'https://www.amazon.com/dp/1419707930/ref=nosim?tag=isitbanned-20"
+description: "The Infinite Moment of Us follows Wren and Charlie as they fall in love the summer after high school graduation, navigating first love, family pressure, and sexual intimacy. It has been challenged for its depiction of teen sexuality."
 bookshopUrl: "https://bookshop.org/a/2537/9781419707933"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781419707933/k/keyword"
+whyRead: "Myracle's novel about two high school graduates spending their last summer together before college is a love story that takes teen sexuality seriously."
+amazonUrl: "https://www.amazon.com/dp/6053438952/ref=nosim?tag=isitbanned-20"
 ---
 
 Lauren Myracle's The Infinite Moment of Us is a straightforward love story between Wren Gray, an overachieving people-pleaser, and Charlie Parker (no relation), a foster kid with a complicated past. They fall for each other the summer after graduation, and the novel follows their relationship through its giddy highs and anxious lows. Myracle writes about their physical relationship with detail and tenderness, treating teenage sexual intimacy as a meaningful experience rather than a mistake to be punished. It's this honesty that has made the book a target.

@@ -29,9 +29,11 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 14
-description: "The Carnival at Bray follows Maggie Lynch, a Chicago teenager transplanted to a small Irish town in 1993, navigating grief, first love, and the grunge music scene. It has been challenged for sexual content, drug use, and language.'https://www.amazon.com/dp/1467730548/ref=nosim?tag=isitbanned-20"
+description: "The Carnival at Bray follows Maggie Lynch, a Chicago teenager transplanted to a small Irish town in 1993, navigating grief, first love, and the grunge music scene. It has been challenged for sexual content, drug use, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781467730549"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781467730549/k/keyword"
+whyRead: "Foley's novel about a girl who moves to Ireland and falls in love with grunge music is a love letter to the 1990s and the power of live music."
+amazonUrl: "https://www.amazon.com/dp/1322096767/ref=nosim?tag=isitbanned-20"
 ---
 
 Jessie Ann Foley's Morris Award-winning debut follows Maggie Lynch, whose mother's remarriage uproots her from Chicago to a small town on the Irish coast in 1993. Maggie is grieving the loss of her uncle Kevin, a musician and free spirit who introduced her to Nirvana, the Pixies, and the idea that life doesn't have to follow the script. When Maggie gets a chance to see Nirvana play in Rome, she embarks on a solo trip across Europe that's part pilgrimage, part coming-of-age. Foley captures the specific cultural moment of the early '90s grunge era with period-perfect detail and genuine affection.

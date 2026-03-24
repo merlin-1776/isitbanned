@@ -29,9 +29,11 @@ banLocations:
     district: "Pinellas County Schools"
     year: 2025
 totalChallenges: 22
-description: "A Stolen Life is Jaycee Dugard's memoir of being kidnapped at age eleven and held captive for eighteen years by Phillip and Nancy Garrido. It has been challenged for its descriptions of sexual abuse, captivity, and violence.'https://www.amazon.com/dp/1451629184/ref=nosim?tag=isitbanned-20"
+description: "A Stolen Life is Jaycee Dugard's memoir of being kidnapped at age eleven and held captive for eighteen years by Phillip and Nancy Garrido. It has been challenged for its descriptions of sexual abuse, captivity, and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9781451629187"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451629187/k/keyword"
+whyRead: "Dugard's memoir about her 18-year kidnapping by Phillip Garrido is told in her own words. It's a survival story that defies comprehension."
+amazonUrl: "https://www.amazon.com/dp/1442355921/ref=nosim?tag=isitbanned-20"
 ---
 
 In 1991, eleven-year-old Jaycee Dugard was snatched from a bus stop in South Lake Tahoe, California. She was held captive by Phillip Garrido for eighteen years, during which she was assaulted repeatedly and bore two children. A Stolen Life, published in 2011, is Dugard's own account of those years, written in her voice without a ghostwriter. The memoir is raw, nonlinear, and sometimes hard to read, not because of lurid detail but because of the mundane horror of captivity: the routines, the isolation, the psychological manipulation that kept her from running even when she could have.

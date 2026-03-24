@@ -14,4 +14,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Gender Danger: Survivors of Rape, Human Trafficking, and Honor Killings"
+amazonUrl: "https://www.amazon.com/dp/1422204510/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781422204511"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781422204511/k/keyword"
 ---

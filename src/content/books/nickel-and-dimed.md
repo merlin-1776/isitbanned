@@ -26,9 +26,11 @@ banLocations:
     district: "Bedford County Schools"
     year: 2013
 totalChallenges: 20
-description: "Nickel and Dimed by Barbara Ehrenreich is an undercover investigation of low-wage work in America. Challenged for promoting 'socialist ideas,' drug references, and being 'anti-Christian' in school districts across several states.'https://www.amazon.com/dp/0312626681/ref=nosim?tag=isitbanned-20"
+description: "Nickel and Dimed by Barbara Ehrenreich is an undercover investigation of low-wage work in America. Challenged for promoting 'socialist ideas,' drug references, and being 'anti-Christian' in school districts across several states."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780312626686/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780312626686"
+whyRead: "Ehrenreich went undercover as a minimum-wage worker and proved that the American economy is rigged against the poor. The book changed how we talk about working poverty."
+amazonUrl: "https://www.amazon.com/dp/8479019506/ref=nosim?tag=isitbanned-20"
 ---
 
 Nickel and Dimed is Barbara Ehrenreich's firsthand account of trying to survive on minimum-wage jobs in three American cities. In 1998, the journalist and Ph.D. holder worked as a waitress in Key West, a maid in Portland, and a Walmart associate in Minneapolis, documenting how the math of low-wage work simply doesn't add up. She couldn't afford rent, healthcare, or adequate food on what she earned. Published by Metropolitan Books in 2001, the book became a bestseller and a staple of college reading lists.

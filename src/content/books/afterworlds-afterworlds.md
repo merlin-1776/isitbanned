@@ -16,4 +16,7 @@ banLocations:
       year: 2021
 totalChallenges: 3
 description: "'Afterworlds (Afterworlds Series)"
+amazonUrl: "https://www.amazon.com/dp/0615946429/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780615946429"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780615946429/k/keyword"
 ---

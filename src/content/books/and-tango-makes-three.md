@@ -31,9 +31,11 @@ banLocations:
     year: 2019
     sourceUrl: "https://en.wikipedia.org/wiki/And_Tango_Makes_Three"
 totalChallenges: 58
-description: "A children's picture book about two male penguins who raise a chick together, based on a true story from the Central Park Zoo, and one of the most banned books of the 21st century.'https://www.amazon.com/dp/0689878451?tag=isitbanned-20"
+description: "A children's picture book about two male penguins who raise a chick together, based on a true story from the Central Park Zoo, and one of the most banned books of the 21st century."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780689878459/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780689878459"
+whyRead: "Two male penguins raised a baby at the Central Park Zoo. It really happened. The picture book about it became the most banned book in America."
+amazonUrl: "https://www.amazon.com/dp/0689878451/ref=nosim?tag=isitbanned-20"
 ---
 
 And Tango Makes Three is a 32-page picture book based on a true story. In the Central Park Zoo, two male chinstrap penguins named Roy and Silo formed a pair bond, built a nest together, and were given a fertilized egg by their zookeeper. They incubated it, hatched it, and raised the chick, named Tango. That's the whole book. Two penguins raise a baby penguin. It's illustrated with gentle watercolors.

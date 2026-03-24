@@ -19,4 +19,7 @@ banLocations:
       year: 2022
 totalChallenges: 4
 description: "'Blended"
+amazonUrl: "https://www.amazon.com/dp/1442495006/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781508258773"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781508258773/k/keyword"
 ---

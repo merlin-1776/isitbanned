@@ -24,9 +24,11 @@ banLocations:
     district: "Wentzville School District"
     year: 2022
 totalChallenges: 20
-description: "Scars by Cheryl Rainfield is a YA novel about a teenager recovering from childhood sexual abuse who uses self-harm to cope. Banned for sexual content and violence across Texas and Florida school districts.'https://www.amazon.com/dp/1934813324/ref=nosim?tag=isitbanned-20"
+description: "Scars by Cheryl Rainfield is a YA novel about a teenager recovering from childhood sexual abuse who uses self-harm to cope. Banned for sexual content and violence across Texas and Florida school districts."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781934813324/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781934813324"
+whyRead: "Rainfield's novel about a teenager who cuts herself is honest about self-harm in ways that most YA fiction avoids. It was written by a survivor."
+amazonUrl: "https://www.amazon.com/dp/193481332X/ref=nosim?tag=isitbanned-20"
 ---
 
 Scars tells the story of Kendra, a fifteen-year-old who uses self-harm to cope with memories of childhood sexual abuse she can't fully access. As she begins therapy and tries to piece together what happened to her, she also discovers her talent for art and begins a relationship with another girl. The novel draws directly from author Cheryl Rainfield's own experiences as a survivor. Published by WestSide Books in 2010, it handles extraordinarily painful subject matter with care and specificity.

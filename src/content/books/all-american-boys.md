@@ -30,9 +30,11 @@ banLocations:
     district: "Central Bucks School District"
     year: 2022
 totalChallenges: 36
-description: "All American Boys by Jason Reynolds and Brendan Kiely tackles police brutality and racism through two teens' perspectives. Banned for profanity, drug content, and being 'anti-police.''https://www.amazon.com/dp/1481463349?tag=isitbanned-20"
+description: "All American Boys by Jason Reynolds and Brendan Kiely tackles police brutality and racism through two teens' perspectives. Banned for profanity, drug content, and being 'anti-police.'"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481463348/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481463348"
+whyRead: "Reynolds and Kiely wrote a novel about police brutality from two perspectives: a Black victim and a white witness. Both sides of the story matter."
+amazonUrl: "https://www.amazon.com/dp/0571372937/ref=nosim?tag=isitbanned-20"
 ---
 
 Rashad is a Black teenager who gets brutally beaten by a white police officer in a convenience store over a misunderstanding. Quinn is a white teenager who witnesses the beating. The novel alternates between their perspectives as the incident ripples through their school and community. Jason Reynolds wrote Rashad's chapters; Brendan Kiely wrote Quinn's. Together they produced one of the most challenged YA novels of the past decade.

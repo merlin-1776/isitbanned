@@ -19,4 +19,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'Deogratias: A Tale of Rwanda"
+amazonUrl: "https://www.amazon.com/dp/1596431032/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781596431034"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781596431034/k/keyword"
 ---

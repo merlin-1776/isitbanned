@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Sal and Gabi Break the Universe (Sal and Gabi Series)"
+amazonUrl: "https://www.amazon.com/dp/1432869434/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781432869434"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781432869434/k/keyword"
 ---

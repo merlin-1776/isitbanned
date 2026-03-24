@@ -19,4 +19,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'Lighter Than My Shadow"
+amazonUrl: "https://www.amazon.com/dp/1549301098/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781407086187"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781407086187/k/keyword"
 ---

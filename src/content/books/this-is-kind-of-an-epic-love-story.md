@@ -28,9 +28,11 @@ banLocations:
     district: "Knox County Schools"
     year: 2025
 totalChallenges: 15
-description: "This Is Kind of an Epic Love Story follows Nathan Bird, a film-obsessed teen who realizes he's in love with his best friend Oliver. It has been challenged for its LGBTQ+ themes and sexual content.'https://www.amazon.com/dp/0062820222/ref=nosim?tag=isitbanned-20"
+description: "This Is Kind of an Epic Love Story follows Nathan Bird, a film-obsessed teen who realizes he's in love with his best friend Oliver. It has been challenged for its LGBTQ+ themes and sexual content."
 bookshopUrl: "https://bookshop.org/a/2537/9780062820228"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062820228/k/keyword"
+whyRead: "Alsaid's novel about a film-obsessed boy falling for his best friend is sweet, nerdy, and one of the best queer YA romances of the decade."
+amazonUrl: "https://www.amazon.com/dp/8412492609/ref=nosim?tag=isitbanned-20"
 ---
 
 Kacen Callender's YA novel follows Nathan Bird, a biracial teenager obsessed with film who is slowly realizing that his feelings for his best friend Oliver are more than platonic. Set against the backdrop of Nathan's single-parent household and his complicated social dynamics, the book is a coming-out story that treats queerness not as a crisis but as a natural, if sometimes scary, part of figuring out who you are. Callender, a National Book Award winner for King and the Dragonflies, writes with warmth and specificity about the Black queer teen experience.

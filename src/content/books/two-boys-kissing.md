@@ -28,10 +28,11 @@ banLocations:
     district: "Alpine School District"
     year: 2022
 totalChallenges: 25
-description: "A Greek chorus of gay men who died during the AIDS crisis narrates the stories of seven contemporary gay teens.'https://www.amazon.com/dp/0307931919?tag=isitbanned-20"
+description: "A Greek chorus of gay men who died during the AIDS crisis narrates the stories of seven contemporary gay teens."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780307931917/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780307931917"
 whyRead: "Levithan's novel bridges generations of queer experience. The ghostly narrators carry the weight of the AIDS era while celebrating how far we've come."
+amazonUrl: "https://www.amazon.com/dp/0375971122/ref=nosim?tag=isitbanned-20"
 ---
 
 Harry and Craig, two seventeen-year-olds, set out to break the Guinness World Record for the longest kiss: 32 hours, 12 minutes, and 10 seconds. Around them, Levithan weaves the stories of other LGBTQ+ teens: a boy navigating his first relationship, a transgender teen finding himself, two girls building something new together. The whole narrative is observed by a Greek chorus of gay men from an earlier generation, men who died of AIDS and now watch the world they didn't get to live in.

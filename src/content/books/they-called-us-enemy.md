@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'They Called Us Enemy"
+amazonUrl: "https://www.amazon.com/dp/1603094830/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781603094504"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781603094504/k/keyword"
 ---

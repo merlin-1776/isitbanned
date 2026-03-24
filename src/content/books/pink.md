@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Pink!"
+amazonUrl: "https://www.amazon.com/dp/8492880279/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781999903329"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781999903329/k/keyword"
 ---

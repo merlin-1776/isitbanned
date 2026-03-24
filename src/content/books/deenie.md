@@ -27,9 +27,11 @@ banLocations:
     year: 1986
     sourceUrl: "https://wordsdontdie.wordpress.com/banned-books-index/judy-blume/"
 totalChallenges: 30
-description: "Deenie by Judy Blume follows a teenager diagnosed with scoliosis who must wear a back brace. Banned for decades because the main character mentions masturbation.'https://www.amazon.com/dp/1481411373/ref=nosim?tag=isitbanned-20"
+description: "Deenie by Judy Blume follows a teenager diagnosed with scoliosis who must wear a back brace. Banned for decades because the main character mentions masturbation."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780481411370/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780481411370"
+whyRead: "Blume wrote about a girl with scoliosis who also masturbates. The medical condition was fine. The masturbation has been challenged for 50 years."
+amazonUrl: "https://www.amazon.com/dp/0330280031/ref=nosim?tag=isitbanned-20"
 ---
 
 Deenie is the story of a thirteen-year-old girl whose mother has been grooming her for a modeling career. When Deenie is diagnosed with scoliosis and must wear a Milwaukee brace for four years, her world collapses. She deals with her mother's disappointment, her own changing body image, friendships, and the ordinary confusion of adolescence. Published in 1973 by Bradbury Press, it's a novel about identity, appearance, and learning to accept yourself when plans fall apart. It's also one of the first YA novels to mention masturbation, which is the reason it's been banned for over fifty years.

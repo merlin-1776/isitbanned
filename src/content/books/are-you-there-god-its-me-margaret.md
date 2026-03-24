@@ -28,9 +28,11 @@ banLocations:
     district: "Granbury ISD"
     year: 2022
 totalChallenges: 42
-description: "Are You There God? It's Me, Margaret by Judy Blume is a classic novel about an 11-year-old girl navigating puberty, religion, and growing up. Banned for sexual content and religious themes since 1970.'https://www.amazon.com/dp/1481409948?tag=isitbanned-20"
+description: "Are You There God? It's Me, Margaret by Judy Blume is a classic novel about an 11-year-old girl navigating puberty, religion, and growing up. Banned for sexual content and religious themes since 1970."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481409940/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481409940"
+whyRead: "Blume wrote the book that told girls their bodies and their doubts were normal. Fifty years later, it's still the first book many girls trust."
+amazonUrl: "https://www.amazon.com/dp/0307745686/ref=nosim?tag=isitbanned-20"
 ---
 
 Margaret Simon is eleven, has just moved to a new town, and is worried about everything. She wants to get her period. She wants breasts. She wants to figure out whether she's Jewish (like her father's family) or Christian (like her mother's). She talks to God about all of it, directly and without ceremony, in conversations that feel like diary entries addressed to the universe. Judy Blume published the novel in 1970, and it became one of the most important books in children's literature. It also became one of the most banned.

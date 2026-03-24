@@ -30,9 +30,11 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 20
-description: "Tilt follows three teenagers whose lives intersect around love, sex, and identity, told in Ellen Hopkins's signature verse format. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language.'https://www.amazon.com/dp/1416983295/ref=nosim?tag=isitbanned-20"
+description: "Tilt follows three teenagers whose lives intersect around love, sex, and identity, told in Ellen Hopkins's signature verse format. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781416983293"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416983293/k/keyword"
+whyRead: "Hopkins tells the story of two interconnected families dealing with addiction, teen pregnancy, and terminal illness through her signature verse style."
+amazonUrl: "https://www.amazon.com/dp/1416983309/ref=nosim?tag=isitbanned-20"
 ---
 
 Tilt is classic Ellen Hopkins: multiple narrators, verse format, and subject matter that adults wish teenagers weren't dealing with but teenagers absolutely are. The novel follows three teens connected through family. Mikayla is in a sexual relationship and dealing with the consequences. Shane is coming to terms with his sexuality. Harley is falling for an older man. Their stories intersect and diverge as each character navigates desire, identity, and the gap between what they want and what the adults around them expect. Hopkins writes in the space where coming-of-age meets crisis.

@@ -27,9 +27,11 @@ banLocations:
     district: "Escambia County Schools"
     year: 2013
 totalChallenges: 30
-description: "A Child Called 'It' by Dave Pelzer is a memoir of severe child abuse. Frequently banned for graphic depictions of violence, profanity, and a scene questioning God.'https://www.amazon.com/dp/1558743669?tag=isitbanned-20"
+description: "A Child Called 'It' by Dave Pelzer is a memoir of severe child abuse. Frequently banned for graphic depictions of violence, profanity, and a scene questioning God."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781558743663/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781558743663"
+whyRead: "Pelzer's memoir about surviving horrific child abuse is one of the most disturbing books you'll ever read. It's also a testament to human resilience."
+amazonUrl: "https://www.amazon.com/dp/3442150558/ref=nosim?tag=isitbanned-20"
 ---
 
 Dave Pelzer was the target of one of the worst cases of child abuse in California history. His mother starved him, burned him on a stove, forced him to drink ammonia, and treated him as less than human while his brothers lived normal lives in the same house. He was rescued by school officials at age twelve. Pelzer wrote A Child Called "It" as the first volume of a trilogy documenting his childhood, and it spent six years on the New York Times bestseller list.

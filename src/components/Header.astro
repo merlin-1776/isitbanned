@@ -1,11 +1,20 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+import { getCollection } from 'astro:content';
+
+const books = await getCollection('books');
+const bookCount = books.length;
+const totalChallenges = books.reduce((sum, b) => sum + b.data.totalChallenges, 0);
 ---
 
 <header>
 	<nav>
 		<h2><a href={`/`}>{SITE_TITLE}</a></h2>
+		<div class="book-counter">
+			<span class="counter-number">{bookCount.toLocaleString()}</span>
+			<span class="counter-label">banned books tracked</span>
+		</div>
 		<div class="internal-links">
 			<HeaderLink href={`/`}>Home</HeaderLink>
 			<HeaderLink href={`/books/`}>Books</HeaderLink>
@@ -52,5 +61,29 @@ import HeaderLink from './HeaderLink.astro';
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 		color: #fff;
+	}
+	.book-counter {
+		display: flex;
+		align-items: center;
+		gap: 0.4em;
+		background: rgba(239, 68, 68, 0.15);
+		border: 1px solid rgba(239, 68, 68, 0.3);
+		border-radius: 6px;
+		padding: 0.3em 0.8em;
+	}
+	.counter-number {
+		font-size: 1.2em;
+		font-weight: 900;
+		color: var(--accent);
+	}
+	.counter-label {
+		font-size: 0.75em;
+		color: rgba(255, 255, 255, 0.7);
+		font-weight: 600;
+	}
+	@media (max-width: 720px) {
+		.book-counter {
+			display: none;
+		}
 	}
 </style>

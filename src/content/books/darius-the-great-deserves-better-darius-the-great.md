@@ -16,4 +16,7 @@ banLocations:
       year: 2021
 totalChallenges: 3
 description: "'Darius the Great Deserves Better (Darius the Great Series)"
+amazonUrl: "https://www.amazon.com/dp/059310823X/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780593108239"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593108239/k/keyword"
 ---

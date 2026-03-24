@@ -30,9 +30,11 @@ banLocations:
     district: "Knox County Schools"
     year: 2024
 totalChallenges: 154
-description: "Identical is a novel-in-verse about identical twin sisters Kaeleigh and Raeanne, whose seemingly perfect political family hides a nightmare of sexual abuse, addiction, and self-destruction. Hopkins uses alternating perspectives and mirror-image poems to reveal a devastating twist.'https://www.amazon.com/dp/1416950052/ref=nosim?tag=isitbanned-20"
+description: "Identical is a novel-in-verse about identical twin sisters Kaeleigh and Raeanne, whose seemingly perfect political family hides a nightmare of sexual abuse, addiction, and self-destruction. Hopkins uses alternating perspectives and mirror-image poems to reveal a devastating twist."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950059/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781416950059"
+whyRead: "Hopkins tackles incest and abuse in verse that's as precise as it is painful. Not every important book is comfortable to read."
+amazonUrl: "https://www.amazon.com/dp/1416950052/ref=nosim?tag=isitbanned-20"
 ---
 
 Identical follows twin sisters Kaeleigh and Raeanne, daughters of a judge and a congresswoman whose polished public image conceals horrific private dysfunction. Kaeleigh is being sexually abused by her father; Raeanne copes through drugs, alcohol, and reckless sexual encounters. Hopkins tells their stories in alternating verse sequences that mirror each other on the page, building toward a twist that reframes everything the reader thought they knew. The novel is a harrowing examination of how abuse fractures identity and how survivors cope with the unthinkable.

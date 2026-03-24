@@ -30,9 +30,11 @@ banLocations:
     district: "Okaloosa County School District"
     year: 2025
 totalChallenges: 40
-description: "Wicked reimagines the Land of Oz from the perspective of the Wicked Witch of the West, Elphaba, exploring themes of good and evil, political oppression, and identity. It has been challenged for sexual content, political themes, and religious objections.'https://www.amazon.com/dp/0060391448/ref=nosim?tag=isitbanned-20"
+description: "Wicked reimagines the Land of Oz from the perspective of the Wicked Witch of the West, Elphaba, exploring themes of good and evil, political oppression, and identity. It has been challenged for sexual content, political themes, and religious objections."
 bookshopUrl: "https://bookshop.org/a/2537/9780060391447"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060391447/k/keyword"
+whyRead: "Maguire's Oz reimagining asks who gets to define good and evil. The musical softened it. The novel is sharper."
+amazonUrl: "https://www.amazon.com/dp/0061186376/ref=nosim?tag=isitbanned-20"
 ---
 
 Gregory Maguire's 1995 novel asks a deceptively simple question: what if the Wicked Witch of the West wasn't wicked at all? The result is a densely political retelling of Oz in which Elphaba, born green and gifted and inconvenient, becomes a revolutionary fighting against a totalitarian Wizard. The novel (and its massively successful musical adaptation) explores themes of political resistance, the social construction of evil, and the uncomfortable truth that history is written by whoever holds power. It's darker, more sexual, and more philosophically complex than anything L. Frank Baum imagined.

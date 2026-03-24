@@ -19,4 +19,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'Boy Girl Boy"
+amazonUrl: "https://www.amazon.com/dp/1598181246/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781598181241"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781598181241/k/keyword"
 ---

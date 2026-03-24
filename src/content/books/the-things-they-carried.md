@@ -27,9 +27,11 @@ banLocations:
     year: 2018
     sourceUrl: "https://www.oif.ala.org/the-things-they-carried-a-challenge-in-utah/"
 totalChallenges: 35
-description: "The Things They Carried by Tim O'Brien is a collection of linked stories about the Vietnam War that has been banned and challenged for its profanity, sexual content, and graphic violence.'https://www.amazon.com/dp/0618706410?tag=isitbanned-20"
+description: "The Things They Carried by Tim O'Brien is a collection of linked stories about the Vietnam War that has been banned and challenged for its profanity, sexual content, and graphic violence."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780618706419/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780618706419"
+whyRead: "O'Brien's Vietnam War stories blur the line between truth and fiction so completely that the distinction stops mattering. It's the best war book since Hemingway."
+amazonUrl: "https://www.amazon.com/dp/1491512512/ref=nosim?tag=isitbanned-20"
 ---
 
 The Things They Carried is Tim O'Brien's collection of linked short stories about a platoon of American soldiers fighting in the Vietnam War. Drawing on his own experience as a drafted infantryman, O'Brien blurs the line between memoir and fiction, using the technique he calls "story-truth" to capture the emotional reality of combat. The book catalogs the physical and psychological weight soldiers carry: weapons, letters, guilt, fear, memories. It was a finalist for the Pulitzer Prize, a National Book Critics Circle Award nominee, and is widely considered one of the greatest works of American war literature.

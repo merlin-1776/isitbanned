@@ -30,9 +30,11 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 22
-description: "Glass is the sequel to Crank, continuing Kristina Snow's descent into methamphetamine addiction as she loses custody of her son and spirals deeper into the drug world. It has been challenged for its depictions of drug abuse, sexual content, and language.'https://www.amazon.com/dp/1416940901/ref=nosim?tag=isitbanned-20"
+description: "Glass is the sequel to Crank, continuing Kristina Snow's descent into methamphetamine addiction as she loses custody of her son and spirals deeper into the drug world. It has been challenged for its depictions of drug abuse, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781416940906"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940906/k/keyword"
+whyRead: "Hopkins continues her verse-novel chronicle of the Crank family, following the devastation of meth addiction across generations."
+amazonUrl: "https://www.amazon.com/dp/1416940901/ref=nosim?tag=isitbanned-20"
 ---
 
 Ellen Hopkins's Glass picks up Kristina Snow's story after the events of Crank. Despite having a baby, Kristina can't stay away from meth. The novel traces her relapse, her increasingly dangerous associations with dealers and addicts, and her eventual loss of custody. Hopkins writes addiction with the authority of someone who watched it destroy her family (the Crank series is based on her daughter's real experience), and the verse format mirrors the fractured cognition of someone in the grip of a substance. Glass is uglier and more hopeless than Crank, because addiction is uglier and more hopeless the second time around.

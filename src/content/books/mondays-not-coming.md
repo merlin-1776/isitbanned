@@ -29,9 +29,11 @@ banLocations:
     district: "Monroe County Schools"
     year: 2025
 totalChallenges: 16
-description: "Monday's Not Coming follows Claudia, a Black teenager whose best friend Monday goes missing and no one seems to care enough to look for her. It has been challenged for violence, language, and racial themes.'https://www.amazon.com/dp/0062422677/ref=nosim?tag=isitbanned-20"
+description: "Monday's Not Coming follows Claudia, a Black teenager whose best friend Monday goes missing and no one seems to care enough to look for her. It has been challenged for violence, language, and racial themes."
 bookshopUrl: "https://bookshop.org/a/2537/9780062422675"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062422675/k/keyword"
+whyRead: "Jackson's novel about a girl whose best friend disappears and nobody seems to care exposes how easily society discards missing Black children."
+amazonUrl: "https://www.amazon.com/dp/1538549832/ref=nosim?tag=isitbanned-20"
 ---
 
 Tiffany D. Jackson's Monday's Not Coming is a mystery wrapped in social commentary. Claudia Coleman returns from summer vacation to find that her best friend Monday Charles isn't at school. No one, not the teachers, not the school administration, not even Monday's family, seems alarmed. As Claudia investigates, she uncovers layers of neglect, abuse, and systemic indifference that allowed a Black girl to disappear without anyone raising an alarm. The novel is inspired by real cases of missing Black children who received minimal media attention or institutional response.

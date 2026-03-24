@@ -31,9 +31,11 @@ banLocations:
     year: 2018
     sourceUrl: "https://www.history.com/articles/why-to-kill-a-mockingbird-keeps-getting-banned"
 totalChallenges: 88
-description: "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the American South, challenged for its use of racial slurs and depictions of racism.'https://www.amazon.com/dp/0060935464?tag=isitbanned-20"
+description: "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the American South, challenged for its use of racial slurs and depictions of racism."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060935467/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780060935467"
+whyRead: "Lee's novel about racial injustice in the South is the most taught book in American high schools. Banning it doesn't erase the history it describes."
+amazonUrl: "https://www.amazon.com/dp/0060935464/ref=nosim?tag=isitbanned-20"
 ---
 
 Harper Lee's 1960 novel tells the story of Atticus Finch, a white lawyer in Depression-era Alabama who defends a Black man falsely accused of rape, all seen through the eyes of his young daughter Scout. It won the Pulitzer Prize in 1961 and has sold over 40 million copies worldwide. The book has been a staple of American high school curricula for decades, which makes its ban history all the more striking.

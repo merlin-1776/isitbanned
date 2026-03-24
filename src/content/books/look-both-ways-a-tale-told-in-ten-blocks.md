@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Look Both Ways: A Tale Told in Ten Blocks"
+amazonUrl: "https://www.amazon.com/dp/1481438298/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781481438292"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481438292/k/keyword"
 ---

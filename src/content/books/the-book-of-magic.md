@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'The Book of Magic"
+amazonUrl: "https://www.amazon.com/dp/1101643021/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781101643020"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781101643020/k/keyword"
 ---

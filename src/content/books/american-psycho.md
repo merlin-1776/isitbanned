@@ -26,9 +26,11 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.esquire.com/entertainment/movies/a38910670/china-fight-club-ending-chuck-palahniuk-reaction/"
 totalChallenges: 20
-description: "American Psycho by Bret Easton Ellis is a satirical novel about a Wall Street serial killer. Banned in Australia, restricted in Germany, and challenged worldwide for extreme violence and sexual content.'https://www.amazon.com/dp/0679735771/ref=nosim?tag=isitbanned-20"
+description: "American Psycho by Bret Easton Ellis is a satirical novel about a Wall Street serial killer. Banned in Australia, restricted in Germany, and challenged worldwide for extreme violence and sexual content."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679735779/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679735779"
+whyRead: "Ellis wrote a satire of 1980s Wall Street excess so disturbing that the horror comes not from the violence but from the world that produced it."
+amazonUrl: "https://www.amazon.com/dp/0330536303/ref=nosim?tag=isitbanned-20"
 ---
 
 American Psycho is narrated by Patrick Bateman, a 26-year-old investment banker on Wall Street in the late 1980s who is also a serial killer. Or maybe he isn't. The novel blurs the line between Bateman's detailed accounts of his murders and his obsessive catalogs of designer clothing, restaurant reservations, and business card fonts. Bret Easton Ellis wrote it as a satire of Reagan-era consumerism and masculine vanity. His original publisher, Simon & Schuster, dropped the book before publication after employees protested its content. Vintage Books picked it up in 1991, and both Ellis and his editor received death threats.

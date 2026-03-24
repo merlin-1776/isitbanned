@@ -28,9 +28,11 @@ banLocations:
     district: "Spotsylvania County Schools"
     year: 2022
 totalChallenges: 35
-description: "The Nowhere Girls by Amy Reed follows three misfit teenagers who take on their school's rape culture. Banned in multiple states for sexual content and LGBTQ+ themes.'https://www.amazon.com/dp/1481481726/ref=nosim?tag=isitbanned-20"
+description: "The Nowhere Girls by Amy Reed follows three misfit teenagers who take on their school's rape culture. Banned in multiple states for sexual content and LGBTQ+ themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481481724/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481481724"
+whyRead: "Reed's novel about three girls who start a feminist revolution at their high school is angry, hopeful, and exactly what the #MeToo generation needed."
+amazonUrl: "https://www.amazon.com/dp/1536457280/ref=nosim?tag=isitbanned-20"
 ---
 
 The Nowhere Girls follows Grace, Rosina, and Erin, three outcasts at a high school in a small Oregon town, who discover that a girl was run out of school after reporting a sexual assault that everyone covered up. They start an anonymous movement called The Nowhere Girls to fight back against the culture of silence. The novel weaves together multiple perspectives, including unnamed girls sharing their own experiences with consent, assault, and shame. Published by Simon Pulse in 2017, it won an Oregon Spirit Book Award.

@@ -32,9 +32,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://en.wikipedia.org/wiki/The_Glass_Castle"
 totalChallenges: 37
-description: "Jeannette Walls' memoir of growing up with dysfunctional, nomadic parents, challenged for depictions of alcoholism, sexual assault, and child neglect.'https://www.amazon.com/dp/074324754X?tag=isitbanned-20"
+description: "Jeannette Walls' memoir of growing up with dysfunctional, nomadic parents, challenged for depictions of alcoholism, sexual assault, and child neglect."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743247542/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743247542"
+whyRead: "Walls' memoir about growing up with brilliant, dysfunctional parents is funny, horrifying, and impossible to put down."
+amazonUrl: "https://www.amazon.com/dp/1442339705/ref=nosim?tag=isitbanned-20"
 ---
 
 Jeannette Walls' 2005 memoir recounts her childhood with parents who were equal parts brilliant and catastrophically irresponsible. Her father Rex was a charismatic alcoholic who could explain physics to his kids but couldn't hold a job. Her mother Rose Mary was an artist who painted while her children went hungry. The family moved constantly, lived without electricity or running water, and the children largely raised themselves. The "glass castle" of the title is a solar-powered house Rex promised to build and never did.

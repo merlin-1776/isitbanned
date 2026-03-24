@@ -30,9 +30,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 138
-description: "Stamped is a young adult adaptation of Ibram X. Kendi's Stamped from the Beginning, remixed by Jason Reynolds to trace the history of racist ideas in America from the 1400s to the present. It has been banned for its discussion of systemic racism and its antiracist framework.'https://www.amazon.com/dp/0316453692/ref=nosim?tag=isitbanned-20"
+description: "Stamped is a young adult adaptation of Ibram X. Kendi's Stamped from the Beginning, remixed by Jason Reynolds to trace the history of racist ideas in America from the 1400s to the present. It has been banned for its discussion of systemic racism and its antiracist framework."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316453691/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316453691"
+whyRead: "Reynolds and Kendi made the history of American racism accessible to teenagers. That accessibility is exactly why it's being removed from schools."
+amazonUrl: "https://www.amazon.com/dp/0316453676/ref=nosim?tag=isitbanned-20"
 ---
 
 Stamped is not a history book. As Jason Reynolds announces on the first page, it's "a present book." Reynolds takes the scholarship of Ibram X. Kendi's National Book Award-winning Stamped from the Beginning and remixes it for young readers, tracing how racist ideas were created, spread, and used to justify everything from slavery to mass incarceration. The book identifies three strands of thought throughout American history: segregationist, assimilationist, and antiracist, showing how each has shaped the country. Written in Reynolds' conversational, engaging voice, it makes complex historical analysis accessible and urgent.

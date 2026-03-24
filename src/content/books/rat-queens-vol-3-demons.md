@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Rat Queens, Vol. 3: Demons"
+amazonUrl: "https://www.amazon.com/dp/1632159325/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781632159328"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781632159328/k/keyword"
 ---

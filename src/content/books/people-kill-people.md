@@ -26,9 +26,11 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.thedailybeast.com/most-banned-book-author-in-america-ellen-hopkins-calls-bs-on-parents-concern/"
 totalChallenges: 25
-description: "People Kill People by Ellen Hopkins examines gun violence through six interconnected perspectives. Banned across multiple states for its unflinching portrayal of guns, hate, and the choices that lead to tragedy.'https://www.amazon.com/dp/1481442961/ref=nosim?tag=isitbanned-20"
+description: "People Kill People by Ellen Hopkins examines gun violence through six interconnected perspectives. Banned across multiple states for its unflinching portrayal of guns, hate, and the choices that lead to tragedy."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481442961/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481442961"
+whyRead: "Hopkins tackles gun violence through multiple perspectives, building toward a shooting with the slow inevitability of a tragedy everyone sees coming."
+amazonUrl: "https://www.amazon.com/dp/1481442945/ref=nosim?tag=isitbanned-20"
 ---
 
 People Kill People follows six young people whose lives converge at a gun show in Arizona. Written in Hopkins's signature verse style, it traces lines of hate, fear, and desperation through characters on different sides of the gun debate, immigration, and white supremacy. The narrator is Rand, a personification of hatred itself. The novel doesn't preach a particular political position. It shows how ordinary people get pushed toward violence by ideology, trauma, and access to weapons.

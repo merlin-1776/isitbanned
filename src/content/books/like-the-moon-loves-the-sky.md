@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Like the Moon Loves the Sky"
+amazonUrl: "https://www.amazon.com/dp/1452180318/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781452180311"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781452180311/k/keyword"
 ---

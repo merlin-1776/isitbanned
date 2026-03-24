@@ -28,9 +28,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://readingpartners.org/blog/five-childrens-books-you-didnt-know-were-banned/"
 totalChallenges: 42
-description: "Where the Wild Things Are by Maurice Sendak has been challenged and banned since 1963 for being too dark and frightening for children, with objections to its supernatural elements.'https://www.amazon.com/dp/0064431789?tag=isitbanned-20"
+description: "Where the Wild Things Are by Maurice Sendak has been challenged and banned since 1963 for being too dark and frightening for children, with objections to its supernatural elements."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064431781/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064431781"
+whyRead: "Sendak understood that children have big, wild emotions and that's okay. Max's journey to the Wild Things and back is one of picture books' perfect stories."
+amazonUrl: "https://www.amazon.com/dp/0865168318/ref=nosim?tag=isitbanned-20"
 ---
 
 Where the Wild Things Are is Maurice Sendak's 338-word masterpiece about a boy named Max who, after being sent to bed without supper for terrorizing the household in his wolf costume, sails to an island inhabited by enormous monsters. He tames them with a magic trick, becomes their king, presides over a "wild rumpus," and then gives it all up to go home, where his supper is waiting "and it was still hot." The book won the Caldecott Medal in 1964, has sold over 20 million copies, and remains one of the most beloved picture books in the English language.

@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'We Want to Do More Than Survive: Abolitionist Teaching and the Pursuit of Educational Freedom"
+amazonUrl: "https://www.amazon.com/dp/1974939049/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781974939046"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781974939046/k/keyword"
 ---

@@ -29,9 +29,11 @@ banLocations:
     district: "Williamson County Schools"
     year: 2023
 totalChallenges: 162
-description: "Sold is a novel-in-verse about Lakshmi, a thirteen-year-old girl from Nepal who is trafficked and sold into sexual slavery in India. Written with devastating clarity, it exposes the realities of human trafficking while centering the resilience of its young protagonist.'https://www.amazon.com/dp/0786851716/ref=nosim?tag=isitbanned-20"
+description: "Sold is a novel-in-verse about Lakshmi, a thirteen-year-old girl from Nepal who is trafficked and sold into sexual slavery in India. Written with devastating clarity, it exposes the realities of human trafficking while centering the resilience of its young protagonist."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780786851713/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780786851713"
+whyRead: "McCormick's novel about sex trafficking is devastating, spare, and necessary. The 12-year-old girls this happens to don't get the luxury of looking away."
+amazonUrl: "https://www.amazon.com/dp/0786851716/ref=nosim?tag=isitbanned-20"
 ---
 
 Sold tells the story of Lakshmi, a thirteen-year-old girl from a poor mountain village in Nepal, who believes she is being sent to work as a maid in the city. Instead, she is sold into a brothel in Kolkata, India. Written in spare, devastating verse, McCormick's novel follows Lakshmi through her captivity, depicting both the horrors of sexual slavery and the small acts of courage and connection that sustain her. The book grew from McCormick's own reporting trips to the red-light districts of Kolkata.

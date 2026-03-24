@@ -31,9 +31,11 @@ banLocations:
     year: 1963
     sourceUrl: "https://bannedbooks.library.cmu.edu/j-d-salinger-the-catcher-in-the-rye/"
 totalChallenges: 75
-description: "J.D. Salinger's classic novel about teenage alienation, the most censored book in American high schools from 1961 to 1982.'https://www.amazon.com/dp/0316769487?tag=isitbanned-20"
+description: "J.D. Salinger's classic novel about teenage alienation, the most censored book in American high schools from 1961 to 1982."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316769488/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316769488"
+whyRead: "Salinger captured teenage alienation so perfectly that every generation since 1951 has claimed Holden Caulfield as their own."
+amazonUrl: "https://www.amazon.com/dp/0316769487/ref=nosim?tag=isitbanned-20"
 ---
 
 J.D. Salinger's 1951 novel follows Holden Caulfield, a 16-year-old who's just been expelled from his fourth prep school, as he wanders through New York City over three days. Holden's voice, dripping with contempt for "phonies" and aching with grief he can't name, became the definitive portrait of teenage disillusionment. The novel has sold over 65 million copies and continues to move about 250,000 copies a year.

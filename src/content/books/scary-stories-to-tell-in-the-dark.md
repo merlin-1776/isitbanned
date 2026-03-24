@@ -28,9 +28,11 @@ banLocations:
     year: 1993
     sourceUrl: "https://www.smithsonianmag.com/arts-culture/why-scary-stories-to-tell-in-the-dark-frightened-so-many-parents-in-the-1990s-180978945/"
 totalChallenges: 124
-description: "Scary Stories to Tell in the Dark by Alvin Schwartz was the most challenged book in America from 1990 to 1999, targeted for its frightening content, disturbing illustrations, and occult themes.'https://www.amazon.com/dp/0062682857?tag=isitbanned-20"
+description: "Scary Stories to Tell in the Dark by Alvin Schwartz was the most challenged book in America from 1990 to 1999, targeted for its frightening content, disturbing illustrations, and occult themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062682895/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062682895"
+whyRead: "Schwartz's horror anthology traumatized a generation of kids, and every one of them is grateful. Stephen Gammell's illustrations still haunt dreams decades later."
+amazonUrl: "https://www.amazon.com/dp/006268289X/ref=nosim?tag=isitbanned-20"
 ---
 
 Scary Stories to Tell in the Dark is a collection of folklore-based horror stories retold by Alvin Schwartz, originally published in 1981 with nightmarish illustrations by Stephen Gammell. The trilogy (followed by More Scary Stories and Scary Stories 3) sold over 7 million copies and became a rite of passage for elementary school kids across America. Schwartz drew from folk tales, urban legends, and traditional horror, adapting them for young readers. Gammell's ink-wash illustrations, with their melting faces and shadowy figures, are arguably more memorable than the stories themselves.

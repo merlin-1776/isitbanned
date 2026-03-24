@@ -28,9 +28,11 @@ banLocations:
     district: "Northville Public Schools"
     year: 2013
 totalChallenges: 47
-description: "The Bluest Eye is Toni Morrison's debut novel, published in 1970, telling the story of Pecola Breedlove, a young Black girl in 1940s Ohio who longs for blue eyes and the beauty standards of white America. The novel confronts racism, sexual violence, and the destruction of innocence.'https://www.amazon.com/Bluest-Eye-Vintage-International/dp/0307278468?tag=isitbanned-20"
+description: "The Bluest Eye is Toni Morrison's debut novel, published in 1970, telling the story of Pecola Breedlove, a young Black girl in 1940s Ohio who longs for blue eyes and the beauty standards of white America. The novel confronts racism, sexual violence, and the destruction of innocence."
 bookshopUrl: "https://bookshop.org/a/2537/9780307278463"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780307278463/k/keyword"
+whyRead: "Morrison's debut novel about a Black girl who wants blue eyes is a devastating indictment of American beauty standards and racial self-hatred."
+amazonUrl: "https://www.amazon.com/dp/0330305018/ref=nosim?tag=isitbanned-20"
 ---
 
 Toni Morrison's first novel remains one of the most frequently challenged books in America more than 50 years after publication. The Bluest Eye follows Pecola Breedlove, a young Black girl growing up in Lorain, Ohio, in the aftermath of the Great Depression. Pecola prays for blue eyes, believing that beauty, as defined by white American culture, will save her from her brutal home life.

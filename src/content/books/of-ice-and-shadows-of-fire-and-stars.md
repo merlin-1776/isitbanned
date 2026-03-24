@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Of Ice and Shadows (Of Fire and Stars Series)"
+amazonUrl: "https://www.amazon.com/dp/006284122X/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780062841223"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062841223/k/keyword"
 ---

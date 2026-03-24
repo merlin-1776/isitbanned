@@ -30,9 +30,11 @@ banLocations:
     district: "Lamar Consolidated Independent School District"
     year: 2024
 totalChallenges: 14
-description: "We Are the Ants follows Henry Denton, a teen who has been periodically abducted by aliens and is now given a choice: press a button to save the world, or let it end. It has been challenged for LGBTQ+ themes, sexual content, and depictions of suicide.'https://www.amazon.com/dp/1481449636/ref=nosim?tag=isitbanned-20"
+description: "We Are the Ants follows Henry Denton, a teen who has been periodically abducted by aliens and is now given a choice: press a button to save the world, or let it end. It has been challenged for LGBTQ+ themes, sexual content, and depictions of suicide."
 bookshopUrl: "https://bookshop.org/a/2537/9781481449632"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481449632/k/keyword"
+whyRead: "Hutchinson's novel about a depressed teenager who might be the only person who can save the world is strange, beautiful, and heartbreakingly real."
+amazonUrl: "https://www.amazon.com/dp/0606397477/ref=nosim?tag=isitbanned-20"
 ---
 
 Shaun David Hutchinson's We Are the Ants is a book that defies easy categorization. Henry Denton has been abducted by aliens periodically since he was thirteen. Now they've given him a button: press it before a deadline and the world is saved; don't press it and everything ends. The catch is that Henry isn't sure the world is worth saving. His boyfriend committed suicide, his family is falling apart, he's being bullied at school, and the new boy in town is complicated in ways Henry can't quite figure out. The novel uses science fiction as scaffolding for a story about depression, grief, and the daily decision to keep going.

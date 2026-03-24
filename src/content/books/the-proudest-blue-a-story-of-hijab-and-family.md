@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'The Proudest Blue: A Story of Hijab and Family"
+amazonUrl: "https://www.amazon.com/dp/0316518972/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780316518970"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316518970/k/keyword"
 ---

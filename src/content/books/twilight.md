@@ -28,9 +28,11 @@ banLocations:
     year: 2010
     sourceUrl: "https://www.theguardian.com/books/2010/apr/15/stephenie-meyer-most-challenged-authors"
 totalChallenges: 64
-description: "Twilight by Stephenie Meyer has been banned and challenged for its religious viewpoint, sexual content, and occult themes involving vampires and the supernatural.'https://www.amazon.com/dp/0316015849?tag=isitbanned-20"
+description: "Twilight by Stephenie Meyer has been banned and challenged for its religious viewpoint, sexual content, and occult themes involving vampires and the supernatural."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316015844/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316015844"
+whyRead: "Meyer's vampire romance defined a generation of YA readers. Love it or hate it, it got millions of teenagers reading."
+amazonUrl: "https://www.amazon.com/dp/0316015849/ref=nosim?tag=isitbanned-20"
 ---
 
 Twilight tells the story of Bella Swan, a teenager who moves to the perpetually overcast town of Forks, Washington, and falls in love with Edward Cullen, a vampire who has spent over a century trying not to kill people. The novel launched a four-book series that sold over 100 million copies worldwide and spawned a massive film franchise. Stephenie Meyer became one of the best-selling authors of the 2000s, and the series defined a generation of YA paranormal romance.

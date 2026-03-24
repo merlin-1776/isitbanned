@@ -30,9 +30,11 @@ banLocations:
     district: "Pensacola School District"
     year: 2000
 totalChallenges: 22
-description: "The Great Gatsby by F. Scott Fitzgerald is a classic American novel about wealth, obsession, and the American Dream. Challenged for sexual references, profanity, and depictions of alcohol.'https://www.amazon.com/dp/0743273567?tag=isitbanned-20"
+description: "The Great Gatsby by F. Scott Fitzgerald is a classic American novel about wealth, obsession, and the American Dream. Challenged for sexual references, profanity, and depictions of alcohol."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743273565/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743273565"
+whyRead: "Fitzgerald wrote the definitive novel about the American Dream's emptiness. Gatsby's green light is the most famous symbol in American literature."
+amazonUrl: "https://www.amazon.com/dp/1847492584/ref=nosim?tag=isitbanned-20"
 ---
 
 Jay Gatsby throws lavish parties at his West Egg mansion, all in hopes of recapturing the attention of Daisy Buchanan, who lives across the bay. Nick Carraway, the narrator, gets pulled into Gatsby's orbit and watches the whole doomed enterprise collapse over the course of a single summer. F. Scott Fitzgerald published it in 1925 to mixed reviews and modest sales. It didn't become a canonical American novel until after his death.

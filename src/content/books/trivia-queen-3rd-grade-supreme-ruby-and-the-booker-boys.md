@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Trivia Queen, 3rd Grade Supreme (Ruby and the Booker Boys Series)"
+amazonUrl: "https://www.amazon.com/dp/1439594007/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781439594001"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781439594001/k/keyword"
 ---

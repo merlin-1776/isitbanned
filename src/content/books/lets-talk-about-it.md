@@ -26,9 +26,11 @@ banLocations:
     district: "Wentzville School District"
     year: 2023
 totalChallenges: 22
-description: "Let's Talk About It by Erika Moen and Matthew Nolan is a graphic guide to sex, relationships, and bodies for teens. One of the top 10 most challenged books in 2022 and 2023.'https://www.amazon.com/dp/1250233151?tag=isitbanned-20"
+description: "Let's Talk About It by Erika Moen and Matthew Nolan is a graphic guide to sex, relationships, and bodies for teens. One of the top 10 most challenged books in 2022 and 2023."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250233158/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781250233158"
+whyRead: "Moen's graphic guide to puberty, sex, and relationships treats teenagers like intelligent people who deserve real information. That's apparently threatening."
+amazonUrl: "https://www.amazon.com/dp/0593125312/ref=nosim?tag=isitbanned-20"
 ---
 
 Let's Talk About It is a graphic nonfiction guide for teenagers covering bodies, consent, relationships, gender identity, sexual orientation, and sex. Erika Moen and Matthew Nolan wrote and illustrated it with the same frank, inclusive approach that made Moen's earlier sex-education webcomic popular with adults. The book uses cartoon illustrations to explain anatomy, discuss boundaries, and answer the questions that teens are already googling anyway. It's aimed at readers ages 14 and up.

@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Before the Ever After"
+amazonUrl: "https://www.amazon.com/dp/039954545X/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780593341230"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593341230/k/keyword"
 ---

@@ -30,9 +30,11 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 25
-description: "Burned tells the story of Pattyn Von Stratten, a seventeen-year-old girl raised in a strict Mormon household who begins to question everything she's been taught about faith, love, and obedience. It has been challenged for its depiction of religion, sexual content, and drug use.'https://www.amazon.com/dp/1416903550/ref=nosim?tag=isitbanned-20"
+description: "Burned tells the story of Pattyn Von Stratten, a seventeen-year-old girl raised in a strict Mormon household who begins to question everything she's been taught about faith, love, and obedience. It has been challenged for its depiction of religion, sexual content, and drug use."
 bookshopUrl: "https://bookshop.org/a/2537/9781416903550"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416903550/k/keyword"
+whyRead: "Hopkins writes about a girl raised in a fundamentalist Mormon household questioning everything she's been taught. The verse format makes every line hit harder."
+amazonUrl: "https://www.amazon.com/dp/1416903542/ref=nosim?tag=isitbanned-20"
 ---
 
 Ellen Hopkins's Burned follows Pattyn Von Stratten, the eldest daughter in a large, devout Mormon family ruled by an abusive, alcoholic father. When Pattyn begins questioning her faith and develops feelings for a boy outside the church, she's sent to live with an aunt in rural Nevada. There, Pattyn experiences freedom for the first time, falls in love, and faces impossible choices about the life she was born into versus the life she wants. Hopkins writes in her signature verse format, using white space and line breaks to create emotional rhythm that hits like a gut punch.

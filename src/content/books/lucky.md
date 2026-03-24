@@ -28,9 +28,11 @@ banLocations:
     district: "St. Francis Area Schools"
     year: 2025
 totalChallenges: 20
-description: "Lucky is Alice Sebold's memoir of being raped as a college freshman and the subsequent criminal trial. It has been challenged for its graphic descriptions of sexual assault and violence.'https://www.amazon.com/dp/0316096199/ref=nosim?tag=isitbanned-20"
+description: "Lucky is Alice Sebold's memoir of being raped as a college freshman and the subsequent criminal trial. It has been challenged for its graphic descriptions of sexual assault and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9780316096195"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316096195/k/keyword"
+whyRead: "Sebold's memoir about surviving rape at age 18 is raw, unflinching, and one of the most important accounts of sexual assault ever published."
+amazonUrl: "https://www.amazon.com/dp/8439710267/ref=nosim?tag=isitbanned-20"
 ---
 
 Alice Sebold's 1999 memoir recounts her rape as a freshman at Syracuse University and the long aftermath: the investigation, the trial, the conviction, and the years of trying to rebuild a life fractured by violence. The title comes from a police officer's remark that Sebold was "lucky" because a previous victim in the same location had been murdered. Sebold writes about the assault and its consequences with unflinching detail, refusing to soften the reality of sexual violence. The book became controversial again in 2021 when the man convicted of Sebold's rape had his conviction vacated, raising complex questions about memory, identification, and the criminal justice system.

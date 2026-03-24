@@ -30,9 +30,11 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2023
 totalChallenges: 143
-description: "The Handmaid's Tale is Margaret Atwood's dystopian novel set in Gilead, a totalitarian theocracy that has replaced the United States. Told through the eyes of Offred, a woman forced into reproductive servitude, it explores the intersection of religious extremism, patriarchy, and state power.'https://www.amazon.com/dp/038549081X/ref=nosim?tag=isitbanned-20"
+description: "The Handmaid's Tale is Margaret Atwood's dystopian novel set in Gilead, a totalitarian theocracy that has replaced the United States. Told through the eyes of Offred, a woman forced into reproductive servitude, it explores the intersection of religious extremism, patriarchy, and state power."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385490818/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385490818"
+whyRead: "Atwood wrote a dystopia where women's bodies are controlled by the state. The bans only make the book feel more prophetic."
+amazonUrl: "https://www.amazon.com/dp/0224023489/ref=nosim?tag=isitbanned-20"
 ---
 
 The Handmaid's Tale imagines a near-future America overthrown by a theocratic regime called Gilead, where women are stripped of all rights and fertile women are assigned to powerful men as "handmaids," forced to bear children. Offred narrates her life under this regime: the rituals of state-sanctioned rape, the surveillance, the public executions, and the small acts of resistance that keep her sane. Published in 1985, Atwood's novel drew on historical precedents for every element of its dystopia, and the Hulu adaptation reignited public interest beginning in 2017.

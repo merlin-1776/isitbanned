@@ -30,9 +30,11 @@ banLocations:
     district: "Dallas ISD"
     year: 1995
 totalChallenges: 20
-description: "James and the Giant Peach by Roald Dahl is a children's fantasy about a boy who escapes his cruel aunts inside a magical giant peach. Banned for references to tobacco, alcohol, and the word 'ass.''https://www.amazon.com/dp/0142410365/ref=nosim?tag=isitbanned-20"
+description: "James and the Giant Peach by Roald Dahl is a children's fantasy about a boy who escapes his cruel aunts inside a magical giant peach. Banned for references to tobacco, alcohol, and the word 'ass.'"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780142410363/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780142410363"
+whyRead: "Dahl's surreal adventure about a boy escaping his awful aunts inside a giant peach is one of children's literature's perfect fantasies."
+amazonUrl: "https://www.amazon.com/dp/1484488997/ref=nosim?tag=isitbanned-20"
 ---
 
 James and the Giant Peach tells the story of James Henry Trotter, an orphan trapped with his monstrous aunts, Aunt Sponge and Aunt Spiker. After a mysterious old man gives him a bag of magic crocodile tongues, a peach in the garden grows to the size of a house. James crawls inside and finds a crew of giant, talking insects. Together, they sail the peach across the Atlantic Ocean to New York City. Published in 1961 by Alfred A. Knopf with illustrations by Nancy Ekholm Burkert, it was Roald Dahl's first children's novel and remains one of his most beloved.

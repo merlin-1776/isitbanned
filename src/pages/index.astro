@@ -37,6 +37,10 @@ const searchBooks = books.map((b) => ({
 				<SearchBar books={searchBooks} />
 			</section>
 
+			<div class="random-section">
+				<button id="random-btn" class="random-btn">🎲 Random Banned Book</button>
+			</div>
+
 			<section class="books-section">
 				<h2>Most Challenged Books</h2>
 				<div class="books-grid">
@@ -79,6 +83,26 @@ const searchBooks = books.map((b) => ({
 				margin-left: auto;
 				margin-right: auto;
 			}
+			.random-section {
+				text-align: center;
+				margin-bottom: 2em;
+			}
+			.random-btn {
+				display: inline-block;
+				padding: 0.8em 2em;
+				background: rgb(var(--gray-dark));
+				color: #fff;
+				border: none;
+				border-radius: 8px;
+				font-size: 1.1rem;
+				font-weight: 700;
+				cursor: pointer;
+				transition: all 0.2s;
+			}
+			.random-btn:hover {
+				background: var(--accent);
+				transform: scale(1.05);
+			}
 			.books-section {
 				padding: 2em 0;
 			}
@@ -119,5 +143,14 @@ const searchBooks = books.map((b) => ({
 				}
 			}
 		</style>
+
+		<script>
+			document.getElementById('random-btn')?.addEventListener('click', async () => {
+				const res = await fetch('/slugs.json');
+				const slugs = await res.json();
+				const slug = slugs[Math.floor(Math.random() * slugs.length)];
+				window.location.href = '/books/' + slug + '/';
+			});
+		</script>
 	</body>
 </html>

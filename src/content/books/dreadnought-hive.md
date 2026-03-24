@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Dreadnought (H.I.V.E. Series)"
+amazonUrl: "https://www.amazon.com/dp/0747594848/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780747594840"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780747594840/k/keyword"
 ---

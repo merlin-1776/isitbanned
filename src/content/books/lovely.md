@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Lovely"
+amazonUrl: "https://www.amazon.com/dp/1939547377/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781939547378"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781939547378/k/keyword"
 ---

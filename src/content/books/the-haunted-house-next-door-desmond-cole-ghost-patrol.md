@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'The Haunted House Next Door (Desmond Cole Ghost Patrol Series)"
+amazonUrl: "https://www.amazon.com/dp/1534410392/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781534410398"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781534410398/k/keyword"
 ---

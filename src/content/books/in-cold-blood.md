@@ -26,9 +26,11 @@ banLocations:
     year: 1999
     sourceUrl: "https://librarymom12.wordpress.com/2014/09/24/banned-book-week-2014-in-cold-blood/"
 totalChallenges: 15
-description: "In Cold Blood by Truman Capote is the pioneering true crime book about the 1959 murder of the Clutter family in Kansas. Banned for violence and sexual content in school districts across Georgia, California, and Kentucky.'https://www.amazon.com/dp/0679745580/ref=nosim?tag=isitbanned-20"
+description: "In Cold Blood by Truman Capote is the pioneering true crime book about the 1959 murder of the Clutter family in Kansas. Banned for violence and sexual content in school districts across Georgia, California, and Kentucky."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679745587/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679745587"
+whyRead: "Capote invented true crime literature with his account of the Clutter family murders in Kansas. It's the gold standard for nonfiction storytelling."
+amazonUrl: "https://www.amazon.com/dp/0451043855/ref=nosim?tag=isitbanned-20"
 ---
 
 In Cold Blood reconstructs the 1959 murder of the Clutter family in Holcomb, Kansas, and the capture, trial, and execution of their killers, Perry Smith and Dick Hickock. Truman Capote spent six years reporting the story, conducting hundreds of interviews and building an intimate portrait of both the victims and their murderers. Published in 1966 by Random House, the book is widely credited with inventing the "nonfiction novel" and remains one of the most influential works of American journalism.

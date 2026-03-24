@@ -32,9 +32,11 @@ banLocations:
     year: 2009
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/i-know-why-the-caged-bird-sings/"
 totalChallenges: 39
-description: "Maya Angelou's memoir of growing up Black in the Jim Crow South, challenged for its depiction of childhood sexual assault, racism, and sexuality.'https://www.amazon.com/dp/0345514408?tag=isitbanned-20"
+description: "Maya Angelou's memoir of growing up Black in the Jim Crow South, challenged for its depiction of childhood sexual assault, racism, and sexuality."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780345514400/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780345514400"
+whyRead: "Angelou's memoir about growing up Black in Arkansas is one of the most important autobiographies in American literature. Period."
+amazonUrl: "https://www.amazon.com/dp/3293201636/ref=nosim?tag=isitbanned-20"
 ---
 
 Maya Angelou's 1969 autobiography chronicles her childhood in Stamps, Arkansas and St. Louis, Missouri during the 1930s and 1940s. She writes about growing up Black in the Jim Crow South, being shuttled between her mother and grandmother, and the sexual assault she survived at age 8. The book became a landmark of American literature and one of the first autobiographies by a Black woman to reach a wide audience. Angelou went on to write six more autobiographical volumes, but this first one remains her most celebrated and most challenged.

@@ -29,9 +29,11 @@ banLocations:
     district: "Oak Ridge Schools"
     year: 2025
 totalChallenges: 18
-description: "I Am Not Your Perfect Mexican Daughter follows Julia Reyes, a first-generation Mexican American teenager dealing with her sister's death, her family's expectations, and her own ambitions. It has been challenged for sexual content, language, and drug references.'https://www.amazon.com/dp/1524700487/ref=nosim?tag=isitbanned-20"
+description: "I Am Not Your Perfect Mexican Daughter follows Julia Reyes, a first-generation Mexican American teenager dealing with her sister's death, her family's expectations, and her own ambitions. It has been challenged for sexual content, language, and drug references."
 bookshopUrl: "https://bookshop.org/a/2537/9781524700485"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781524700485/k/keyword"
+whyRead: "Sánchez's debut about a Mexican-American girl refusing to be the obedient daughter her dead sister was is funny, angry, and deeply felt."
+amazonUrl: "https://www.amazon.com/dp/1536453595/ref=nosim?tag=isitbanned-20"
 ---
 
 Erika L. Sánchez's National Book Award finalist is about Julia Reyes, a Chicago teenager whose older sister Olga was everything their traditional Mexican immigrant parents wanted: obedient, devout, and uncomplaining. When Olga dies in an accident, Julia discovers secrets that suggest her perfect sister wasn't so perfect. The novel follows Julia as she grieves, rebels, grapples with depression, and fights for the right to want more than the life her parents planned for her. Sánchez writes about the specific pressure of being a first-generation daughter with humor, anger, and deep affection for the community she's also critiquing.

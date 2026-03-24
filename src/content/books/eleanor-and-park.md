@@ -27,9 +27,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://bannedbooks.library.cmu.edu/rainbow-rowell-eleanor-park/"
 totalChallenges: 24
-description: "Rainbow Rowell's young adult love story set in 1986 Omaha, challenged for profanity, sexual content, and being 'too mature' for its teen audience.'https://www.amazon.com/dp/1250012570?tag=isitbanned-20"
+description: "Rainbow Rowell's young adult love story set in 1986 Omaha, challenged for profanity, sexual content, and being 'too mature' for its teen audience."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250012579/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781250012579"
+whyRead: "Rowell's novel about two misfits falling in love on a school bus in 1986 is one of the best YA romances ever written. It hurts in all the right ways."
+amazonUrl: "https://www.amazon.com/dp/7559401333/ref=nosim?tag=isitbanned-20"
 ---
 
 Rainbow Rowell's 2013 novel tells the story of two misfit teenagers in 1986 Omaha, Nebraska. Eleanor is the new girl with a chaotic home life, an abusive stepfather, and wild red hair. Park is a half-Korean kid who reads comics and listens to The Smiths. They share a bus seat, then comic books, then a mixtape, and eventually fall in love. The novel won the Boston Globe-Horn Book Award and was named one of the best books of the year by multiple publications.

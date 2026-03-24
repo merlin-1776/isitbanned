@@ -29,9 +29,11 @@ banLocations:
     district: "Spotsylvania County Public Schools"
     year: 2022
 totalChallenges: 28
-description: "Gone with the Wind by Margaret Mitchell is a sweeping Civil War-era novel challenged for racial slurs, romanticized slavery, sexual content, and violence.'https://www.amazon.com/dp/1451635621?tag=isitbanned-20"
+description: "Gone with the Wind by Margaret Mitchell is a sweeping Civil War-era novel challenged for racial slurs, romanticized slavery, sexual content, and violence."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451635621/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451635621"
+whyRead: "Mitchell's epic about the Civil War South remains one of the bestselling novels ever written. Its romanticization of slavery and racism demands critical reading, not removal."
+amazonUrl: "https://www.amazon.com/dp/2070768414/ref=nosim?tag=isitbanned-20"
 ---
 
 Scarlett O'Hara claws her way through the Civil War and Reconstruction, losing and rebuilding Tara, marrying three times, and chasing Ashley Wilkes while Rhett Butler chases her. Margaret Mitchell published the novel in 1936, it won the Pulitzer Prize in 1937, and the 1939 film became one of the highest-grossing movies ever made. It's also one of the most contested novels in American literature, challenged from nearly every direction.

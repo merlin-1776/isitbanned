@@ -13,4 +13,7 @@ banLocations:
       year: 2022
 totalChallenges: 2
 description: "'A Quick & Easy Guide to Queer & Trans Identities"
+amazonUrl: "https://www.amazon.com/dp/1620105861/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781620105863"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781620105863/k/keyword"
 ---

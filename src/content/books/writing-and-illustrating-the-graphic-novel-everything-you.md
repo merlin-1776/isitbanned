@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Writing and Illustrating the Graphic Novel: Everything You Need to Know to Create Great Graphic Works"
+amazonUrl: "https://www.amazon.com/dp/0764127888/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780764127885"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780764127885/k/keyword"
 ---

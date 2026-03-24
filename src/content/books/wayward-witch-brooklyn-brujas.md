@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Wayward Witch (Brooklyn Brujas Series)"
+amazonUrl: "https://www.amazon.com/dp/1663634149/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781663634146"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781663634146/k/keyword"
 ---

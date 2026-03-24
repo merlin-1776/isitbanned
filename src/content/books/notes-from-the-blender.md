@@ -16,4 +16,7 @@ banLocations:
       year: 2021
 totalChallenges: 3
 description: "'Notes from the Blender"
+amazonUrl: "https://www.amazon.com/dp/1606841866/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781606842270"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781606842270/k/keyword"
 ---

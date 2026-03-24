@@ -29,9 +29,11 @@ banLocations:
     district: "Goddard USD"
     year: 2022
 totalChallenges: 151
-description: "Gender Queer is a graphic memoir by Maia Kobabe that explores eir journey with gender identity and sexuality. The book has been the most banned and challenged book in the United States since 2021, targeted primarily for its frank depictions of LGBTQ+ experiences and sexual content in graphic novel format.'https://www.amazon.com/Gender-Queer-Memoir-Maia-Kobabe/dp/1549304003?tag=isitbanned-20"
+description: "Gender Queer is a graphic memoir by Maia Kobabe that explores eir journey with gender identity and sexuality. The book has been the most banned and challenged book in the United States since 2021, targeted primarily for its frank depictions of LGBTQ+ experiences and sexual content in graphic novel format."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781549304002/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781549304002"
+whyRead: "Kobabe's graphic memoir about gender identity is the most banned book in America. Read it and decide for yourself why that scares people."
+amazonUrl: "https://www.amazon.com/dp/1549304003/ref=nosim?tag=isitbanned-20"
 ---
 
 Gender Queer is the most challenged book in America. Maia Kobabe's graphic memoir traces eir path from childhood confusion about gender and sexuality through the discovery of nonbinary and asexual identities. The book uses Spivak pronouns (e/em/eir) and combines text with expressive illustrations to convey deeply personal experiences.

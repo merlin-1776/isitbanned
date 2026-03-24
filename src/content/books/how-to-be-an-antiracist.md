@@ -22,4 +22,7 @@ banLocations:
       year: 2021
 totalChallenges: 5
 description: "'How to Be an Antiracist"
+amazonUrl: "https://www.amazon.com/dp/8417925406/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781847926005"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781847926005/k/keyword"
 ---

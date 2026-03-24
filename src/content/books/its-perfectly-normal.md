@@ -28,9 +28,11 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.jsonline.com/story/news/education/2023/11/07/heres-a-list-wisconsin-schools-with-book-bans-and-restrictions/71401064007/"
 totalChallenges: 78
-description: "It's Perfectly Normal by Robie H. Harris is a comprehensive sex education book for young people. It has been one of the most frequently banned books in America for its frank illustrations and discussions of puberty, sex, and sexual health.'https://www.amazon.com/dp/0763668729?tag=isitbanned-20"
+description: "It's Perfectly Normal by Robie H. Harris is a comprehensive sex education book for young people. It has been one of the most frequently banned books in America for its frank illustrations and discussions of puberty, sex, and sexual health."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780763668723/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780763668723"
+whyRead: "Harris wrote the sex education book that answers the questions kids are too embarrassed to ask their parents. That's why parents keep trying to ban it."
+amazonUrl: "https://www.amazon.com/dp/162654848X/ref=nosim?tag=isitbanned-20"
 ---
 
 It's Perfectly Normal is a sex education book for children and young teens, illustrated by Michael Emberley and written by Robie H. Harris. First published in 1994, it covers puberty, reproduction, birth, sexual health, consent, and gender identity with straightforward language and cartoon illustrations. The book has been updated multiple times to reflect current understanding of gender and sexuality, and has been translated into over 30 languages. Pediatricians and educators have widely recommended it as an age-appropriate resource for kids entering puberty.

@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Squanto's Journey: The Story of the First Thanksgiving"
+amazonUrl: "https://www.amazon.com/dp/0739830724/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780739830727"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780739830727/k/keyword"
 ---

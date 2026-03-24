@@ -28,9 +28,11 @@ banLocations:
     year: 2019
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/harry-potter-series/"
 totalChallenges: 85
-description: "Dav Pilkey's beloved children's series about two fourth-graders who hypnotize their principal into becoming a superhero, the #1 most challenged book in 2012 and 2013.'https://www.amazon.com/dp/0545385628?tag=isitbanned-20"
+description: "Dav Pilkey's beloved children's series about two fourth-graders who hypnotize their principal into becoming a superhero, the #1 most challenged book in 2012 and 2013."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545385626/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545385626"
+whyRead: "Pilkey's series got millions of reluctant readers to love books. Banning it for potty humor misses that laughter is how kids learn to love reading."
+amazonUrl: "https://www.amazon.com/dp/9352754018/ref=nosim?tag=isitbanned-20"
 ---
 
 Dav Pilkey's Captain Underpants series follows George Beard and Harold Hutchins, two fourth-graders who create a comic book about a superhero who fights crime in his underwear. Through a hypnotic accident, they turn their mean principal, Mr. Krupp, into the real Captain Underpants. The series has sold over 80 million copies, been translated into 28 languages, and inspired a DreamWorks animated film and Netflix series. It was also the #1 most challenged book in America in 2012 and 2013, and #13 on the ALA's most challenged list for the decade.

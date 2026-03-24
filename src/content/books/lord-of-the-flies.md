@@ -30,9 +30,11 @@ banLocations:
     district: "Skaneateles Central School District"
     year: 2000
 totalChallenges: 37
-description: "Lord of the Flies by William Golding follows boys stranded on an island who descend into savagery. Banned for violence, profanity, and racial content since the 1970s.'https://www.amazon.com/dp/0399501487?tag=isitbanned-20"
+description: "Lord of the Flies by William Golding follows boys stranded on an island who descend into savagery. Banned for violence, profanity, and racial content since the 1970s."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780399501487/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780399501487"
+whyRead: "Golding stranded boys on an island and watched civilization collapse. It's the novel that proved humans aren't naturally good, and it's never been comfortable."
+amazonUrl: "https://www.amazon.com/dp/0807218189/ref=nosim?tag=isitbanned-20"
 ---
 
 A group of British schoolboys crash-lands on an uninhabited island during wartime. With no adults around, they attempt self-governance. It goes badly. Ralph tries to maintain order and keep a signal fire burning. Jack wants to hunt. Piggy tries to reason with everyone. Simon sees something nobody else wants to see. William Golding's 1954 novel won the Nobel Prize and has been a staple of school curricula for decades, which hasn't stopped people from trying to pull it off shelves.

@@ -32,9 +32,11 @@ banLocations:
     year: 2003
     sourceUrl: "https://bbark.deepforestproductions.com/column/2011/03/27/banned-books-awareness-giver-lois-lowry/"
 totalChallenges: 64
-description: "Lois Lowry's Newbery Medal-winning dystopian novel about a society that has eliminated pain, color, and choice, challenged over 11,000 times since publication.'https://www.amazon.com/dp/0544336267?tag=isitbanned-20"
+description: "Lois Lowry's Newbery Medal-winning dystopian novel about a society that has eliminated pain, color, and choice, challenged over 11,000 times since publication."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780544336261/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780544336261"
+whyRead: "Lowry's dystopia taught a generation of kids to question authority. It won the Newbery Medal and remains one of the most assigned novels in American schools."
+amazonUrl: "https://www.amazon.com/dp/0544336267/ref=nosim?tag=isitbanned-20"
 ---
 
 Lois Lowry's 1993 novel is set in a seemingly utopian society where pain, conflict, and choice have been eliminated. Twelve-year-old Jonas is assigned the role of "Receiver of Memory," inheriting the collective memories of the community's past, including color, music, love, and suffering. As he learns what his society has sacrificed for its stability, he faces an impossible choice. The book won the Newbery Medal in 1994 and has been challenged over 11,000 times since publication, making it one of the most contested children's books in American history.

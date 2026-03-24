@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Putting Makeup on the Fat Boy"
+amazonUrl: "https://www.amazon.com/dp/1442423986/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781416940043"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940043/k/keyword"
 ---

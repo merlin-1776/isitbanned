@@ -26,9 +26,11 @@ banLocations:
     district: "Little Rock Central High School"
     year: 2013
 totalChallenges: 15
-description: "Fight Club by Chuck Palahniuk is a novel about masculinity, consumerism, and underground violence. Banned from the Texas prison system, challenged in schools, and censored in China.'https://www.amazon.com/dp/0393327345/ref=nosim?tag=isitbanned-20"
+description: "Fight Club by Chuck Palahniuk is a novel about masculinity, consumerism, and underground violence. Banned from the Texas prison system, challenged in schools, and censored in China."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780393327342/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780393327342"
+whyRead: "Palahniuk's novel about masculinity, consumerism, and self-destruction spawned a cult following. Its first rule is that you don't talk about it."
+amazonUrl: "https://www.amazon.com/dp/0613918827/ref=nosim?tag=isitbanned-20"
 ---
 
 Fight Club follows an unnamed, insomniac narrator who meets Tyler Durden, a charismatic soap salesman, and together they start an underground bare-knuckle boxing club that metastasizes into an anarchist movement called Project Mayhem. Published by W. W. Norton in 1996 and adapted into the 1999 David Fincher film, the novel is a corrosive satire of consumer culture, corporate masculinity, and the violence that festers when people feel their lives have no meaning.

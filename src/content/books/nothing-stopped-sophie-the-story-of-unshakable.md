@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Nothing Stopped Sophie: The Story of Unshakable Mathematician Sophie Germain"
+amazonUrl: "https://www.amazon.com/dp/0316411493/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780316411493"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316411493/k/keyword"
 ---

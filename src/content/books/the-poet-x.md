@@ -29,9 +29,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 18
-description: "The Poet X follows Xiomara Batista, a Dominican American teenager in Harlem who pours her frustrations with her strict religious mother and her own desires into slam poetry. It has been challenged for its portrayal of religion, sexual content, and language.'https://www.amazon.com/dp/0062662805/ref=nosim?tag=isitbanned-20"
+description: "The Poet X follows Xiomara Batista, a Dominican American teenager in Harlem who pours her frustrations with her strict religious mother and her own desires into slam poetry. It has been challenged for its portrayal of religion, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780062662804"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062662804/k/keyword"
+whyRead: "Acevedo's National Book Award winner about a Dominican-American girl finding her voice through slam poetry is fierce, musical, and impossible to put down."
+amazonUrl: "https://www.amazon.com/dp/1780318448/ref=nosim?tag=isitbanned-20"
 ---
 
 Elizabeth Acevedo's Carnegie Medal and National Book Award-winning novel-in-verse follows Xiomara Batista, a fifteen-year-old Dominican American girl in Harlem whose body draws unwanted attention from men on the street and disapproval from her deeply religious mother. Xiomara channels her anger, desire, and doubt into a notebook of poems and eventually into the school's slam poetry club, a space her mother would forbid if she knew about it. Acevedo, herself a slam poet, writes with rhythmic precision, and the novel reads like a performance: urgent, physical, and impossible to set aside.

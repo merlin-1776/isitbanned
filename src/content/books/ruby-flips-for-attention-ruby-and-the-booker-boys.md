@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Ruby Flips For Attention (Ruby and the Booker Boys Series)"
+amazonUrl: "https://www.amazon.com/dp/1439577560/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781439577561"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781439577561/k/keyword"
 ---

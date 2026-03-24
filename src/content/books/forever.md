@@ -26,9 +26,11 @@ banLocations:
     district: "Greenville County Schools"
     year: 2024
 totalChallenges: 224
-description: "Forever is Judy Blume's groundbreaking novel about Katherine and Michael, two teenagers who fall in love and make the decision to have sex. Published in 1975, it was one of the first young adult novels to depict teenage sexuality honestly and without punishment.'https://www.amazon.com/dp/1481414437/ref=nosim?tag=isitbanned-20"
+description: "Forever is Judy Blume's groundbreaking novel about Katherine and Michael, two teenagers who fall in love and make the decision to have sex. Published in 1975, it was one of the first young adult novels to depict teenage sexuality honestly and without punishment."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481414432/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481414432"
+whyRead: "Blume wrote the first YA novel where teens have sex and nothing terrible happens. Fifty years later, that's still revolutionary."
+amazonUrl: "https://www.amazon.com/dp/1481414437/ref=nosim?tag=isitbanned-20"
 ---
 
 Forever was revolutionary when Judy Blume published it in 1975, and it remains controversial fifty years later. The novel follows high school seniors Katherine and Michael as they fall in love, decide to have sex, and navigate the emotional complexity of a first serious relationship. Blume wrote the book at the request of her teenage daughter, who wanted a novel where teenagers had sex and nothing terrible happened as a result. The book depicts contraception, mutual consent, and eventual heartbreak with a matter-of-fact honesty that was unprecedented in young adult fiction.

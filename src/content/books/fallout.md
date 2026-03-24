@@ -29,9 +29,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 18
-description: "Fallout follows the three children of Kristina Snow from the Crank trilogy as they navigate the lasting damage of their mother's methamphetamine addiction. It has been challenged for depictions of drug abuse, sexual content, and language.'https://www.amazon.com/dp/1416950095/ref=nosim?tag=isitbanned-20"
+description: "Fallout follows the three children of Kristina Snow from the Crank trilogy as they navigate the lasting damage of their mother's methamphetamine addiction. It has been challenged for depictions of drug abuse, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781416950097"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950097/k/keyword"
+whyRead: "Hopkins completes the Crank trilogy, showing how one person's addiction radiates outward and damages everyone it touches."
+amazonUrl: "https://www.amazon.com/dp/1442471808/ref=nosim?tag=isitbanned-20"
 ---
 
 Ellen Hopkins's Fallout is the conclusion of the Crank trilogy, but it shifts perspective from Kristina Snow to her three children, each raised in different circumstances after their mother's meth addiction shattered the family. Hunter lives with his grandparents and struggles with anger. Autumn was adopted and discovers her birth mother's identity. Summer lives with Kristina and her current boyfriend, witnessing the ongoing destruction of addiction firsthand. Hopkins traces the intergenerational damage of substance abuse through three distinct voices, showing how one person's choices ripple outward for decades.

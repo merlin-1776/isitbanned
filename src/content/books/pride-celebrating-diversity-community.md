@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Pride: Celebrating Diversity & Community"
+amazonUrl: "https://www.amazon.com/dp/1459837428/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781459837423"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781459837423/k/keyword"
 ---

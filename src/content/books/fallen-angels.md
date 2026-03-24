@@ -32,9 +32,11 @@ banLocations:
     district: "North East ISD"
     year: 2023
 totalChallenges: 48
-description: "Fallen Angels by Walter Dean Myers follows young soldiers in the Vietnam War. One of the most frequently banned books in America for profanity, violence, and racial content.'https://www.amazon.com/dp/0545055768?tag=isitbanned-20"
+description: "Fallen Angels by Walter Dean Myers follows young soldiers in the Vietnam War. One of the most frequently banned books in America for profanity, violence, and racial content."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545055765/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545055765"
+whyRead: "Myers wrote the Vietnam War novel that doesn't flinch. It's required reading for anyone who wants to understand what war does to teenagers."
+amazonUrl: "https://www.amazon.com/dp/0590409433/ref=nosim?tag=isitbanned-20"
 ---
 
 Richie Perry is seventeen, from Harlem, and enlists in the Army because he can't afford college. He ships out to Vietnam in 1967 and discovers that nothing anyone told him about the war matches what he sees. His platoon is a mix of Black and white soldiers, city kids and country boys, and they're all trying to survive a conflict they barely understand. Walter Dean Myers drew on his own brother's Vietnam experience to write one of the most searing war novels in YA literature.

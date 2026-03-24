@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Grace Hopper: Queen of Computer Code"
+amazonUrl: "https://www.amazon.com/dp/1454920009/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781454920007"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781454920007/k/keyword"
 ---

@@ -26,9 +26,11 @@ banLocations:
     district: "Marion County Public Schools"
     year: 2023
 totalChallenges: 45
-description: "Lolita by Vladimir Nabokov is a controversial literary masterpiece about an unreliable narrator's obsession with a young girl. Banned globally for sexual content since 1955.'https://www.amazon.com/dp/0679723161?tag=isitbanned-20"
+description: "Lolita by Vladimir Nabokov is a controversial literary masterpiece about an unreliable narrator's obsession with a young girl. Banned globally for sexual content since 1955."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679723165/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679723165"
+whyRead: "Nabokov wrote the most disturbing, most beautifully written novel in the English language. It's a horror story disguised as a love story, and the distinction matters."
+amazonUrl: "https://www.amazon.com/dp/5858920055/ref=nosim?tag=isitbanned-20"
 ---
 
 Humbert Humbert, a middle-aged European intellectual, narrates his obsession with twelve-year-old Dolores Haze, whom he calls Lolita. He marries her mother to gain access to the girl, and after the mother's death, takes Dolores on a cross-country road trip that is, stripped of Humbert's lyrical self-justification, a chronicle of child abuse. Nabokov wrote it in English, his third language, and produced some of the most dazzling prose of the twentieth century in service of one of its most disturbing stories.

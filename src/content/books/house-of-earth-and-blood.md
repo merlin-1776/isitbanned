@@ -28,9 +28,11 @@ banLocations:
     district: "Santa Rosa County Schools"
     year: 2025
 totalChallenges: 14
-description: "House of Earth and Blood is the first book in Sarah J. Maas's Crescent City series, following half-fae Bryce Quinlan as she investigates a string of brutal murders in a city of angels, demons, and shapeshifters. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/1635574048/ref=nosim?tag=isitbanned-20"
+description: "House of Earth and Blood is the first book in Sarah J. Maas's Crescent City series, following half-fae Bryce Quinlan as she investigates a string of brutal murders in a city of angels, demons, and shapeshifters. It has been challenged for sexual content and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9781635574043"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635574043/k/keyword"
+whyRead: "Maas launched a new series blending urban fantasy with her signature romance. It's 800 pages, and BookTok devoured every one."
+amazonUrl: "https://www.amazon.com/dp/0655672249/ref=nosim?tag=isitbanned-20"
 ---
 
 House of Earth and Blood launches Sarah J. Maas's Crescent City series, set in a modern-feeling world populated by angels, shapeshifters, fae, and demons. Bryce Quinlan, a half-fae party girl, teams up with Hunt Athalar, a fallen angel enslaved by the ruling Archangels, to investigate the murder of Bryce's best friend. At 800 pages, the book blends urban fantasy, romance, murder mystery, and political intrigue into a dense, addictive package. Maas published this through Bloomsbury's adult imprint, positioning it clearly outside YA, but her existing fanbase followed her across the aisle.

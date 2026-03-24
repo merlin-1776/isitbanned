@@ -29,9 +29,11 @@ banLocations:
     district: "Pasco County Schools"
     year: 2025
 totalChallenges: 30
-description: "Living Dead Girl tells the story of Alice, a girl kidnapped at age ten and held captive by a predator for five years. Written in spare, haunting prose, it has been challenged for its depiction of child sexual abuse and violence.'https://www.amazon.com/dp/1416960597/ref=nosim?tag=isitbanned-20"
+description: "Living Dead Girl tells the story of Alice, a girl kidnapped at age ten and held captive by a predator for five years. Written in spare, haunting prose, it has been challenged for its depiction of child sexual abuse and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9781416960591"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416960591/k/keyword"
+whyRead: "Scott's novella about a kidnapped girl is 170 pages of controlled horror. It's not gratuitous. It's the truth about what captivity does to a person."
+amazonUrl: "https://www.amazon.com/dp/1416960597/ref=nosim?tag=isitbanned-20"
 ---
 
 Elizabeth Scott's Living Dead Girl is one of the most disturbing and deliberately uncomfortable YA novels ever published. Alice was kidnapped by a man named Ray when she was ten. Five years later, she exists in a state of dissociation, following Ray's rules, enduring his abuse, and watching him begin to look for her replacement. The novel is written in stripped-down, almost clinical prose that mirrors Alice's emotional numbness. Scott doesn't sensationalize the abuse; instead, she renders it with a flatness that's somehow more devastating than graphic detail would be. The book is short (170 pages) and relentless.

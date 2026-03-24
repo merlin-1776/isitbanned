@@ -28,9 +28,11 @@ banLocations:
     district: "Santa Rosa County Schools"
     year: 2025
 totalChallenges: 18
-description: "What Girls Are Made Of follows sixteen-year-old Nina Faye as she searches for love and validation through her relationship with her boyfriend, interspersed with chapters about the Virgin Mary. It has been challenged for sexual content and language.'https://www.amazon.com/dp/1512410241/ref=nosim?tag=isitbanned-20"
+description: "What Girls Are Made Of follows sixteen-year-old Nina Faye as she searches for love and validation through her relationship with her boyfriend, interspersed with chapters about the Virgin Mary. It has been challenged for sexual content and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781512410242"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781512410242/k/keyword"
+whyRead: "Arnold's verse novel about a teenage girl navigating her first sexual relationship and religious identity is uncomfortably honest, which is exactly its value."
+amazonUrl: "https://www.amazon.com/dp/1512434388/ref=nosim?tag=isitbanned-20"
 ---
 
 Elana K. Arnold's National Book Award finalist alternates between two stories: Nina, a sixteen-year-old willing to reshape herself entirely to keep her boyfriend's love, and a retelling of the Virgin Mary's story that questions how culture has used the Madonna figure to police female sexuality. The book examines what happens when girls are taught that their value lies in being desired, and what it costs to perform the version of femininity that boys and men expect. Arnold writes about sex directly and without apology, treating Nina's body and choices as her own even when those choices are driven by desperation.

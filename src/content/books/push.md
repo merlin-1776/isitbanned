@@ -30,9 +30,11 @@ banLocations:
     district: "Cobb County School District"
     year: 2024
 totalChallenges: 30
-description: "Push tells the story of Precious Jones, an illiterate, obese Black teenager in Harlem who has been raped repeatedly by her father and abused by her mother. It has been challenged for graphic depictions of sexual abuse, violence, and language.'https://www.amazon.com/dp/0679446265/ref=nosim?tag=isitbanned-20"
+description: "Push tells the story of Precious Jones, an illiterate, obese Black teenager in Harlem who has been raped repeatedly by her father and abused by her mother. It has been challenged for graphic depictions of sexual abuse, violence, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780679446262"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679446262/k/keyword"
+whyRead: "Sapphire's novel about Precious Jones surviving abuse and illiteracy in Harlem is raw, profane, and one of the most powerful American novels of the 1990s."
+amazonUrl: "https://www.amazon.com/dp/3499226979/ref=nosim?tag=isitbanned-20"
 ---
 
 Sapphire's Push is written in the barely literate voice of Claireece Precious Jones, a sixteen-year-old who has been raped by her father since childhood, borne two of his children, and been physically and emotionally brutalized by her mother. When Precious is expelled from school after her second pregnancy, she enrolls in an alternative education program where a teacher named Blu Rain begins teaching her to read and write. The novel is raw, profane, and almost unbearably painful. It's also a story about the transformative power of literacy and the possibility of self-determination even in the most crushing circumstances. The 2009 film adaptation, Precious, won two Academy Awards.

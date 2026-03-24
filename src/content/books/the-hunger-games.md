@@ -28,9 +28,11 @@ banLocations:
     year: 2013
     sourceUrl: "https://thecityvoice.org/2021/04/29/banned-the-hunger-games/"
 totalChallenges: 31
-description: "Suzanne Collins' dystopian novel about children forced to fight to the death, challenged for violence, anti-government themes, and being 'unsuited to age group.''https://www.amazon.com/dp/0439023483?tag=isitbanned-20"
+description: "Suzanne Collins' dystopian novel about children forced to fight to the death, challenged for violence, anti-government themes, and being 'unsuited to age group.'"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780439023481/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780439023481"
+whyRead: "Collins' trilogy about children forced to kill each other on television became the defining YA dystopia. The Capitol's violence was always the point."
+amazonUrl: "https://www.amazon.com/dp/8498675391/ref=nosim?tag=isitbanned-20"
 ---
 
 Suzanne Collins' 2008 novel is set in Panem, a dystopian nation built on the ruins of North America, where the authoritarian Capitol forces each of its 12 districts to send two teenagers to fight to the death in an annual televised spectacle. Katniss Everdeen, a 16-year-old from the impoverished District 12, volunteers to take her younger sister's place. The book launched a trilogy that sold over 100 million copies and a film franchise that earned nearly $3 billion worldwide.

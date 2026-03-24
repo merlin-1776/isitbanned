@@ -20,4 +20,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'Separate Is Never Equal: Sylvia Mendez and Her Family’s Fight for Desegregation"
+amazonUrl: "https://www.amazon.com/dp/1629238562/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781629238562"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781629238562/k/keyword"
 ---

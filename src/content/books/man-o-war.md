@@ -28,9 +28,11 @@ banLocations:
     district: "School District of Osceola County"
     year: 2025
 totalChallenges: 16
-description: "Man o' War follows River, a nonbinary teen and competitive swimmer, navigating gender identity, first love, and family expectations. It has been challenged for its LGBTQ+ themes and sexual content.'https://www.amazon.com/dp/0593353706/ref=nosim?tag=isitbanned-20"
+description: "Man o' War follows River, a nonbinary teen and competitive swimmer, navigating gender identity, first love, and family expectations. It has been challenged for its LGBTQ+ themes and sexual content."
 bookshopUrl: "https://bookshop.org/a/2537/9780593353707"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593353707/k/keyword"
+whyRead: "Hopkins writes about a military family coping with a father's PTSD and the ripple effects of war on the people who stay home."
+amazonUrl: "https://www.amazon.com/dp/0593353706/ref=nosim?tag=isitbanned-20"
 ---
 
 Cory McCarthy's Man o' War centers on River McIntyre, a nonbinary competitive swimmer dealing with the collision between athletic ambition and gender identity. When River's swim coach and divorced parents pressure them to compete on the boys' team, River pushes back against a binary system that doesn't fit. A budding romance with a new teammate adds another layer of complexity. McCarthy, who is nonbinary, writes from lived experience, grounding the story in the specific, physical reality of inhabiting a body that the world keeps trying to categorize.

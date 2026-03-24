@@ -28,9 +28,11 @@ banLocations:
     district: "Santa Rosa County Schools"
     year: 2025
 totalChallenges: 20
-description: "Red Hood is a feminist retelling of Little Red Riding Hood in which Bisou Martel discovers a connection between her body, the wolves in the nearby woods, and generations of women who came before her. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/0062742353/ref=nosim?tag=isitbanned-20"
+description: "Red Hood is a feminist retelling of Little Red Riding Hood in which Bisou Martel discovers a connection between her body, the wolves in the nearby woods, and generations of women who came before her. It has been challenged for sexual content and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9780062742353"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062742353/k/keyword"
+whyRead: "Arnold reimagines Little Red Riding Hood as a girl tracking the predator in her community. It's a feminist thriller that doesn't pull punches."
+amazonUrl: "https://www.amazon.com/dp/0062742361/ref=nosim?tag=isitbanned-20"
 ---
 
 Elana K. Arnold's Red Hood rewrites Little Red Riding Hood as a story about female power, bodily autonomy, and the violence that men inflict on women. Bisou Martel lives in a small town on the edge of a forest. After she kills a wolf that attacked her, she begins to uncover a lineage of women who have fought back against predators, both animal and human. The novel braids menstruation, sexuality, and violence into a single metaphorical framework, treating the female body not as something to be ashamed of but as a source of strength. It's visceral, unapologetic, and deliberately provocative.

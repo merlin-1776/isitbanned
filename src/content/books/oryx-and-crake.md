@@ -28,9 +28,11 @@ banLocations:
     district: "Granbury ISD"
     year: 2024
 totalChallenges: 30
-description: "Oryx and Crake by Margaret Atwood is a speculative fiction novel about genetic engineering, corporate power, and humanity's capacity for self-destruction. Banned in Utah statewide in 2024 and challenged across multiple Texas districts.'https://www.amazon.com/dp/0385721676/ref=nosim?tag=isitbanned-20"
+description: "Oryx and Crake by Margaret Atwood is a speculative fiction novel about genetic engineering, corporate power, and humanity's capacity for self-destruction. Banned in Utah statewide in 2024 and challenged across multiple Texas districts."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385721677/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385721677"
+whyRead: "Atwood's speculative novel about genetic engineering and corporate apocalypse feels more plausible every year. It's her scariest book, and she wrote The Handmaid's Tale."
+amazonUrl: "https://www.amazon.com/dp/1843951347/ref=nosim?tag=isitbanned-20"
 ---
 
 Oryx and Crake is the first book in Margaret Atwood's MaddAddam trilogy, set in a post-apocalyptic world where genetic engineering and unchecked corporate greed have nearly wiped out humanity. Snowman, possibly the last natural human alive, pieces together the story of his brilliant, dangerous friend Crake and the mysterious Oryx. The novel skewers biotech hubris, consumer culture, and the commodification of everything from animals to people. Published in 2003 by Nan A. Talese/Doubleday, it was a Booker Prize finalist.

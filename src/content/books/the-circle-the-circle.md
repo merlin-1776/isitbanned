@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'The Circle (The Circle Series)"
+amazonUrl: "https://www.amazon.com/dp/0241146488/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780241146484"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780241146484/k/keyword"
 ---

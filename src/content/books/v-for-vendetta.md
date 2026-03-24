@@ -16,4 +16,7 @@ banLocations:
       year: 2021
 totalChallenges: 3
 description: "'V for Vendetta"
+amazonUrl: "https://www.amazon.com/dp/1845761820/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781852862916"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781852862916/k/keyword"
 ---

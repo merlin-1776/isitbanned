@@ -32,9 +32,11 @@ banLocations:
     year: 2019
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/george/"
 totalChallenges: 73
-description: "Alex Gino's middle-grade novel about a transgender fourth-grader, the most banned book in America from 2018 to 2020.'https://www.amazon.com/dp/0545812542?tag=isitbanned-20"
+description: "Alex Gino's middle-grade novel about a transgender fourth-grader, the most banned book in America from 2018 to 2020."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545812542/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545812542"
+whyRead: "Gino wrote a gentle story about a trans girl performing in a school play. It's for elementary-age kids, and it's exactly as sweet as that sounds."
+amazonUrl: "https://www.amazon.com/dp/0545880068/ref=nosim?tag=isitbanned-20"
 ---
 
 Alex Gino's 2015 middle-grade novel tells the story of Melissa, a transgender girl who everyone sees as a boy named George. When her class puts on a production of Charlotte's Web, Melissa wants desperately to play Charlotte, but no one understands why a "boy" would want a girl's part. The book was originally published as George and rereleased as Melissa in 2022, correcting the deadnaming of the main character. It won the Stonewall Book Award and the Lambda Literary Award.

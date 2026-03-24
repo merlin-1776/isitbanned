@@ -11,4 +11,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Love Is the Higher Law"
+amazonUrl: "https://www.amazon.com/dp/0375834699/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780375834684"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375834684/k/keyword"
 ---

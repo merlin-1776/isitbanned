@@ -26,4 +26,7 @@ banLocations:
 totalChallenges: 6
 description: "Gretchen, a shy art student, wishes she could be a fly on the wall of the boys' locker room, and her wish comes true."
 whyRead: "Lockhart's fantastical premise is a Kafka-meets-teen-comedy exploration of gender, desire, and the gap between how we imagine people and who they really are."
+amazonUrl: "https://www.amazon.com/dp/1407042904/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781407042909"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781407042909/k/keyword"
 ---

@@ -27,9 +27,11 @@ banLocations:
     year: 2022
     sourceUrl: "https://www.washingtonpost.com/education/2022/01/27/maus-ban-tennessee-mcminn-county-holocaust/"
 totalChallenges: 43
-description: "Art Spiegelman's Pulitzer Prize-winning graphic novel about the Holocaust, depicting Jews as mice and Nazis as cats, banned for profanity and a brief nude drawing.'https://www.amazon.com/dp/0394747232?tag=isitbanned-20"
+description: "Art Spiegelman's Pulitzer Prize-winning graphic novel about the Holocaust, depicting Jews as mice and Nazis as cats, banned for profanity and a brief nude drawing."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780394747231/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780394747231"
+whyRead: "Spiegelman told his father's Holocaust survival story as a graphic novel and won the Pulitzer Prize. Banning it in McMinn County, Tennessee made international news."
+amazonUrl: "https://www.amazon.com/dp/0394541553/ref=nosim?tag=isitbanned-20"
 ---
 
 Maus is Art Spiegelman's graphic memoir of his father Vladek's survival of the Holocaust, depicting Jews as mice, Nazis as cats, and Poles as pigs. It was the first graphic novel to win a Pulitzer Prize, in 1992. The book interweaves Vladek's wartime experiences in Poland and Auschwitz with Spiegelman's complicated present-day relationship with his father, creating one of the most powerful pieces of Holocaust literature ever produced.

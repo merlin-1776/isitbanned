@@ -31,9 +31,11 @@ banLocations:
     district: "Tulsa Public Schools"
     year: 2023
 totalChallenges: 176
-description: "The Perks of Being a Wallflower is Stephen Chbosky's coming-of-age epistolary novel about Charlie, a shy freshman navigating high school while dealing with trauma, mental illness, and first love. It has been challenged for its frank treatment of sex, drugs, and LGBTQ+ relationships.'https://www.amazon.com/dp/1451696191/ref=nosim?tag=isitbanned-20"
+description: "The Perks of Being a Wallflower is Stephen Chbosky's coming-of-age epistolary novel about Charlie, a shy freshman navigating high school while dealing with trauma, mental illness, and first love. It has been challenged for its frank treatment of sex, drugs, and LGBTQ+ relationships."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451696196/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451696196"
+whyRead: "Chbosky captured the raw interior life of a sensitive teenager with an honesty that made a generation feel less alone."
+amazonUrl: "https://www.amazon.com/dp/1451696191/ref=nosim?tag=isitbanned-20"
 ---
 
 Written as a series of letters from a high school freshman named Charlie, The Perks of Being a Wallflower captures the raw intensity of adolescence with uncommon honesty. Charlie is navigating the aftermath of his best friend's suicide and deeper traumas he can't yet name, finding refuge in a group of misfit seniors who introduce him to music, literature, parties, and the complicated territories of love and identity. Chbosky's novel has resonated with generations of teenagers precisely because it doesn't sanitize the messy realities of growing up.

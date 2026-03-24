@@ -19,4 +19,7 @@ banLocations:
       year: 2022
 totalChallenges: 4
 description: "'Allegedly"
+amazonUrl: "https://www.amazon.com/dp/1470859130/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780062422644"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062422644/k/keyword"
 ---

@@ -22,4 +22,7 @@ banLocations:
       year: 2021
 totalChallenges: 5
 description: "'Juliet Takes a Breath"
+amazonUrl: "https://www.amazon.com/dp/1713625431/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780593108192"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593108192/k/keyword"
 ---

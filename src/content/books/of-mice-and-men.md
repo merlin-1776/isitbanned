@@ -31,9 +31,11 @@ banLocations:
     year: 2006
     sourceUrl: "https://www.pbs.org/wgbh/americanexperience/features/banned-of-mice-and-men/"
 totalChallenges: 52
-description: "John Steinbeck's Depression-era novella about two migrant workers, challenged for profanity, racial slurs, and its portrayal of violence and euthanasia.'https://www.amazon.com/dp/0140186425?tag=isitbanned-20"
+description: "John Steinbeck's Depression-era novella about two migrant workers, challenged for profanity, racial slurs, and its portrayal of violence and euthanasia."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780140186420/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780140186420"
+whyRead: "Steinbeck wrote about loneliness, disability, and the cruelty of the American Dream in 100 pages of perfect prose."
+amazonUrl: "https://www.amazon.com/dp/0140186425/ref=nosim?tag=isitbanned-20"
 ---
 
 John Steinbeck's 1937 novella follows George Milton and Lennie Small, two displaced migrant workers during the Great Depression who dream of owning their own piece of land. Lennie, who has an intellectual disability and enormous physical strength, doesn't understand his own power. The story, set in Soledad, California, is short enough to read in an afternoon and devastating enough to stay with you for years. It won Steinbeck a spot on the ALA's most challenged books list for multiple decades running.

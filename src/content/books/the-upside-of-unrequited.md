@@ -28,9 +28,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 12
-description: "The Upside of Unrequited follows Molly Peskin-Suso, a plus-size teen with 26 unrequited crushes, as she navigates love and family in a household with two moms. It has been challenged for its LGBTQ+ themes and sexual references.'https://www.amazon.com/dp/0062348701/ref=nosim?tag=isitbanned-20"
+description: "The Upside of Unrequited follows Molly Peskin-Suso, a plus-size teen with 26 unrequited crushes, as she navigates love and family in a household with two moms. It has been challenged for its LGBTQ+ themes and sexual references."
 bookshopUrl: "https://bookshop.org/a/2537/9780062348708"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062348708/k/keyword"
+whyRead: "Albertalli's novel about a girl with anxiety and an unrequited crush is warm, inclusive, and treats every character's identity as matter-of-fact."
+amazonUrl: "https://www.amazon.com/dp/014135612X/ref=nosim?tag=isitbanned-20"
 ---
 
 Becky Albertalli's The Upside of Unrequited follows Molly Peskin-Suso, a seventeen-year-old who has had twenty-six crushes and exactly zero relationships. When her twin sister Cassie starts dating a girl named Mina, the family dynamics shift, and Molly finds herself drawn to Mina's friend Reid. The novel is set in a family with two moms, a detail that Albertalli treats as entirely unremarkable, exactly as it should be. Molly is plus-size, anxious, and deeply lovable, and the book is fundamentally a romantic comedy that happens to feature a queer family structure.

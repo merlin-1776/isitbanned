@@ -26,9 +26,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://www.stltoday.com/news/local/education/wentzville-school-district-book-bans/article_2023.html"
 totalChallenges: 104
-description: "A Court of Mist and Fury is the second book in Sarah J. Maas's ACOTAR series, following Feyre as she navigates the aftermath of trauma, discovers new powers, and falls for the mysterious High Lord Rhysand. It contains more explicit romantic content than its predecessor.'https://www.amazon.com/dp/1619634465/ref=nosim?tag=isitbanned-20"
+description: "A Court of Mist and Fury is the second book in Sarah J. Maas's ACOTAR series, following Feyre as she navigates the aftermath of trauma, discovers new powers, and falls for the mysterious High Lord Rhysand. It contains more explicit romantic content than its predecessor."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781619634466/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781619634466"
+whyRead: "The second ACOTAR book, where the series finds its real story. Maas writes fantasy romance that takes female desire seriously."
+amazonUrl: "https://www.amazon.com/dp/1619634465/ref=nosim?tag=isitbanned-20"
 ---
 
 A Court of Mist and Fury picks up after the traumatic events of the first book, with Feyre struggling with PTSD and a deteriorating relationship. When she's drawn into the orbit of Rhysand, the enigmatic High Lord of the Night Court, she discovers both new powers and a deeper understanding of the political machinations threatening the faerie realms. The novel is beloved by fans for its portrayal of recovery from trauma, its complex political world-building, and its slow-burn romance that becomes significantly more explicit than the first book.

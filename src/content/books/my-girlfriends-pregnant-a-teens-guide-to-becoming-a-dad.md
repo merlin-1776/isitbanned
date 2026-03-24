@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'My Girlfriend's Pregnant!: A Teen’s Guide to Becoming a Dad"
+amazonUrl: "https://www.amazon.com/dp/1554517435/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781554517435"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781554517435/k/keyword"
 ---

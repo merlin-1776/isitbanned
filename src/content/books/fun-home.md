@@ -31,9 +31,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/fun-home-a-family-tragicomic/"
 totalChallenges: 46
-description: "Fun Home by Alison Bechdel is a graphic memoir about growing up with a closeted gay father who ran a funeral home. It has been banned and challenged for its LGBTQ+ themes and sexual content.'https://www.amazon.com/dp/0618871713?tag=isitbanned-20"
+description: "Fun Home by Alison Bechdel is a graphic memoir about growing up with a closeted gay father who ran a funeral home. It has been banned and challenged for its LGBTQ+ themes and sexual content."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780618871711/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780618871711"
+whyRead: "Bechdel's graphic memoir about her closeted father is a masterpiece of visual storytelling and one of the great American autobiographies."
+amazonUrl: "https://www.amazon.com/dp/849867123X/ref=nosim?tag=isitbanned-20"
 ---
 
 Fun Home is Alison Bechdel's graphic memoir about growing up in a small Pennsylvania town with a father who ran the local funeral home (the "fun home" of the title) and harbored a secret: he was a closeted gay man. Through meticulously drawn panels and literary references to Joyce, Fitzgerald, and Camus, Bechdel traces the parallel arcs of her own coming out as a lesbian and her father's hidden life, which ended in what she believes was suicide. The book won widespread critical acclaim, was a finalist for the National Book Critics Circle Award, and was adapted into a Tony Award-winning Broadway musical.

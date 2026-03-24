@@ -28,9 +28,11 @@ banLocations:
     year: 1992
     sourceUrl: "https://bannedbooks.library.cmu.edu/ray-bradburys-fahrenheit-451/"
 totalChallenges: 34
-description: "Ray Bradbury's dystopian novel about a future where books are burned by the government — itself repeatedly banned and censored in American schools.'https://www.amazon.com/dp/1451673310?tag=isitbanned-20"
+description: "Ray Bradbury's dystopian novel about a future where books are burned by the government — itself repeatedly banned and censored in American schools."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451673319/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451673319"
+whyRead: "Bradbury wrote a novel about a society that burns books. Banning it is performance art at this point."
+amazonUrl: "https://www.amazon.com/dp/2207305449/ref=nosim?tag=isitbanned-20"
 ---
 
 Ray Bradbury's 1953 novel imagines a future where "firemen" burn books instead of putting out fires, and citizens are sedated by wall-sized television screens. Guy Montag, a fireman who begins to question his work, risks everything to read and preserve the books he's supposed to destroy. The novel's title refers to the temperature at which paper supposedly auto-ignites. Bradbury wrote it in nine days on a rented typewriter in the UCLA library basement, feeding dimes into the machine.

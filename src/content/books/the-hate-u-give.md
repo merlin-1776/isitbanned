@@ -33,9 +33,11 @@ banLocations:
     district: "Oklahoma City Public Schools"
     year: 2023
 totalChallenges: 185
-description: "The Hate U Give follows sixteen-year-old Starr Carter, who witnesses the fatal shooting of her unarmed childhood friend Khalil by a police officer. Inspired by the Black Lives Matter movement, the novel explores race, police brutality, code-switching, and the courage it takes to speak up.'https://www.amazon.com/dp/0062498533/ref=nosim?tag=isitbanned-20"
+description: "The Hate U Give follows sixteen-year-old Starr Carter, who witnesses the fatal shooting of her unarmed childhood friend Khalil by a police officer. Inspired by the Black Lives Matter movement, the novel explores race, police brutality, code-switching, and the courage it takes to speak up."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062498533/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062498533"
+whyRead: "Thomas wrote the YA novel the Black Lives Matter generation needed. It's the most important young adult book of the 2010s."
+amazonUrl: "https://www.amazon.com/dp/0062498533/ref=nosim?tag=isitbanned-20"
 ---
 
 The Hate U Give centers on Starr Carter, who lives in a poor, mostly Black neighborhood but attends a wealthy, mostly white prep school. When she witnesses a police officer shoot her unarmed friend Khalil during a traffic stop, Starr is forced to navigate the chasm between her two worlds as the shooting becomes national news. Thomas' debut novel, inspired by the Black Lives Matter movement and the shooting of Oscar Grant, is a fierce, compassionate examination of systemic racism, police violence, and what it means to find your voice when every institution is telling you to stay quiet.

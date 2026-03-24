@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Rat Queens, Vol. 1: Sass & Sorcery"
+amazonUrl: "https://www.amazon.com/dp/1607069458/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781607069454"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781607069454/k/keyword"
 ---

@@ -19,4 +19,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'Kiss Number 8"
+amazonUrl: "https://www.amazon.com/dp/1250196930/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781250196934"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250196934/k/keyword"
 ---

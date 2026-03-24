@@ -27,9 +27,11 @@ banLocations:
     year: 2008
     sourceUrl: "https://reactormag.com/banned-books-week-philip-pullmans-his-dark-materials/"
 totalChallenges: 42
-description: "Philip Pullman's fantasy novel about a girl in a parallel universe, challenged for anti-religious themes and criticized by the Catholic League as promoting atheism.'https://www.amazon.com/dp/0440238137?tag=isitbanned-20"
+description: "Philip Pullman's fantasy novel about a girl in a parallel universe, challenged for anti-religious themes and criticized by the Catholic League as promoting atheism."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780440238133/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780440238133"
+whyRead: "Pullman's fantasy trilogy takes on organized religion, consciousness, and the corruption of power. It's the anti-Narnia, and it's magnificent."
+amazonUrl: "https://www.amazon.com/dp/0553535137/ref=nosim?tag=isitbanned-20"
 ---
 
 Philip Pullman's 1995 novel (published in the UK as Northern Lights) introduces Lyra Belacqua, an orphan living in a parallel-universe Oxford where people's souls exist outside their bodies as animal companions called dæmons. Lyra's quest to rescue kidnapped children leads her into conflict with the Magisterium, a powerful religious authority. The book is the first in the His Dark Materials trilogy, which draws on Milton's Paradise Lost and, in its later volumes, explicitly challenges organized religion. The trilogy has sold over 17.5 million copies worldwide.

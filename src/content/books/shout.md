@@ -29,9 +29,11 @@ banLocations:
     district: "Rutherford County Schools"
     year: 2025
 totalChallenges: 15
-description: "Shout is Laurie Halse Anderson's memoir-in-verse about surviving sexual assault, becoming a writer, and the decades she spent hearing from readers of Speak who shared their own stories of abuse. It has been challenged for its discussion of sexual assault and mature themes.'https://www.amazon.com/dp/0670012106/ref=nosim?tag=isitbanned-20"
+description: "Shout is Laurie Halse Anderson's memoir-in-verse about surviving sexual assault, becoming a writer, and the decades she spent hearing from readers of Speak who shared their own stories of abuse. It has been challenged for its discussion of sexual assault and mature themes."
 bookshopUrl: "https://bookshop.org/a/2537/9780670012107"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780670012107/k/keyword"
+whyRead: "Anderson follows up Speak with a memoir-in-verse about her own sexual assault, her writing life, and why telling the truth matters even when it's dangerous."
+amazonUrl: "https://www.amazon.com/dp/0670012106/ref=nosim?tag=isitbanned-20"
 ---
 
 Laurie Halse Anderson's Shout is the companion piece to her groundbreaking novel Speak. Where Speak told a fictionalized version of Anderson's experience, Shout tells the real one: her own rape as a teenager, her silence, her eventual decision to write about it, and the twenty years of letters she received from readers who told her that Speak saved their lives. The memoir is written in verse, alternating between personal narrative, response to critics, and an unflinching examination of rape culture. Anderson writes with the authority of someone who has spent decades listening to survivors.

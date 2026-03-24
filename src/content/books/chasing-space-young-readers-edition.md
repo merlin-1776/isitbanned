@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Chasing Space Young Readers' Edition"
+amazonUrl: "https://www.amazon.com/dp/0062665944/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780062665942"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062665942/k/keyword"
 ---

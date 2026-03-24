@@ -28,9 +28,11 @@ banLocations:
     year: 2023
     sourceUrl: "https://guides.lib.uconn.edu/c.php?g=606679&p=4206258"
 totalChallenges: 18
-description: "Marjane Satrapi's graphic memoir of growing up in Iran during the Islamic Revolution, banned for depictions of torture, violence, and political content.'https://www.amazon.com/dp/037571457X?tag=isitbanned-20"
+description: "Marjane Satrapi's graphic memoir of growing up in Iran during the Islamic Revolution, banned for depictions of torture, violence, and political content."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375714573/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780375714573"
+whyRead: "Satrapi's graphic memoir about growing up during the Iranian Revolution is one of the most important autobiographies of the 21st century."
+amazonUrl: "https://www.amazon.com/dp/2844140793/ref=nosim?tag=isitbanned-20"
 ---
 
 Marjane Satrapi's 2003 graphic memoir recounts her childhood in Tehran during the 1979 Islamic Revolution and the Iran-Iraq War. Drawn in stark black-and-white panels, the book shows young Marjane watching her country transform: relatives imprisoned and executed, women forced to wear veils, bombs falling on her neighborhood. Her parents eventually send her to Vienna as a teenager to escape the regime. The memoir was a critical sensation, winning the Angoulême Coup de Coeur Prize, and was adapted into an Oscar-nominated animated film.

@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'A Bad Boy Can Be Good for a Girl"
+amazonUrl: "https://www.amazon.com/dp/0307433056/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780385747028"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385747028/k/keyword"
 ---

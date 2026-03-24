@@ -31,9 +31,11 @@ banLocations:
     year: 2000
     sourceUrl: "https://www.marshall.edu/library/bannedbooks/harry-potter-series/"
 totalChallenges: 96
-description: "The first Harry Potter novel, the most challenged book of the 21st century, banned primarily for themes of witchcraft and perceived promotion of the occult.'https://www.amazon.com/dp/059035342X?tag=isitbanned-20"
+description: "The first Harry Potter novel, the most challenged book of the 21st century, banned primarily for themes of witchcraft and perceived promotion of the occult."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780590353427/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780590353427"
+whyRead: "The book that launched a generation of readers. Banning it for witchcraft ignores that it's a story about love conquering evil."
+amazonUrl: "https://www.amazon.com/dp/0439211166/ref=nosim?tag=isitbanned-20"
 ---
 
 J.K. Rowling's 1997 debut novel (published in the U.S. in 1998) introduces Harry Potter, an orphan who discovers on his 11th birthday that he's a wizard. The series went on to sell over 500 million copies worldwide, making it the best-selling book series in history. It was also, for years, the most challenged book series in America, topping the ALA's most challenged list in 1999, 2000, 2001, and 2002.

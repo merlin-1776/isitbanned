@@ -30,9 +30,11 @@ banLocations:
     district: "Okaloosa County School District"
     year: 2025
 totalChallenges: 85
-description: "A Clockwork Orange follows Alex, a teenage delinquent in a dystopian future who leads his gang through nights of ultraviolence before being subjected to a brutal government rehabilitation program. It has been challenged for its graphic depictions of violence, sexual assault, and drug use.'https://www.amazon.com/dp/0393312836/ref=nosim?tag=isitbanned-20"
+description: "A Clockwork Orange follows Alex, a teenage delinquent in a dystopian future who leads his gang through nights of ultraviolence before being subjected to a brutal government rehabilitation program. It has been challenged for its graphic depictions of violence, sexual assault, and drug use."
 bookshopUrl: "https://bookshop.org/a/2537/9780393312836"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780393312836/k/keyword"
+whyRead: "Burgess forced readers to confront whether free will matters even when the will chooses violence. The question hasn't gotten any easier."
+amazonUrl: "https://www.amazon.com/dp/0393312836/ref=nosim?tag=isitbanned-20"
 ---
 
 Anthony Burgess's 1962 novel invented its own slang language, Nadsat, to narrate the exploits of fifteen-year-old Alex and his droogs as they terrorize a near-future Britain. After Alex is arrested and subjected to the Ludovico Technique, a form of aversion therapy that strips him of free will, the novel poses an uncomfortable question: is a person who can only do good truly good at all? Stanley Kubrick's 1971 film adaptation amplified the novel's notoriety, and Burgess spent much of his later career ambivalent about a book that overshadowed everything else he wrote.

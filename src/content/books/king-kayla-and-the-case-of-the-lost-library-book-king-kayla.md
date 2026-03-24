@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'King & Kayla and the Case of the Lost Library Book (King & Kayla Series)"
+amazonUrl: "https://www.amazon.com/dp/1682632164/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781682632161"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781682632161/k/keyword"
 ---

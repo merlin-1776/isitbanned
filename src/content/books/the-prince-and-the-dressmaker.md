@@ -19,4 +19,7 @@ banLocations:
       year: 2022
 totalChallenges: 4
 description: "'The Prince and the Dressmaker"
+amazonUrl: "https://www.amazon.com/dp/1250159857/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781626723634"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781626723634/k/keyword"
 ---

@@ -31,9 +31,11 @@ banLocations:
     district: "Edmond Public Schools"
     year: 2023
 totalChallenges: 155
-description: "Thirteen Reasons Why follows high school student Clay Jensen as he listens to cassette tapes recorded by Hannah Baker, a classmate who died by suicide, detailing the thirteen people she holds responsible. The novel has been challenged for its depiction of suicide, sexual assault, and substance use.'https://www.amazon.com/dp/0451478290/ref=nosim?tag=isitbanned-20"
+description: "Thirteen Reasons Why follows high school student Clay Jensen as he listens to cassette tapes recorded by Hannah Baker, a classmate who died by suicide, detailing the thirteen people she holds responsible. The novel has been challenged for its depiction of suicide, sexual assault, and substance use."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780451478290/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780451478290"
+whyRead: "Asher's novel about teen suicide sparked the conversation adults didn't want to have. The controversy proved the book's point."
+amazonUrl: "https://www.amazon.com/dp/0451478290/ref=nosim?tag=isitbanned-20"
 ---
 
 Thirteen Reasons Why begins with Clay Jensen receiving a package of cassette tapes recorded by Hannah Baker, a classmate who recently took her own life. Each side of each tape is dedicated to a person Hannah says played a role in her decision, and Clay spends a long night listening, walking through the town, and visiting the locations Hannah describes. Asher's novel confronts bullying, sexual assault, and the cascading effects of cruelty with a structure that keeps readers hooked through mounting dread.

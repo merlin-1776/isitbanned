@@ -26,4 +26,7 @@ banLocations:
 totalChallenges: 6
 description: "Cliff, an overweight, bullied teen, forms an unlikely friendship with Aaron, the school's star quarterback who is secretly struggling with depression."
 whyRead: "Norton's debut novel tackles suicide, bullying, and male friendship with humor and heart. It's funny without being flippant about serious topics."
+amazonUrl: "https://www.amazon.com/dp/1484798686/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781484790625"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781484790625/k/keyword"
 ---

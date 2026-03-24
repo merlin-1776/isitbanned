@@ -29,9 +29,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 30
-description: "The Lovely Bones is narrated by Susie Salmon, a fourteen-year-old girl who watches from heaven as her family and killer navigate life after her murder. It has been challenged for its depiction of rape, murder, and mature themes.'https://www.amazon.com/dp/0316168815/ref=nosim?tag=isitbanned-20"
+description: "The Lovely Bones is narrated by Susie Salmon, a fourteen-year-old girl who watches from heaven as her family and killer navigate life after her murder. It has been challenged for its depiction of rape, murder, and mature themes."
 bookshopUrl: "https://bookshop.org/a/2537/9780316168816"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316168816/k/keyword"
+whyRead: "Sebold's novel narrated by a murdered girl watching from heaven was a cultural phenomenon. It confronts violence against children without looking away."
+amazonUrl: "https://www.amazon.com/dp/0759570477/ref=nosim?tag=isitbanned-20"
 ---
 
 Alice Sebold's The Lovely Bones became a literary phenomenon in 2002, spending over a year on the New York Times bestseller list and selling millions of copies. The novel is narrated by Susie Salmon, who has been raped and murdered by her neighbor. From her personal heaven, Susie watches her family fracture and slowly rebuild, her killer continue his life, and her friends grow up without her. The premise could be maudlin, but Sebold writes with restraint and specificity, finding moments of dark humor and unexpected beauty in a story about the worst thing that can happen. The opening chapter, which describes Susie's murder, is among the most discussed passages in contemporary fiction.

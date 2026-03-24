@@ -28,9 +28,11 @@ banLocations:
     year: 1996
     sourceUrl: "https://www.bannedlibrary.com/podcast/2016/1/16/banned-47-bridge-to-terabithia"
 totalChallenges: 55
-description: "Bridge to Terabithia by Katherine Paterson is a Newbery Medal-winning children's novel that has been repeatedly banned for profanity, occult themes, and its frank portrayal of death.'https://www.amazon.com/dp/0064401847?tag=isitbanned-20"
+description: "Bridge to Terabithia by Katherine Paterson is a Newbery Medal-winning children's novel that has been repeatedly banned for profanity, occult themes, and its frank portrayal of death."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064401845/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064401845"
+whyRead: "Paterson's Newbery winner about childhood imagination and sudden loss has been making kids cry since 1977. That emotional honesty is why it matters."
+amazonUrl: "https://www.amazon.com/dp/0064401847/ref=nosim?tag=isitbanned-20"
 ---
 
 Bridge to Terabithia tells the story of Jess Aarons, a boy growing up in a rural community, and Leslie Burke, the imaginative new girl who becomes his best friend. Together they create Terabithia, a magical kingdom in the woods accessible only by swinging across a creek on a rope. Paterson based the story on a real tragedy: the death of her son's childhood friend, Lisa Hill, who was struck by lightning. The novel won the Newbery Medal in 1978 and has been a staple of elementary school reading lists for nearly 50 years.

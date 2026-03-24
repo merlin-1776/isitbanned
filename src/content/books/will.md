@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Will"
+amazonUrl: "https://www.amazon.com/dp/0375855203/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780375894046"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375894046/k/keyword"
 ---

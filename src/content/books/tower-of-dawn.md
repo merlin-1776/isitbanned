@@ -28,9 +28,11 @@ banLocations:
     district: "Knox County Schools"
     year: 2024
 totalChallenges: 18
-description: "Tower of Dawn follows Chaol Westfall as he journeys to the southern continent seeking healing and an alliance against the dark forces threatening Erilea. It has been challenged for sexual content and violence.'https://www.amazon.com/dp/168119577X/ref=nosim?tag=isitbanned-20"
+description: "Tower of Dawn follows Chaol Westfall as he journeys to the southern continent seeking healing and an alliance against the dark forces threatening Erilea. It has been challenged for sexual content and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9781681195773"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781681195773/k/keyword"
+whyRead: "Maas expands the Throne of Glass world eastward with a story about healing, disability, and second chances. It's the book that proved Chaol deserved his own arc."
+amazonUrl: "https://www.amazon.com/dp/168119922X/ref=nosim?tag=isitbanned-20"
 ---
 
 Tower of Dawn is the sixth book in Sarah J. Maas's Throne of Glass series, but it takes a sharp detour from the main action. Chaol Westfall, the former captain of the guard left paralyzed from the waist down, travels to Antica to seek healing from the Torre Cesme and secure a military alliance. There he meets Yrene Towers, a healer whose backstory connects to earlier events in the series. The novel is slower and more character-driven than its predecessors, focusing on Chaol's physical and emotional recovery, his romance with Yrene, and the political intrigue of the southern continent.

@@ -30,9 +30,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 25
-description: "This One Summer is a graphic novel about Rose and Windy, two girls spending the summer at a lakeside town, navigating their parents' problems and the confusing threshold between childhood and adolescence. It has been challenged for sexual references, drug use, and LGBTQ+ themes.'https://www.amazon.com/dp/159643774X/ref=nosim?tag=isitbanned-20"
+description: "This One Summer is a graphic novel about Rose and Windy, two girls spending the summer at a lakeside town, navigating their parents' problems and the confusing threshold between childhood and adolescence. It has been challenged for sexual references, drug use, and LGBTQ+ themes."
 bookshopUrl: "https://bookshop.org/a/2537/9781596437746"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781596437746/k/keyword"
+whyRead: "Tamaki's Caldecott Honor graphic novel captures the specific melancholy of a family vacation falling apart, seen through a teenager's eyes."
+amazonUrl: "https://www.amazon.com/dp/1554981522/ref=nosim?tag=isitbanned-20"
 ---
 
 Mariko Tamaki and Jillian Tamaki's graphic novel is a Caldecott Honor and Printz Honor book about two girls spending the summer at Awago Beach, where they've vacationed since childhood. Rose is dealing with her parents' crumbling marriage and her mother's depression. Windy is still happily childlike. The gap between them widens as Rose becomes fascinated by the local teenagers and their dramas of sex, pregnancy, and alcohol. The art is gorgeous, rendered in blue-washed ink, and the story captures the specific melancholy of realizing that the safe world of childhood is ending.

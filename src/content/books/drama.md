@@ -30,9 +30,11 @@ banLocations:
     year: 2020
     sourceUrl: "https://adventuresincensorship.com/blog/2020/1/28/drama-in-cheyenne"
 totalChallenges: 46
-description: "Raina Telgemeier's beloved graphic novel about middle school theater, banned from school districts for including LGBTQ+ characters.'https://www.amazon.com/dp/0545326990?tag=isitbanned-20"
+description: "Raina Telgemeier's beloved graphic novel about middle school theater, banned from school districts for including LGBTQ+ characters."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545326995/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545326995"
+whyRead: "Telgemeier's graphic novel about middle school theater kids includes a gay character. It's sweet, relatable, and one of the bestselling graphic novels ever."
+amazonUrl: "https://www.amazon.com/dp/8417108580/ref=nosim?tag=isitbanned-20"
 ---
 
 Raina Telgemeier's 2012 graphic novel follows Callie, a middle schooler who loves theater and throws herself into designing sets for her school's production of Moon Over Mississippi. The story includes two male characters who share a brief kiss. That's it. That's the controversy. For this, Drama has been one of the most challenged books of the past decade, holding the #3 spot on ALA's top 10 list in 2014 and reappearing in 2017 and 2018.

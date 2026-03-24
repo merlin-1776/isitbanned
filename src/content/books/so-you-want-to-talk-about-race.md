@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'So You Want to Talk About Race"
+amazonUrl: "https://www.amazon.com/dp/1541647432/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781580056786"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781580056786/k/keyword"
 ---

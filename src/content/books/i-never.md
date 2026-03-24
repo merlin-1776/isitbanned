@@ -19,4 +19,7 @@ banLocations:
       year: 2022
 totalChallenges: 4
 description: "'I Never"
+amazonUrl: "https://www.amazon.com/dp/1328595870/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781328809896"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781328809896/k/keyword"
 ---

@@ -26,9 +26,11 @@ banLocations:
     district: "Greenville County Schools"
     year: 2024
 totalChallenges: 132
-description: "Water for Elephants is a historical novel set in a Depression-era traveling circus, following veterinary student Jacob Jankowski as he joins the Benzini Brothers Most Spectacular Show on Earth. The story interweaves romance, animal cruelty, and the brutal realities of circus life.'https://www.amazon.com/dp/1565125606/ref=nosim?tag=isitbanned-20"
+description: "Water for Elephants is a historical novel set in a Depression-era traveling circus, following veterinary student Jacob Jankowski as he joins the Benzini Brothers Most Spectacular Show on Earth. The story interweaves romance, animal cruelty, and the brutal realities of circus life."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781565125605/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781565125605"
+whyRead: "Gruen's Depression-era circus novel is a love story wrapped in a thriller. It sold 10 million copies because it's that good."
+amazonUrl: "https://www.amazon.com/dp/1565125606/ref=nosim?tag=isitbanned-20"
 ---
 
 Water for Elephants tells the story of Jacob Jankowski, a Cornell veterinary student who, after a family tragedy, hops a train and lands in the chaotic world of a Depression-era traveling circus. He falls for Marlena, the beautiful equestrian star married to the show's volatile, possibly psychopathic animal trainer August. Gruen's richly researched novel captured readers with its vivid recreation of circus life, its love story, and its unforgettable elephant, Rosie. The book spent over a year on the New York Times bestseller list and was adapted into a 2011 film.

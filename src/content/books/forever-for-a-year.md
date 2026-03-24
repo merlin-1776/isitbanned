@@ -28,9 +28,11 @@ banLocations:
     district: "Union County School District"
     year: 2025
 totalChallenges: 14
-description: "Forever for a Year follows Carolina and Trevor through the highs and lows of their first serious relationship, told in alternating perspectives. It has been challenged for its frank depiction of teenage sexuality and language.'https://www.amazon.com/dp/1627791914/ref=nosim?tag=isitbanned-20"
+description: "Forever for a Year follows Carolina and Trevor through the highs and lows of their first serious relationship, told in alternating perspectives. It has been challenged for its frank depiction of teenage sexuality and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781627791915"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781627791915/k/keyword"
+whyRead: "Atkinson's dual-perspective novel about a military couple navigating deployment and distance is a love story that doesn't pretend war has easy answers."
+amazonUrl: "https://www.amazon.com/dp/1627797130/ref=nosim?tag=isitbanned-20"
 ---
 
 B. T. Gottfred's Forever for a Year alternates between the perspectives of Carolina and Trevor as they navigate their first real relationship. They meet, fall hard, fight, break up, get back together, and eventually have sex, all rendered with the kind of overheated intensity that only first love produces. Gottfred doesn't shy away from the physical side of their relationship, and the alternating perspectives let the reader see how differently two people can experience the same moments. The novel captures the specific emotional weather of being sixteen and in love: everything is enormous, permanent, and world-ending.

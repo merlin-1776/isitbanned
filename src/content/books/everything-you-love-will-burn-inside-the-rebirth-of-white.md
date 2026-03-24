@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Everything You Love Will Burn: Inside the Rebirth of White Nationalism in America"
+amazonUrl: "https://www.amazon.com/dp/1568589948/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781568589947"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781568589947/k/keyword"
 ---

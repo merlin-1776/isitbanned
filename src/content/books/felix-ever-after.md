@@ -19,4 +19,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'Felix Ever After"
+amazonUrl: "https://www.amazon.com/dp/3736316828/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780571368013"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780571368013/k/keyword"
 ---

@@ -28,9 +28,11 @@ banLocations:
     district: "Cumberland County Public Library"
     year: 1996
 totalChallenges: 90
-description: "Daddy's Roommate by Michael Willhoite is a picture book about a boy whose father lives with another man. The 2nd most challenged book of the 1990s, it continues to be banned in Florida and across the country.'https://www.amazon.com/dp/1555831184/ref=nosim?tag=isitbanned-20"
+description: "Daddy's Roommate by Michael Willhoite is a picture book about a boy whose father lives with another man. The 2nd most challenged book of the 1990s, it continues to be banned in Florida and across the country."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781555831189/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781555831189"
+whyRead: "Willhoite wrote one of the first children's books showing a gay family. It's a simple story: a kid loves his dad and his dad's partner."
+amazonUrl: "https://www.amazon.com/dp/1555831184/ref=nosim?tag=isitbanned-20"
 ---
 
 Daddy's Roommate is a picture book about a young boy whose parents have divorced and whose father now lives with another man named Frank. The boy describes everyday activities he does with Daddy and Frank: they eat together, clean the house, shave together in the morning, go to the ball game. His mother explains that Daddy and Frank are gay, and that "being gay is just one more kind of love." Published in 1990 by Alyson Wonderland, it was one of the first children's books to depict a gay parent.

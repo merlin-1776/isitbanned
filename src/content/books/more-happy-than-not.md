@@ -29,9 +29,11 @@ banLocations:
     district: "Lamar Consolidated Independent School District"
     year: 2024
 totalChallenges: 14
-description: "More Happy Than Not follows Aaron Soto, a Bronx teenager who considers a memory-altering procedure to forget his emerging feelings for another boy. It has been challenged for LGBTQ+ themes, sexual content, and depictions of self-harm.'https://www.amazon.com/dp/1616955600/ref=nosim?tag=isitbanned-20"
+description: "More Happy Than Not follows Aaron Soto, a Bronx teenager who considers a memory-altering procedure to forget his emerging feelings for another boy. It has been challenged for LGBTQ+ themes, sexual content, and depictions of self-harm."
 bookshopUrl: "https://bookshop.org/a/2537/9781616955601"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781616955601/k/keyword"
+whyRead: "Silvera's debut about a Bronx teenager who considers erasing his memories of being gay is gutting, original, and one of the most important queer YA novels."
+amazonUrl: "https://www.amazon.com/dp/1616959584/ref=nosim?tag=isitbanned-20"
 ---
 
 Adam Silvera's debut novel is set in the Bronx, where sixteen-year-old Aaron Soto is struggling to be happy after his father's suicide. When he develops feelings for Thomas, a new kid in the neighborhood, Aaron considers Leteo, a controversial procedure that can selectively erase memories. The prospect of deleting his attraction to Thomas, and the pain that comes with it, drives the novel toward a gut-punch ending. Silvera writes about queerness, masculinity, class, and the desire to be someone other than who you are with a specificity that comes from writing what he knows.

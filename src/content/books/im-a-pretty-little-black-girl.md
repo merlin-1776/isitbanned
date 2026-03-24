@@ -10,4 +10,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'I'm a Pretty Little Black Girl!"
+amazonUrl: "https://www.amazon.com/dp/0615785514/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780615785516"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780615785516/k/keyword"
 ---

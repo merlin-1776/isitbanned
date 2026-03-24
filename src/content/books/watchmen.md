@@ -29,9 +29,11 @@ banLocations:
     district: "North East ISD"
     year: 2023
 totalChallenges: 24
-description: "Watchmen by Alan Moore and Dave Gibbons is a groundbreaking graphic novel that deconstructs the superhero genre. Banned and challenged for sexual content, violence, profanity, and political themes.'https://www.amazon.com/dp/1401245250?tag=isitbanned-20"
+description: "Watchmen by Alan Moore and Dave Gibbons is a groundbreaking graphic novel that deconstructs the superhero genre. Banned and challenged for sexual content, violence, profanity, and political themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781401245252/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781401245252"
+whyRead: "Moore and Gibbons deconstructed the superhero genre and created the graphic novel that proved comics could be literature."
+amazonUrl: "https://www.amazon.com/dp/1631400304/ref=nosim?tag=isitbanned-20"
 ---
 
 Set in an alternate 1985 where Nixon is still president and costumed vigilantes have been outlawed, Watchmen opens with the murder of the Comedian, a former government-sanctioned hero. The investigation pulls together a cast of retired and active masks, each broken in distinct ways, and spirals toward a conspiracy that threatens millions. Alan Moore and Dave Gibbons created the first comic to win a Hugo Award and permanently rewired what the medium could do.

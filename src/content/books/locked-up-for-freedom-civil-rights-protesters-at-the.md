@@ -11,4 +11,7 @@ banLocations:
       year: 2021
 totalChallenges: 1
 description: "'Locked Up for Freedom: Civil Rights Protesters at the Leesburg Stockade"
+amazonUrl: "https://www.amazon.com/dp/1512428418/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781512428414"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781512428414/k/keyword"
 ---

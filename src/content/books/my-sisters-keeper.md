@@ -30,9 +30,11 @@ banLocations:
     district: "Central Bucks School District"
     year: 2023
 totalChallenges: 40
-description: "My Sister's Keeper by Jodi Picoult tells the story of a girl conceived to be a donor match for her sister with leukemia. Banned in Florida, Iowa, and other states for sexual content and mature themes.'https://www.amazon.com/dp/0743454537/ref=nosim?tag=isitbanned-20"
+description: "My Sister's Keeper by Jodi Picoult tells the story of a girl conceived to be a donor match for her sister with leukemia. Banned in Florida, Iowa, and other states for sexual content and mature themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743454537/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743454537"
+whyRead: "Picoult asks whether parents can conceive a child to save another child's life. The answer is 400 pages of moral complexity with no easy resolution."
+amazonUrl: "https://www.amazon.com/dp/1982107448/ref=nosim?tag=isitbanned-20"
 ---
 
 My Sister's Keeper tells the story of Anna Fitzgerald, a thirteen-year-old who was genetically engineered to be a bone marrow match for her older sister Kate, who has leukemia. After years of surgeries and transfusions, Anna hires a lawyer to sue her parents for medical emancipation, the right to make her own decisions about her body. Published by Atria Books in 2004, the novel sold millions of copies and was adapted into a 2009 film. It tackles medical ethics, family loyalty, and the question of who owns a child's body.

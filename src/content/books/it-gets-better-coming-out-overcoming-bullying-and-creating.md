@@ -14,4 +14,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'It Gets Better: Coming Out, Overcoming Bullying, and Creating a Life Worth Living"
+amazonUrl: "https://www.amazon.com/dp/1455113387/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781455113385"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781455113385/k/keyword"
 ---

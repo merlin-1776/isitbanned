@@ -16,4 +16,7 @@ banLocations:
       year: 2021
 totalChallenges: 3
 description: "'The Past and Other Things That Should Stay Buried"
+amazonUrl: "https://www.amazon.com/dp/1481498576/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781481498586"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481498586/k/keyword"
 ---

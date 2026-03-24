@@ -30,9 +30,11 @@ banLocations:
     year: 2020
     sourceUrl: "https://pub.njleg.gov/bills/2018/ACR/225_I1.HTM"
 totalChallenges: 65
-description: "Mark Twain's 1884 novel about a boy and an escaped slave on the Mississippi River, one of the most banned books in American history for its use of racial slurs.'https://www.amazon.com/dp/0486280616?tag=isitbanned-20"
+description: "Mark Twain's 1884 novel about a boy and an escaped slave on the Mississippi River, one of the most banned books in American history for its use of racial slurs."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780486280615/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780486280615"
+whyRead: "Twain wrote the great American novel about race, freedom, and moral courage. The discomfort it causes is the point."
+amazonUrl: "https://www.amazon.com/dp/0486280616/ref=nosim?tag=isitbanned-20"
 ---
 
 Mark Twain published Adventures of Huckleberry Finn in 1884, and people started banning it almost immediately. The Concord, Massachusetts public library called it "trash and suitable only for the slums" within a month of its release. Twain was delighted, noting that the controversy would sell another 25,000 copies. The novel follows Huck Finn and Jim, an escaped slave, as they raft down the Mississippi River, and it uses the n-word over 200 times, reflecting the actual language of the antebellum South.

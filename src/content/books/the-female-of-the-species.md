@@ -29,9 +29,11 @@ banLocations:
     district: "Wilson County Schools"
     year: 2024
 totalChallenges: 16
-description: "The Female of the Species follows Alex Craft, a girl who killed the man who raped and murdered her sister, and the two classmates drawn into her orbit during senior year. It has been challenged for violence, sexual content, and language.'https://www.amazon.com/dp/0062320890/ref=nosim?tag=isitbanned-20"
+description: "The Female of the Species follows Alex Craft, a girl who killed the man who raped and murdered her sister, and the two classmates drawn into her orbit during senior year. It has been challenged for violence, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780062320896"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062320896/k/keyword"
+whyRead: "McGinnis wrote a thriller about a girl whose sister's murderer walked free. It's a furious novel about violence against women and the systems that enable it."
+amazonUrl: "https://www.amazon.com/dp/0062320904/ref=nosim?tag=isitbanned-20"
 ---
 
 Mindy McGinnis's The Female of the Species opens with a fact: Alex Craft killed the man who raped and murdered her older sister, and she got away with it. The novel follows Alex through her senior year as she forms unexpected connections with Peekay, a preacher's kid, and Jack, a popular jock. All three narrate, and their perspectives on violence, justice, and gender converge as the story builds toward a devastating climax. McGinnis doesn't romanticize Alex's violence or condemn it; instead, she examines the rage that produces it, a rage born from watching her sister's killer go free.

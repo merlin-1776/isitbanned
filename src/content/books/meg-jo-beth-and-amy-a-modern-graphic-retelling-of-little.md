@@ -10,4 +10,7 @@ banLocations:
       year: 2022
 totalChallenges: 1
 description: "'Meg, Jo, Beth, and Amy: A Modern Graphic Retelling of Little Women"
+amazonUrl: "https://www.amazon.com/dp/0316523593/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780316523592"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316523592/k/keyword"
 ---

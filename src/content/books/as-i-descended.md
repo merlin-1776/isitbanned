@@ -19,4 +19,7 @@ banLocations:
       year: 2021
 totalChallenges: 4
 description: "'As I Descended"
+amazonUrl: "https://www.amazon.com/dp/000821011X/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781441708960"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781441708960/k/keyword"
 ---

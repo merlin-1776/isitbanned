@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'The Underground Girls of Kabul: in Search of a Hidden Resistance in Afghanistan"
+amazonUrl: "https://www.amazon.com/dp/1844087751/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781844087754"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781844087754/k/keyword"
 ---

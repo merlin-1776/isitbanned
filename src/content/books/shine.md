@@ -30,9 +30,11 @@ banLocations:
     district: "Clay County School District"
     year: 2023
 totalChallenges: 32
-description: "Shine by Lauren Myracle follows a teen girl investigating a hate crime against her gay best friend in a small Southern town. Banned for LGBTQ+ themes, violence, and drug references.'https://www.amazon.com/dp/0810984172?tag=isitbanned-20"
+description: "Shine by Lauren Myracle follows a teen girl investigating a hate crime against her gay best friend in a small Southern town. Banned for LGBTQ+ themes, violence, and drug references."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780810984172/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780810984172"
+whyRead: "Myracle's novel about a hate crime against a gay teenager in a small Southern town is tough, necessary, and based on a real incident."
+amazonUrl: "https://www.amazon.com/dp/1419701843/ref=nosim?tag=isitbanned-20"
 ---
 
 Cat's former best friend Patrick is brutally beaten and left for dead outside a gas station in their small North Carolina town. The police barely investigate. So Cat starts asking questions herself, pulling apart the town's meth problem, its buried prejudices, and the tangle of relationships she'd spent years avoiding. Lauren Myracle wrote Shine as a mystery, but it's really about what happens when a community decides some people matter less than others.

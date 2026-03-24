@@ -29,9 +29,11 @@ banLocations:
     district: "Lubbock ISD"
     year: 2023
 totalChallenges: 19
-description: "Flowers for Algernon by Daniel Keyes tells the story of Charlie Gordon, a man with an intellectual disability who undergoes experimental surgery to increase his intelligence. Banned for sexual content, profanity, and religious objections.'https://www.amazon.com/dp/0156030306?tag=isitbanned-20"
+description: "Flowers for Algernon by Daniel Keyes tells the story of Charlie Gordon, a man with an intellectual disability who undergoes experimental surgery to increase his intelligence. Banned for sexual content, profanity, and religious objections."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780156030304/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780156030304"
+whyRead: "Keyes' novel about a man whose intelligence is artificially raised, then lost, is one of the most emotionally devastating science fiction stories ever told."
+amazonUrl: "https://www.amazon.com/dp/0553274503/ref=nosim?tag=isitbanned-20"
 ---
 
 Charlie Gordon is a 32-year-old man with an IQ of 68 who works as a janitor and attends night classes to learn to read and write. Scientists select him for an experimental surgery that has tripled the intelligence of a lab mouse named Algernon. The procedure works. Charlie's intelligence soars, he reads voraciously, falls in love, and begins to understand how people treated him before. Then Algernon starts to decline. The novel is told entirely through Charlie's progress reports, and watching his prose evolve and then deteriorate is one of the most devastating structural choices in American fiction.

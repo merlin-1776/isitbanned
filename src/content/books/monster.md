@@ -29,9 +29,11 @@ banLocations:
     district: "Wake County Public Schools"
     year: 2013
 totalChallenges: 25
-description: "Monster by Walter Dean Myers follows a 16-year-old Black teenager on trial for felony murder, told through his screenplay. Banned for violence, profanity, and mature themes in multiple states.'https://www.amazon.com/dp/0064407314/ref=nosim?tag=isitbanned-20"
+description: "Monster by Walter Dean Myers follows a 16-year-old Black teenager on trial for felony murder, told through his screenplay. Banned for violence, profanity, and mature themes in multiple states."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064407311/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064407311"
+whyRead: "Myers told the story of a Black teenager's murder trial in screenplay format, forcing readers to confront who gets presumed innocent in America."
+amazonUrl: "https://www.amazon.com/dp/0439202175/ref=nosim?tag=isitbanned-20"
 ---
 
 Monster is the story of Steve Harmon, a sixteen-year-old from Harlem who is on trial for felony murder after a drugstore robbery goes wrong. Steve, a film student, processes his experience by writing it as a screenplay, complete with stage directions and camera angles. The format shifts between his script and his journal entries from jail. Published in 1999 by HarperCollins and illustrated with photographs by Christopher Myers, it won the first Michael L. Printz Award and was a Coretta Scott King Honor Book.

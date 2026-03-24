@@ -25,9 +25,11 @@ banLocations:
     district: "Duval County Public Schools"
     year: 2006
 totalChallenges: 40
-description: "A Wrinkle in Time by Madeleine L'Engle is a beloved science fantasy novel challenged for decades by both religious conservatives (who call it witchcraft) and secularists (who object to its Christian themes).'https://www.amazon.com/dp/0374386137/ref=nosim?tag=isitbanned-20"
+description: "A Wrinkle in Time by Madeleine L'Engle is a beloved science fantasy novel challenged for decades by both religious conservatives (who call it witchcraft) and secularists (who object to its Christian themes)."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374386139/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780374386139"
+whyRead: "L'Engle's Newbery-winning novel combines quantum physics, theology, and a girl's desperate search for her father. It's been baffling and inspiring kids since 1962."
+amazonUrl: "https://www.amazon.com/dp/0241331161/ref=nosim?tag=isitbanned-20"
 ---
 
 A Wrinkle in Time follows Meg Murry, her brother Charles Wallace, and their friend Calvin as they travel through space and time to rescue Meg's father, a physicist who disappeared while working on a mysterious project. Guided by three supernatural beings, Mrs Whatsit, Mrs Who, and Mrs Which, they confront a great cosmic evil called the Black Thing. Published in 1962 by Farrar, Straus and Giroux after being rejected by 26 publishers, it won the Newbery Medal and has sold over 14 million copies.

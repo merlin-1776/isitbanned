@@ -28,9 +28,11 @@ banLocations:
     year: 2020
     sourceUrl: "https://www.nbcnews.com/news/us-news/alaska-school-board-deems-great-gatsby-other-famous-books-controversial-n1194436"
 totalChallenges: 26
-description: "Catch-22 by Joseph Heller is a satirical war novel about the absurdity of military bureaucracy. Banned for sexual content, profanity, women's portrayal, and anti-war themes.'https://www.amazon.com/dp/1451626657?tag=isitbanned-20"
+description: "Catch-22 by Joseph Heller is a satirical war novel about the absurdity of military bureaucracy. Banned for sexual content, profanity, women's portrayal, and anti-war themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451626650/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451626650"
+whyRead: "Heller's absurdist World War II novel invented its own adjective. 'Catch-22' is now shorthand for every impossible bureaucratic trap."
+amazonUrl: "https://www.amazon.com/dp/3596125723/ref=nosim?tag=isitbanned-20"
 ---
 
 Captain John Yossarian is a World War II bombardier who's figured out something important: people are trying to kill him. He wants to be grounded from combat missions, but there's a catch. If you're crazy, you can be grounded, but asking to be grounded proves you're sane, which means you have to keep flying. Joseph Heller published the novel in 1961 and gave the English language a phrase for any no-win bureaucratic trap.

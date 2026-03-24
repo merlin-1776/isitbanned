@@ -1,0 +1,19 @@
+---
+title: "The Lucky One"
+slug: "the-lucky-one"
+author: "Nicholas Sparks"
+isbn13: "9780446618328"
+publisher: "Grand Central Publishing"
+datePublished: "2008-09-30"
+banReasons:
+  - "Sexual Content"
+banLocations:
+    - state: "Florida"
+      district: "Escambia County School District"
+      year: 2024
+totalChallenges: 2
+description: "The Lucky One"
+amazonUrl: "https://www.amazon.com/dp/0446618322/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780446618328"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780446618328/k/keyword"
+---

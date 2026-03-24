@@ -4,3 +4,28 @@
 - **Hosting:** Cloudflare Pages (project: isitbanned)
 - **Domain:** isitbanned.com
 - **Deploy:** npx astro build && npx wrangler pages deploy dist --project-name=isitbanned
+
+## Buy Links & Fulfillment
+- **Capital Books links:** point to store.capitalbooksonk.com/browse/filter/t/ISBN13/k/keyword
+- **Bookshop.org:** affiliate ID 2537
+- **Amazon:** affiliate tag sfbrweb-20
+
+### Ingram Direct-to-Home Fulfillment (IN PROGRESS)
+- **Goal:** Replace Capital Books webstore links with a checkout flow we control
+- **Flow:** Customer buys → check Ingram stock → DTH order (ships to customer) → Capital Books keeps wholesale margin
+- **Fallback:** If Ingram out of stock → route to Capital Books in-store inventory
+- **Ingram account:** THERE & BACK AGAIN (#20AA780) — DTH enabled
+- **Status:** Account on hold, Ross fixing. Once cleared:
+  1. Test a DTH order manually via ipage browser
+  2. Document shipping costs and pack slip branding
+  3. Build automation (browser or API) to place orders
+  4. Create checkout page (WooCommerce on capitalbooksonk.com or Stripe on isitbanned.com)
+  5. Update all "Buy from Capital Books" links across 3,000+ book pages
+
+## Roadmap
+- [ ] **Phase 1:** Reach 3,000+ books in database (ongoing, PEN America data)
+- [ ] **Phase 2:** Top 200 titles get "whyRead" editorial sections
+- [ ] **Phase 3:** Ingram DTH fulfillment — turn buy links into real orders
+- [ ] **Phase 4:** Expand DTH to all CBR sites (8 city book review sites)
+- [ ] **Phase 5:** Expand DTH to Capital Books webstore (store.capitalbooksonk.com)
+- [ ] **Phase 6:** Expand DTH to indie blog network (16 blogs)

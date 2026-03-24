@@ -23,4 +23,7 @@ banLocations:
 totalChallenges: 5
 description: "A picture book about Aidan, a transgender boy, who helps his parents prepare for a new baby sibling, making sure they get things right this time."
 whyRead: "Lukoff wrote the picture book he needed as a trans kid. It's gentle, affirming, and focused on family love."
+amazonUrl: "https://www.amazon.com/dp/1620148374/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9781620148372"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781620148372/k/keyword"
 ---

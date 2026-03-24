@@ -27,9 +27,11 @@ banLocations:
     district: "Multnomah County Library"
     year: 1994
 totalChallenges: 50
-description: "Annie on My Mind by Nancy Garden is a groundbreaking YA novel about two teenage girls who fall in love. Burned in front of the Kansas City School Board in 1993, it was restored only after an ACLU lawsuit.'https://www.amazon.com/dp/0374400113/ref=nosim?tag=isitbanned-20"
+description: "Annie on My Mind by Nancy Garden is a groundbreaking YA novel about two teenage girls who fall in love. Burned in front of the Kansas City School Board in 1993, it was restored only after an ACLU lawsuit."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374400118/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780374400118"
+whyRead: "Garden's 1982 novel was one of the first YA books with a happy ending for a lesbian couple. That happy ending is still radical."
+amazonUrl: "https://www.amazon.com/dp/0374400113/ref=nosim?tag=isitbanned-20"
 ---
 
 Annie on My Mind tells the story of Liza and Annie, two high school girls in New York City who fall in love. Published in 1982 by Farrar, Straus and Giroux, it was one of the first YA novels to portray a lesbian relationship with a happy ending. The girls meet at the Metropolitan Museum of Art, and their relationship unfolds against the pressure of school, family, and a society that doesn't accept them. Nancy Garden wrote it because she'd never seen a book like it when she was young, and she wanted gay teenagers to know they could have love stories too.

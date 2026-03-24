@@ -13,4 +13,7 @@ banLocations:
       year: 2021
 totalChallenges: 2
 description: "'Sing a Song: How 'Lift Every Voice and Sing' Inspired Generations"
+amazonUrl: "https://www.amazon.com/dp/0593530586/ref=nosim?tag=isitbanned-20"
+bookshopUrl: "https://bookshop.org/a/2537/9780593530580"
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593530580/k/keyword"
 ---
