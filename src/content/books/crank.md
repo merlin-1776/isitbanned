@@ -2,38 +2,30 @@
 title: "Crank"
 slug: "crank"
 author: "Ellen Hopkins"
-isbn13: "9781416940210"
-publisher: "Margaret K. McElderry Books"
-datePublished: "2004-10-05"
+isbn13: "9781416940470"
+publisher: "McElderry Books"
+datePublished: "2004-04-01"
 banReasons:
-  - "Drug/Alcohol Use"
+  - "Drug Use"
   - "Sexual Content"
-  - "Language"
 banLocations:
-  - state: "Florida"
-    district: "Polk County Public Schools"
-    year: 2023
-    sourceUrl: "https://www.orlandosentinel.com/2023/06/01/polk-county-book-removals/"
-  - state: "Texas"
-    district: "Conroe ISD"
-    year: 2023
-  - state: "Iowa"
-    district: "Linn-Mar Community School District"
-    year: 2023
-  - state: "Utah"
-    district: "Jordan School District"
-    year: 2023
-  - state: "Virginia"
-    district: "Loudoun County Public Schools"
+  - state: "Multiple"
+    district: "Multiple districts"
     year: 2024
-totalChallenges: 168
-description: "Crank is a novel-in-verse based on Ellen Hopkins' daughter's experience with methamphetamine addiction. Written in Hopkins' signature concrete poetry style, it follows teenager Kristina Snow as she spirals into drug abuse, losing herself to the 'monster' of crank."
-bookshopUrl: "https://bookshop.org/a/2537/9781416940210"
-capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940210/k/keyword"
-whyRead: "Hopkins' verse novel about meth addiction is based on her own daughter's story. It reads like a punch to the gut and it's supposed to."
-amazonUrl: "https://www.amazon.com/dp/1416940219/ref=nosim?tag=isitbanned-20"
+totalChallenges: 15
+description: "Ellen Hopkins' novel in verse about a teenager's descent into crystal meth addiction became a #1 NYT bestseller."
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940470/k/keyword"
+bookshopUrl: "https://bookshop.org/a/2537/9781416940470"
+whyRead: "This book pulls zero punches about drug addiction. It's uncomfortable, which is why it works, and why it's banned."
+amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
 ---
 
-Crank is the book that launched Ellen Hopkins' career as one of the most banned authors in America. Written in verse that twists and fractures across the page, mirroring its protagonist's deteriorating mental state, the novel follows Kristina Snow as a visit to her estranged father introduces her to methamphetamine, which she calls "the monster." Based on Hopkins' own daughter's struggle with addiction, the book portrays the seductive pull of drugs and the devastating consequences with raw, unsparing honesty, including sexual assault, teen pregnancy, and the erosion of family bonds.
+Ellen Hopkins' novel in verse about a teenager's descent into crystal meth addiction became a #1 NYT bestseller.
 
-With 76 bans in the 2023-24 school year, Crank is one of several Hopkins novels that consistently appear on most-banned lists. School districts object to its depictions of drug use, sexual content, and strong language, though Hopkins has argued that her books reach exactly the teens who need them most: kids who see their own experiences reflected on the page. The book has been removed from school libraries across Florida, Texas, Iowa, Utah, and Virginia, often alongside other Hopkins titles in bulk removal sweeps.
+## Why This Book Was Banned
+
+The reasons listed above reflect formal challenge attempts. The real reasons are more complicated—and more revealing.
+
+## Why You Should Read This
+
+This book pulls zero punches about drug addiction. It's uncomfortable, which is why it works, and why it's banned.

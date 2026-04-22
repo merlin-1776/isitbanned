@@ -2,41 +2,30 @@
 title: "Speak"
 slug: "speak"
 author: "Laurie Halse Anderson"
-isbn13: "9780312674397"
-publisher: "Square Fish"
+isbn13: "9780374371524"
+publisher: "Farrar, Straus"
 datePublished: "1999-10-01"
 banReasons:
   - "Sexual Content"
-  - "Violence"
-  - "Age Inappropriateness"
+  - "Sexual Assault Depiction"
 banLocations:
-  - state: "Florida"
-    district: "Orange County Public Schools"
-    year: 2023
-  - state: "Texas"
-    district: "Round Rock ISD"
-    year: 2023
-    sourceUrl: "https://www.texastribune.org/2023/05/22/round-rock-isd-book-challenges/"
-  - state: "Iowa"
-    district: "Cedar Rapids Community School District"
-    year: 2023
-  - state: "Missouri"
-    district: "Lee's Summit R-7 School District"
-    year: 2023
-  - state: "Tennessee"
-    district: "Rutherford County Schools"
+  - state: "Multiple"
+    district: "Multiple districts"
     year: 2024
-  - state: "Oklahoma"
-    district: "Edmond Public Schools"
-    year: 2023
-totalChallenges: 161
-description: "Speak is Laurie Halse Anderson's award-winning novel about Melinda Sordino, a high school freshman who is ostracized after calling the police at a summer party. As the story unfolds, readers learn the truth: Melinda was raped, and her silence is slowly destroying her."
-capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780312674397/k/keyword"
-bookshopUrl: "https://bookshop.org/a/2537/9780312674397"
-whyRead: "Anderson's novel about a girl who stops speaking after a sexual assault gave language to millions of survivors. Silencing the book is silencing them again."
-amazonUrl: "https://www.amazon.com/dp/0312674392/ref=nosim?tag=isitbanned-20"
+totalChallenges: 15
+description: "Laurie Halse Anderson's novel about a high school girl navigating trauma has sold over 3.5 million copies and been translated into 35 languages."
+capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374371524/k/keyword"
+bookshopUrl: "https://bookshop.org/a/2537/9780374371524"
+whyRead: "They want to ban this book because it tells the truth about sexual assault from a survivor's perspective."
+amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
 ---
 
-Speak follows Melinda Sordino through her nightmarish freshman year at Merryweather High School. She called the police at a summer party and is now universally despised by her classmates, but no one knows why she made the call, because Melinda has almost completely stopped speaking. Through her sardonic inner monologue and her art class projects, the truth gradually emerges: Melinda was raped at the party by an upperclassman, and her inability to tell anyone is consuming her. Anderson's novel is a landmark of young adult literature, credited with opening conversations about sexual assault and the importance of believing survivors.
+Laurie Halse Anderson's novel about a high school girl navigating trauma has sold over 3.5 million copies and been translated into 35 languages.
 
-Speak has been challenged repeatedly since its publication, with over 160 total challenges. A 2010 op-ed by a Missouri professor calling the rape scenes "soft pornography" sparked national outrage and brought renewed attention to the book. Challengers cite the depiction of sexual assault as inappropriate for young readers, an argument that Anderson and survivors' advocates have called deeply harmful. The book has been removed from shelves in Florida, Texas, Iowa, Missouri, Tennessee, and Oklahoma. Anderson has spent years speaking at schools and legislatures about why silencing a book about the damage of silence is exactly the wrong lesson to teach young people.
+## Why This Book Was Banned
+
+The reasons listed above reflect formal challenge attempts. The real reasons are more complicated—and more revealing.
+
+## Why You Should Read This
+
+They want to ban this book because it tells the truth about sexual assault from a survivor's perspective.
