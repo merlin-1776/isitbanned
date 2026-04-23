@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import BanReasonBadge from '../../components/BanReasonBadge.astro';
 import BookSchema from '../../components/BookSchema.astro';
 import Sidebar from '../../components/Sidebar.astro';
+import AdPlugg from '../../components/AdPlugg.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection, render } from 'astro:content';
 
@@ -224,6 +225,10 @@ const seriesBooks = series
 				)}
 			</section>
 
+			<section class="bottom-ad-section">
+				<AdPlugg zone="book_review_horizontal_page_ad" minHeight="120px" />
+			</section>
+
 			<section class="faq">
 				<h2>Frequently Asked Questions</h2>
 
@@ -243,7 +248,10 @@ const seriesBooks = series
 				</div>
 			</section>
 		</main>
-		<Sidebar />
+		<aside class="test-sidebar-ad">
+			<h3>Sponsored</h3>
+			<AdPlugg zone="book_review_sidebar" minHeight="250px" />
+		</aside>
 		</div>
 		<Footer />
 
@@ -459,6 +467,16 @@ const seriesBooks = series
 				line-height: 1.5;
 				font-style: italic;
 			}
+			.test-sidebar-ad {
+				width: 300px;
+				flex: 0 0 300px;
+				margin-top: 0;
+			}
+			.test-sidebar-ad h3 {
+				font-size: 1rem;
+				margin: 0 0 1rem;
+				color: #1f2937;
+			}
 			.buy-btn {
 				display: inline-block;
 				padding: 0.75em 2em;
@@ -590,6 +608,9 @@ const seriesBooks = series
 			.faq h2 {
 				font-size: 1.8em;
 				margin-bottom: 1em;
+			}
+			.bottom-ad-section {
+				margin: 2rem 0;
 			}
 			.faq-item {
 				background: #fff;

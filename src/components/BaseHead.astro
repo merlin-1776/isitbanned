@@ -55,3 +55,14 @@ const ogImage = image ? (image.startsWith('http') ? image : `${siteUrl}${image}`
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={ogImage} />
+
+<script is:inline>
+(function(ac) {
+	var d = document, s = 'script', id = 'adplugg-adjs';
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id; js.async = 1;
+	js.src = '//www.adplugg.com/serve/' + ac + '/js/1.1/ad.js';
+	fjs.parentNode.insertBefore(js, fjs);
+}('A48213907'));
+</script>

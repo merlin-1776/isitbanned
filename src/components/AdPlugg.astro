@@ -1,0 +1,22 @@
+---
+interface Props {
+  zone: string;
+  minHeight?: string;
+}
+
+const { zone, minHeight = '90px' } = Astro.props;
+---
+
+<div class="adplugg-slot" aria-label="Advertisement" style={`--ad-min-height: ${minHeight};`}>
+  <div class="adplugg-tag" data-adplugg-zone={zone}></div>
+</div>
+
+<style>
+  .adplugg-slot {
+    margin: 1rem 0;
+    min-height: var(--ad-min-height);
+  }
+  .adplugg-tag {
+    min-height: var(--ad-min-height);
+  }
+</style>
