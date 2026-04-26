@@ -14,11 +14,11 @@ banLocations:
     district: "Multiple districts"
     year: 2024
 totalChallenges: 15
-description: "Stephen Chbosky's novel about a high school freshman became a cult classic, film, and #4 PEN banned book."
+description: "Stephen Chbosky's coming-of-age novel placed #2 on ALA's 2025 most-challenged books list and remains a frequent censorship target."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780671027346/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780671027346"
 whyRead: "This book gave voice to millions of lonely teenagers. It's banned for treating them like humans."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0671027344/ref=nosim?tag=isitbanned-20"
 ---
 
 Stephen Chbosky's novel about a high school freshman became a cult classic, film, and #4 PEN banned book.

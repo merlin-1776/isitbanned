@@ -17,7 +17,7 @@ description: "Toni Morrison's Pulitzer Prize-winning novel about an enslaved wom
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781400033416/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781400033416"
 whyRead: "A Nobel Prize winner. A Pulitzer winner. Still banned in American schools."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1400033411/ref=nosim?tag=isitbanned-20"
 ---
 
 Toni Morrison's Pulitzer Prize-winning novel about an enslaved woman became a cornerstone of American literature.

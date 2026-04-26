@@ -17,7 +17,7 @@ description: "Harriet Jacobs' 1861 memoir of slavery and resistance remains powe
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780143039990/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780143039990"
 whyRead: "One of the most important slave narratives ever written. The fact it's still challenged is a scandal."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0143039996/ref=nosim?tag=isitbanned-20"
 ---
 
 Harriet Jacobs' 1861 memoir of slavery and resistance remains powerful and remains challenged.

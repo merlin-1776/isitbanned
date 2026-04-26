@@ -17,7 +17,7 @@ description: "Cory Silverberg's ALA top 100 2010-2019 book has ~10 bans for sex 
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781609806064/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781609806064"
 whyRead: "Kids need honest information. That's why someone's trying to hide this book."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1609806064/ref=nosim?tag=isitbanned-20"
 ---
 
 Cory Silverberg's ALA top 100 2010-2019 book has ~10 bans for sex education content.

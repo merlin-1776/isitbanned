@@ -17,7 +17,7 @@ description: "Judy Blume's 1975 YA novel about teenage sexuality has been challe
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481414432/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481414432"
 whyRead: "The OG teen sexuality book. 50 years of bans proves it matters."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1481414430/ref=nosim?tag=isitbanned-20"
 ---
 
 Judy Blume's 1975 YA novel about teenage sexuality has been challenged for 50 years.

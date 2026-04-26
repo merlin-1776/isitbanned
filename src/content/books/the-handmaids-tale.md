@@ -18,7 +18,7 @@ description: "Margaret Atwood's dystopian novel about a theocratic regime that s
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385490818/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385490818"
 whyRead: "This book is banned more now than ever because it's become a mirror people recognize."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/038549081X/ref=nosim?tag=isitbanned-20"
 ---
 
 Margaret Atwood's dystopian novel about a theocratic regime that subjugates women has become a cultural touchstone. Now a critically acclaimed Hulu series.

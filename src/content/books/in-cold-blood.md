@@ -17,7 +17,7 @@ description: "Truman Capote's literary true-crime classic about a quadruple murd
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780679745587/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780679745587"
 whyRead: "A groundbreaking work of literary journalism that changed how we tell true stories."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0679745580/ref=nosim?tag=isitbanned-20"
 ---
 
 Truman Capote's literary true-crime classic about a quadruple murder became the template for modern true crime.

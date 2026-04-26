@@ -18,7 +18,7 @@ description: "Angie Thomas' YA novel about witnessing police brutality became a 
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062498540/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062498540"
 whyRead: "This book mattered enough to ban. That alone tells you why it's worth reading."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0062498541/ref=nosim?tag=isitbanned-20"
 ---
 
 Angie Thomas' YA novel about witnessing police brutality became a major film and cultural touchstone.

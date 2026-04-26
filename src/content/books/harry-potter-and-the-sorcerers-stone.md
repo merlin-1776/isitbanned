@@ -17,7 +17,7 @@ description: "The first book in the seven-book Harry Potter series follows young
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780590353427/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780590353427"
 whyRead: "The Harry Potter series taught millions of children the joy of reading. The witchcraft controversy reveals how fear-based censorship works."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/059035342X/ref=nosim?tag=isitbanned-20"
 ---
 
 The first book in the seven-book Harry Potter series follows young wizard Harry Potter as he discovers his magical heritage. Became a cultural phenomenon and the best-selling children's series of all time.

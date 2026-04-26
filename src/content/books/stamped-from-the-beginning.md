@@ -17,7 +17,7 @@ description: "The expanded Stamped project."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781492635116/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781492635116"
 whyRead: "More content some people want removed."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1492635111/ref=nosim?tag=isitbanned-20"
 ---
 
 The expanded Stamped project.

@@ -17,7 +17,7 @@ description: "Gregory Maguire's companion to Wicked explores the world of Oz mor
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780380974122/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780380974122"
 whyRead: "An expansion of an already controversial work. Censors aren't satisfied with one ban."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0380974126/ref=nosim?tag=isitbanned-20"
 ---
 
 Gregory Maguire's companion to Wicked explores the world of Oz more deeply.

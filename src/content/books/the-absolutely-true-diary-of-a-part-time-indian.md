@@ -18,7 +18,7 @@ description: "Sherman Alexie's National Book Award winner was #1 ALA 2010-2019 c
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316013697/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316013697"
 whyRead: "One of the few YA books centering Native American voices. The fact it's aggressively banned tells you something."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0316013692/ref=nosim?tag=isitbanned-20"
 ---
 
 Sherman Alexie's National Book Award winner was #1 ALA 2010-2019 challenge target.

@@ -17,7 +17,7 @@ description: "Toni Morrison's debut novel about a young Black girl in 1940s Ohio
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780307278449/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780307278449"
 whyRead: "A Nobel Prize winner being aggressively banned tells you everything about whose voices the censors fear."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0307278441/ref=nosim?tag=isitbanned-20"
 ---
 
 Toni Morrison's debut novel about a young Black girl in 1940s Ohio became one of the most-banned books in America despite Morrison's Nobel Prize.

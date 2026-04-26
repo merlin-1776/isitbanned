@@ -18,7 +18,7 @@ description: "Laurie Halse Anderson's memoir in verse about surviving sexual ass
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780670012107/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780670012107"
 whyRead: "From the author of Speak. If speaking once wasn't enough, she's shouting. That courage is what gets banned."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0670012106/ref=nosim?tag=isitbanned-20"
 ---
 
 Laurie Halse Anderson's memoir in verse about surviving sexual assault became another of her books targeted by censors, following the success of Speak.

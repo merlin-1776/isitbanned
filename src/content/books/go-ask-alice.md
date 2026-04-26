@@ -18,7 +18,7 @@ description: "A controversial diary-format novel about a girl's descent into dru
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781442468078/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781442468078"
 whyRead: "Whether real or fictional, this book speaks truth about teen drug use. That's why it's been banned for 50+ years."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1442468075/ref=nosim?tag=isitbanned-20"
 ---
 
 A controversial diary-format novel about a girl's descent into drug abuse, reportedly based on a real diary.

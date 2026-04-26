@@ -17,7 +17,7 @@ description: "Jay Asher's novel about a student who leaves behind tapes about he
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781595141712/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781595141712"
 whyRead: "We'd rather censor conversations about suicide than listen to young people struggling."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1595141715/ref=nosim?tag=isitbanned-20"
 ---
 
 Jay Asher's novel about a student who leaves behind tapes about her suicide became a controversial Netflix series.

@@ -26,7 +26,7 @@ banLocations:
     district: "Francis Howell School District"
     year: 2023
 totalChallenges: 96
-description: "Empire of Storms is the fifth book in Sarah J. Maas's Throne of Glass fantasy series, following assassin-queen Aelin Galathynius as she gathers allies for a war against a dark king. The book contains explicit sexual content and graphic battle sequences."
+description: "The fifth Throne of Glass novel placed #4 on ALA's 2025 most-challenged books list as Sarah J. Maas remained a major censorship target."
 bookshopUrl: "https://bookshop.org/a/2537/9781619636071"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781619636071/k/keyword"
 whyRead: "Maas's Throne of Glass series grows up with its readers. Empire of Storms is where the stakes and the romance both escalate dramatically."

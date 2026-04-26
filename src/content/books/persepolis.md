@@ -17,7 +17,7 @@ description: "Marjane Satrapi's graphic memoir about living under the Iranian Re
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780375714573/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780375714573"
 whyRead: "A firsthand account of political oppression in Iran. That makes it dangerous to some people."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/037571457X/ref=nosim?tag=isitbanned-20"
 ---
 
 Marjane Satrapi's graphic memoir about living under the Iranian Revolution became an acclaimed film.

@@ -14,11 +14,11 @@ banLocations:
     district: "Multiple districts"
     year: 2024
 totalChallenges: 15
-description: "Anthony Burgess' dystopian novel became Stanley Kubrick's controversial film and one of the most-banned books of 2024-25."
+description: "Anthony Burgess' dystopian novel tied for #8 on ALA's 2025 most-challenged books list, decades after its first censorship fights."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780393341768/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780393341768"
 whyRead: "Read it to understand what dangerous literature actually looks like, and why that danger is exactly the point."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0393341763/ref=nosim?tag=isitbanned-20"
 ---
 
 Anthony Burgess' dystopian novel became Stanley Kubrick's controversial film and one of the most-banned books of 2024-25.

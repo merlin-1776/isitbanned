@@ -17,7 +17,7 @@ description: "Robert Kirkman's TV franchise graphic novel has ~5 bans for violen
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781582406725/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781582406725"
 whyRead: "A groundbreaking series in a new medium. The bans reveal how censors fear new forms of storytelling."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1582406723/ref=nosim?tag=isitbanned-20"
 ---
 
 Robert Kirkman's TV franchise graphic novel has ~5 bans for violence.

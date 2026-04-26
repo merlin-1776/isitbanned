@@ -18,7 +18,7 @@ description: "Alan Moore and Dave Gibbons' Eisner Award-winning graphic novel is
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781401245252/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781401245252"
 whyRead: "A work of art that changed an entire medium. The bans reveal anxiety about comics."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1401245250/ref=nosim?tag=isitbanned-20"
 ---
 
 Alan Moore and Dave Gibbons' Eisner Award-winning graphic novel is considered a masterpiece.

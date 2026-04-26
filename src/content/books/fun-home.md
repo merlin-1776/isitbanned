@@ -17,7 +17,7 @@ description: "Alison Bechdel's award-winning graphic memoir became a Tony Award-
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780618871711/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780618871711"
 whyRead: "A landmark LGBTQ+ work that changed comics and theater. Censors want to stop that."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0618871713/ref=nosim?tag=isitbanned-20"
 ---
 
 Alison Bechdel's award-winning graphic memoir became a Tony Award-winning musical.

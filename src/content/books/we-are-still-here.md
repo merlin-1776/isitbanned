@@ -16,7 +16,7 @@ description: "Traci Sorell's Native American history book for children."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781492680369/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781492680369"
 whyRead: "Indigenous voices being told to shut up."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1492680362/ref=nosim?tag=isitbanned-20"
 ---
 
 Traci Sorell's Native American history book for children.

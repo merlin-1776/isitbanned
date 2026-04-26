@@ -17,7 +17,7 @@ description: "Jonathan Evison's Alex Award winner became a major political contr
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781616207205/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781616207205"
 whyRead: "This book offended so many people it became a test case for free speech in schools."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1616207205/ref=nosim?tag=isitbanned-20"
 ---
 
 Jonathan Evison's Alex Award winner became a major political controversy and ban target.

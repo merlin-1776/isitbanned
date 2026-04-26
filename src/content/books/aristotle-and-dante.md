@@ -17,7 +17,7 @@ description: "Benjamin Alire Saenz's acclaimed YA novel about two boys discoveri
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316340571/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316340571"
 whyRead: "A beautiful, tender story about first love. Some people want to erase that."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0316340578/ref=nosim?tag=isitbanned-20"
 ---
 
 Benjamin Alire Saenz's acclaimed YA novel about two boys discovering love became a beloved classic.

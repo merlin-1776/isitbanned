@@ -17,7 +17,7 @@ description: "Jaycee Dugard's memoir of her 18-year abduction became a powerful 
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781451629194/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781451629194"
 whyRead: "This is one woman's true story. Censoring it means silencing her."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1451629192/ref=nosim?tag=isitbanned-20"
 ---
 
 Jaycee Dugard's memoir of her 18-year abduction became a powerful account of resilience.

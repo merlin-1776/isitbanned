@@ -17,7 +17,7 @@ description: "Carrie Arcos' novel about a runaway teen."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374386108/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780374386108"
 whyRead: "A realistic portrayal some want hidden."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0374386102/ref=nosim?tag=isitbanned-20"
 ---
 
 Carrie Arcos' novel about a runaway teen.

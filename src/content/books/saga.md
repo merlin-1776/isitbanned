@@ -18,7 +18,7 @@ description: "Brian K. Vaughan's Eisner-winning graphic novel has ~5 bans."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781607066019/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781607066019"
 whyRead: "A masterpiece of the medium that pushes boundaries. Exactly why the censors target it."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1607066017/ref=nosim?tag=isitbanned-20"
 ---
 
 Brian K. Vaughan's Eisner-winning graphic novel has ~5 bans.

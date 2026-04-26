@@ -17,7 +17,7 @@ description: "The pioneering 1989 picture book that first represented gay famili
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780763690427/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780763690427"
 whyRead: "This book has been challenged for 35 years. It's still banned. That tells you when the real fight started."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0763690422/ref=nosim?tag=isitbanned-20"
 ---
 
 The pioneering 1989 picture book that first represented gay families to children became an instant ban target.

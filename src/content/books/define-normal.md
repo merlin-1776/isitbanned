@@ -17,7 +17,7 @@ description: "Julie Anne Peters' YA novel about a gay teen and his friendship be
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545030151/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545030151"
 whyRead: "A book that gave visibility to queer teens before it was common. The bans show how far the opposition goes."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0545030157/ref=nosim?tag=isitbanned-20"
 ---
 
 Julie Anne Peters' YA novel about a gay teen and his friendship became a groundbreaking work of representation.

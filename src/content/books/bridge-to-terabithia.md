@@ -17,7 +17,7 @@ description: "Katherine Paterson's Newbery Medal classic about friendship and lo
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780064401845/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780064401845"
 whyRead: "A children's book that doesn't shy away from grief."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0064401845/ref=nosim?tag=isitbanned-20"
 ---
 
 Katherine Paterson's Newbery Medal classic about friendship and loss.

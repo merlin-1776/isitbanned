@@ -1,0 +1,371 @@
+{
+  "to-kill-a-mockingbird": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780060935467",
+    "rank": 4,
+    "goodreads_readers": 5200000,
+    "ban_count": 20,
+    "notes": "Highest readership of ANY banned book. Perennially challenged. Essential."
+  },
+  "maus": {
+    "title": "Maus",
+    "author": "Art Spiegelman",
+    "isbn": "9780394747231",
+    "rank": 51,
+    "goodreads_readers": 400000,
+    "ban_count": 30,
+    "notes": "Pulitzer Prize. McMinn County TN ban went viral. Holocaust graphic novel classic."
+  },
+  "the-catcher-in-the-rye": {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "rank": 52,
+    "goodreads_readers": 3300000,
+    "ban_count": 15,
+    "notes": "Most iconic banned book in America. Perennially challenged since 1951."
+  },
+  "fahrenheit-451": {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "isbn": "9781451673319",
+    "rank": 53,
+    "goodreads_readers": 2000000,
+    "ban_count": 10,
+    "notes": "Ironic: book about book burning gets banned. All-time classic."
+  },
+  "of-mice-and-men": {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "isbn": "9780140186420",
+    "rank": 54,
+    "goodreads_readers": 1600000,
+    "ban_count": 10,
+    "notes": "ALA top 100 every decade. School curriculum staple."
+  },
+  "the-adventures-of-huckleberry-finn": {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "isbn": "9780486280615",
+    "rank": 55,
+    "goodreads_readers": 800000,
+    "ban_count": 10,
+    "notes": "Most banned American classic. N-word controversy."
+  },
+  "i-know-why-the-caged-bird-sings": {
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Maya Angelou",
+    "isbn": "9780345514400",
+    "rank": 56,
+    "goodreads_readers": 650000,
+    "ban_count": 52,
+    "notes": "#50 PEN cumulative. ALA perennial. American classic memoir."
+  },
+  "the-diary-of-a-young-girl": {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "isbn": "9780553296983",
+    "rank": 57,
+    "goodreads_readers": 3200000,
+    "ban_count": 10,
+    "notes": "Anne Frank. Holocaust. Iconic and perennially challenged."
+  },
+  "harry-potter": {
+    "title": "Harry Potter (series)",
+    "author": "J.K. Rowling",
+    "isbn": "9780590353427",
+    "rank": 58,
+    "goodreads_readers": 9700000,
+    "ban_count": 15,
+    "notes": "#1 ALA 2000-2009. Massive cultural phenomenon. Witchcraft bans."
+  },
+  "the-hunger-games": {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "9780439023481",
+    "rank": 59,
+    "goodreads_readers": 7800000,
+    "ban_count": 15,
+    "notes": "ALA top 100 2010-2019. Massive franchise (film, merch, cultural)."
+  },
+  "the-giver": {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "isbn": "9780544336261",
+    "rank": 60,
+    "goodreads_readers": 2100000,
+    "ban_count": 15,
+    "notes": "Newbery Medal. Dystopian classic. Perennially challenged."
+  },
+  "drama-a-graphic-novel": {
+    "title": "Drama: A Graphic Novel",
+    "author": "Raina Telgemeier",
+    "isbn": "9780545326995",
+    "rank": 99,
+    "goodreads_readers": 150000,
+    "ban_count": 57,
+    "notes": "Stonewall Honor. Bestselling graphic novel. Middle grade. Trending ban."
+  },
+  "eleanor-and-park": {
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "isbn": "9781250012579",
+    "rank": 100,
+    "goodreads_readers": 700000,
+    "ban_count": 30,
+    "notes": "#1 NYT. Major YA romance. Recent high-ban count."
+  },
+  "the-glass-castle": {
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "isbn": "9780743247542",
+    "rank": 101,
+    "goodreads_readers": 1100000,
+    "ban_count": 15,
+    "notes": "#1 NYT memoir. ALA top 100. Huge readership."
+  },
+  "melissa": {
+    "title": "Melissa (George)",
+    "author": "Alex Gino",
+    "isbn": "9780545812542",
+    "rank": 102,
+    "goodreads_readers": 40000,
+    "ban_count": 35,
+    "notes": "#5 ALA 2010-2019. Transgender child protagonist."
+  },
+  "and-tango-makes-three": {
+    "title": "And Tango Makes Three",
+    "author": "Justin Richardson & Peter Parnell",
+    "isbn": "9780689878459",
+    "rank": 103,
+    "goodreads_readers": 30000,
+    "ban_count": 30,
+    "notes": "#1 most banned picture book. Gay penguins. Iconic LGBTQ+ symbol."
+  },
+  "captain-underpants": {
+    "title": "Captain Underpants (series)",
+    "author": "Dav Pilkey",
+    "isbn": "9780545385626",
+    "rank": 104,
+    "goodreads_readers": 250000,
+    "ban_count": 10,
+    "notes": "#2 ALA 2010-2019. Kids' favorite. Potty humor bans."
+  },
+  "fifty-shades-of-grey": {
+    "title": "Fifty Shades of Grey",
+    "author": "E.L. James",
+    "isbn": "9780345803481",
+    "rank": 105,
+    "goodreads_readers": 2300000,
+    "ban_count": 5,
+    "notes": "#8 ALA 2010-2019. Cultural phenomenon. Massive readership."
+  },
+  "his-dark-materials": {
+    "title": "His Dark Materials (series)",
+    "author": "Philip Pullman",
+    "isbn": "9780440238133",
+    "rank": 107,
+    "goodreads_readers": 800000,
+    "ban_count": 10,
+    "notes": "ALA top 10 2000-2009. Anti-religion controversy."
+  },
+  "persepolis": {
+    "title": "Persepolis",
+    "author": "Marjane Satraty",
+    "isbn": "9780375714573",
+    "rank": 108,
+    "goodreads_readers": 350000,
+    "ban_count": 15,
+    "notes": "Graphic memoir. Iran. ALA top 100."
+  },
+  "fun-home": {
+    "title": "Fun Home",
+    "author": "Alison Bechdel",
+    "isbn": "9780618871711",
+    "rank": 109,
+    "goodreads_readers": 150000,
+    "ban_count": 20,
+    "notes": "ALA top 100. Tony Award musical. Lesbian graphic memoir."
+  },
+  "twilight": {
+    "title": "Twilight (series)",
+    "author": "Stephenie Meyer",
+    "isbn": "9780316015844",
+    "rank": 110,
+    "goodreads_readers": 6000000,
+    "ban_count": 10,
+    "notes": "Massive franchise. ALA challenged. 6M readership."
+  },
+  "watchmen": {
+    "title": "Watchmen",
+    "author": "Alan Moore & Dave Gibbons",
+    "isbn": "9781401245252",
+    "rank": 126,
+    "goodreads_readers": 450000,
+    "ban_count": 15,
+    "notes": "Eisner Award. Time 100 best. HBO series. Graphic novel masterpiece."
+  },
+  "lolita": {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "isbn": "9780679723165",
+    "rank": 127,
+    "goodreads_readers": 900000,
+    "ban_count": 5,
+    "notes": "Literary classic. Notoriously controversial. Major readership."
+  },
+  "lord-of-the-flies-book": {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "isbn": "9780399501487",
+    "rank": 128,
+    "goodreads_readers": 2500000,
+    "ban_count": 5,
+    "notes": "Nobel Prize author. School curriculum staple."
+  },
+  "the-great-gatsby": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "rank": 129,
+    "goodreads_readers": 4500000,
+    "ban_count": 5,
+    "notes": "Great American Novel. Enormous readership."
+  },
+  "catch-22": {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "isbn": "9781451626650",
+    "rank": 130,
+    "goodreads_readers": 750000,
+    "ban_count": 5,
+    "notes": "American classic. Anti-war satire."
+  },
+  "their-eyes-were-watching-god": {
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "isbn": "9780061120060",
+    "rank": 131,
+    "goodreads_readers": 350000,
+    "ban_count": 5,
+    "notes": "Harlem Renaissance masterpiece."
+  },
+  "gone-with-the-wind": {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "isbn": "9781451635621",
+    "rank": 132,
+    "goodreads_readers": 1100000,
+    "ban_count": 5,
+    "notes": "Pulitzer Prize. All-time classic. Racism controversy."
+  },
+  "the-grapes-of-wrath": {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "isbn": "9780143039433",
+    "rank": 133,
+    "goodreads_readers": 800000,
+    "ban_count": 5,
+    "notes": "Pulitzer. Nobel author. American classic."
+  },
+  "a-farewell-to-arms": {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "isbn": "9780684801469",
+    "rank": 135,
+    "goodreads_readers": 350000,
+    "ban_count": 3,
+    "notes": "Hemingway classic. WWI."
+  },
+  "flowers-for-algernon": {
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "isbn": "9780156030304",
+    "rank": 140,
+    "goodreads_readers": 500000,
+    "ban_count": 3,
+    "notes": "Nebula & Hugo Award. Film."
+  },
+  "animal-farm": {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "9780451526342",
+    "rank": 141,
+    "goodreads_readers": 3300000,
+    "ban_count": 3,
+    "notes": "Political allegory. School staple."
+  },
+  "in-cold-blood": {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "isbn": "9780679745587",
+    "rank": 142,
+    "goodreads_readers": 350000,
+    "ban_count": 3,
+    "notes": "True crime classic. Literary journalism."
+  },
+  "a-child-called-it": {
+    "title": "A Child Called \"It\"",
+    "author": "Dave Pelzer",
+    "isbn": "9781558743663",
+    "rank": 143,
+    "goodreads_readers": 400000,
+    "ban_count": 10,
+    "notes": "#1 NYT memoir. Child abuse survival."
+  },
+  "the-curious-incident-of-the-dog-in-the-night-time-book": {
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "author": "Mark Haddon",
+    "isbn": "9781400032716",
+    "rank": 145,
+    "goodreads_readers": 1000000,
+    "ban_count": 5,
+    "notes": "ALA top 100. Whitbread Award. Tony Award play."
+  },
+  "saga-series": {
+    "title": "Saga (series)",
+    "author": "Brian K. Vaughan",
+    "isbn": "9781607066019",
+    "rank": 146,
+    "goodreads_readers": 200000,
+    "ban_count": 5,
+    "notes": "Eisner Awards. Hugo Award. Graphic novel masterpiece."
+  },
+  "two-boys-kissing": {
+    "title": "Two Boys Kissing",
+    "author": "David Levithan",
+    "isbn": "9780307931917",
+    "rank": 147,
+    "goodreads_readers": 30000,
+    "ban_count": 10,
+    "notes": "ALA top 100 2010-2019. Lambda Literary Award."
+  },
+  "i-am-jazz": {
+    "title": "I Am Jazz",
+    "author": "Jazz Jennings & Jessica Herthel",
+    "isbn": "9780803741072",
+    "rank": 148,
+    "goodreads_readers": 15000,
+    "ban_count": 15,
+    "notes": "#13 ALA 2010-2019. Transgender children's book."
+  },
+  "a-day-in-the-life-of-marlon-bundo": {
+    "title": "A Day in the Life of Marlon Bundo",
+    "author": "Jill Twiss",
+    "isbn": "9781452173801",
+    "rank": 149,
+    "goodreads_readers": 35000,
+    "ban_count": 10,
+    "notes": "John Oliver's LGBT bunny book. Political satire."
+  },
+  "sex-is-a-funny-word": {
+    "title": "Sex is a Funny Word",
+    "author": "Cory Silverberg",
+    "isbn": "9781609806064",
+    "rank": 150,
+    "goodreads_readers": 3000,
+    "ban_count": 10,
+    "notes": "ALA top 100 2010-2019. Sex ed for kids."
+  }
+}

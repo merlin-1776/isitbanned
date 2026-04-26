@@ -17,7 +17,7 @@ description: "Rainbow Rowell's #1 NYT YA romance has ~30 documented bans."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250012579/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781250012579"
 whyRead: "A book loved by millions that censors want removed. That gap tells you something about power."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1250012570/ref=nosim?tag=isitbanned-20"
 ---
 
 Rainbow Rowell's #1 NYT YA romance has ~30 documented bans.

@@ -18,7 +18,7 @@ description: "Kurt Vonnegut's semi-autobiographical anti-war novel about the fir
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385333481/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385333481"
 whyRead: "An American classic that's still being challenged. If you want to understand why, start here."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/038533348X/ref=nosim?tag=isitbanned-20"
 ---
 
 Kurt Vonnegut's semi-autobiographical anti-war novel about the firebombing of Dresden ranks among the greatest American novels.

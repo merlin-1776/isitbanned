@@ -17,7 +17,7 @@ description: "Rupi Kaur's #1 NYT bestselling poetry collection about love, loss,
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781449474256/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781449474256"
 whyRead: "This book reached millions of people, especially young women. That's exactly why some want it removed."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/144947425X/ref=nosim?tag=isitbanned-20"
 ---
 
 Rupi Kaur's #1 NYT bestselling poetry collection about love, loss, and healing reached millions. Now it's Instagram poetry's most-banned entry.

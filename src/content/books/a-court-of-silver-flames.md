@@ -17,7 +17,7 @@ description: "Sarah J. Maas' ACOTAR spinoff."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635577990/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781635577990"
 whyRead: "The Maas controversy continues."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1635577993/ref=nosim?tag=isitbanned-20"
 ---
 
 Sarah J. Maas' ACOTAR spinoff.

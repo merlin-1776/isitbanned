@@ -18,7 +18,7 @@ description: "Tim O'Brien's masterpiece blending fiction and truth about the Vie
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780618706419/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780618706419"
 whyRead: "A literary work about war that refuses to be neat or comfortable."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0618706410/ref=nosim?tag=isitbanned-20"
 ---
 
 Tim O'Brien's masterpiece blending fiction and truth about the Vietnam War.

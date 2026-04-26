@@ -17,7 +17,7 @@ description: "Nancy Garden's 1982 YA novel was one of the first to center lesbia
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780374400118/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780374400118"
 whyRead: "A groundbreaking book that's been challenged for 40+ years."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0374400113/ref=nosim?tag=isitbanned-20"
 ---
 
 Nancy Garden's 1982 YA novel was one of the first to center lesbian teens.

@@ -18,7 +18,7 @@ description: "Ernest Hemingway's WWI novel remains challenged despite being a li
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780684801469/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780684801469"
 whyRead: "A century-old book still making people uncomfortable. That tells you something about the book."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0684801469/ref=nosim?tag=isitbanned-20"
 ---
 
 Ernest Hemingway's WWI novel remains challenged despite being a literary classic.

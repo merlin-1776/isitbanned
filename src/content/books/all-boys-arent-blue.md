@@ -17,7 +17,7 @@ description: "George M. Johnson's #1 ALA 2024 banned book and memoir-manifesto b
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593111499/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780593111499"
 whyRead: "This book is banned for who writes it and who it's about. Read it to understand what that says."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0593111494/ref=nosim?tag=isitbanned-20"
 ---
 
 George M. Johnson's #1 ALA 2024 banned book and memoir-manifesto became key in contemporary censorship conversations.

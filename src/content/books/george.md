@@ -16,7 +16,7 @@ description: "Continuing Alexie's acclaimed series."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316013727/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316013727"
 whyRead: "More from one of the most banned authors."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0316013722/ref=nosim?tag=isitbanned-20"
 ---
 
 Continuing Alexie's acclaimed series.

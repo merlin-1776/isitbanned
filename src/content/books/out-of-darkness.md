@@ -17,7 +17,7 @@ description: "Ashley Hope Pérez's Printz Honor novel about a 1937 school explos
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780823445035/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780823445035"
 whyRead: "This book centers Latinx and queer voices. It's banned precisely because those perspectives matter."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0823445038/ref=nosim?tag=isitbanned-20"
 ---
 
 Ashley Hope Pérez's Printz Honor novel about a 1937 school explosion and young love became intensely targeted.

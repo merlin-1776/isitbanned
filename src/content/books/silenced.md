@@ -17,7 +17,7 @@ description: "Debbie Nathan's controversial examination of recovered memory case
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780465022083/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780465022083"
 whyRead: "A book that questions popular narratives about abuse."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0465022081/ref=nosim?tag=isitbanned-20"
 ---
 
 Debbie Nathan's controversial examination of recovered memory cases.

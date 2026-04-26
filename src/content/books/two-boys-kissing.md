@@ -17,7 +17,7 @@ description: "David Levithan's ALA-ranked YA novel about gay relationships was #
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780307931917/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780307931917"
 whyRead: "A title that's explicit about what it is: two boys kissing. Censors want to erase that image."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0307931919/ref=nosim?tag=isitbanned-20"
 ---
 
 David Levithan's ALA-ranked YA novel about gay relationships was #10 ALA 2024.

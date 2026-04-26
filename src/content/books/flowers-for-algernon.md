@@ -17,7 +17,7 @@ description: "Daniel Keyes' Nebula and Hugo Award-winning novel about a man with
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780156030304/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780156030304"
 whyRead: "A masterpiece of science fiction that explores what it means to be human. Simple as that."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0156030306/ref=nosim?tag=isitbanned-20"
 ---
 
 Daniel Keyes' Nebula and Hugo Award-winning novel about a man with intellectual disability who undergoes an experimental procedure.

@@ -17,7 +17,7 @@ description: "Stephen King's controversial school shooting novel."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385329552/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780385329552"
 whyRead: "A book King himself asked be pulped."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0385329555/ref=nosim?tag=isitbanned-20"
 ---
 
 Stephen King's controversial school shooting novel.

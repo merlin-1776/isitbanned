@@ -17,7 +17,7 @@ description: "Gregory Maguire's Wicked became a #1 NYT bestseller and Broadway m
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060987107/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780060987107"
 whyRead: "A retelling of a classic that became a cultural phenomenon. The sudden banning tells you something changed."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0060987103/ref=nosim?tag=isitbanned-20"
 ---
 
 Gregory Maguire's Wicked became a #1 NYT bestseller and Broadway megahit. It's received 17 new bans in 2024-25.

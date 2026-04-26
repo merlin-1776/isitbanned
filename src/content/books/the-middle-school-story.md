@@ -16,7 +16,7 @@ description: "Middle-grade fiction that addresses contemporary concerns."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316769500/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316769500"
 whyRead: "A book that treats current social issues seriously."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0316769509/ref=nosim?tag=isitbanned-20"
 ---
 
 Middle-grade fiction that addresses contemporary concerns.

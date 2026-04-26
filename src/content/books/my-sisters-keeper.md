@@ -17,7 +17,7 @@ description: "Jodi Picoult's major film has ~5 bans. She's the most-banned autho
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780743454537/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780743454537"
 whyRead: "A book about bodily autonomy that makes some people uncomfortable. That's the point."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0743454537/ref=nosim?tag=isitbanned-20"
 ---
 
 Jodi Picoult's major film has ~5 bans. She's the most-banned author 2023-24.

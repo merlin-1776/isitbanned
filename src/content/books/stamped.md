@@ -17,7 +17,7 @@ description: "#1 NYT antiracism text that became a major school ban target acros
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316453691/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780316453691"
 whyRead: "This book tells the history of racism from primary sources. That's why it's being banned."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0316453692/ref=nosim?tag=isitbanned-20"
 ---
 
 #1 NYT antiracism text that became a major school ban target across America.

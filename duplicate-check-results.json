@@ -1,0 +1,207 @@
+{
+  "to-kill-a-mockingbird": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780060935467 already exists",
+    "existing": "to-kill-a-mockingbird"
+  },
+  "maus": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780394747231 already exists",
+    "existing": "maus"
+  },
+  "the-catcher-in-the-rye": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780316769488 already exists",
+    "existing": "the-catcher-in-the-rye"
+  },
+  "fahrenheit-451": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781451673319 already exists",
+    "existing": "fahrenheit-451"
+  },
+  "of-mice-and-men": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780140186420 already exists",
+    "existing": "of-mice-and-men"
+  },
+  "the-adventures-of-huckleberry-finn": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780486280615 already exists",
+    "existing": "the-adventures-of-huckleberry-finn"
+  },
+  "i-know-why-the-caged-bird-sings": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780345514400 already exists",
+    "existing": "i-know-why-the-caged-bird-sings"
+  },
+  "the-diary-of-a-young-girl": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780553296983 already exists",
+    "existing": "the-diary-of-a-young-girl"
+  },
+  "harry-potter": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780590353427 already exists",
+    "existing": "harry-potter-and-the-sorcerers-stone"
+  },
+  "the-hunger-games": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780439023481 already exists",
+    "existing": "the-hunger-games"
+  },
+  "the-giver": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780544336261 already exists",
+    "existing": "the-giver"
+  },
+  "drama-a-graphic-novel": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780545326995 already exists",
+    "existing": "drama"
+  },
+  "eleanor-and-park": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781250012579 already exists",
+    "existing": "eleanor-and-park"
+  },
+  "the-glass-castle": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780743247542 already exists",
+    "existing": "the-glass-castle"
+  },
+  "melissa": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780545812542 already exists",
+    "existing": "melissa"
+  },
+  "and-tango-makes-three": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780689878459 already exists",
+    "existing": "and-tango-makes-three"
+  },
+  "captain-underpants": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780545385626 already exists",
+    "existing": "captain-underpants"
+  },
+  "fifty-shades-of-grey": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780345803481 already exists",
+    "existing": "fifty-shades-of-grey"
+  },
+  "his-dark-materials": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780440238133 already exists",
+    "existing": "the-golden-compass"
+  },
+  "persepolis": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780375714573 already exists",
+    "existing": "persepolis"
+  },
+  "fun-home": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780618871711 already exists",
+    "existing": "fun-home"
+  },
+  "twilight": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780316015844 already exists",
+    "existing": "twilight"
+  },
+  "watchmen": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781401245252 already exists",
+    "existing": "watchmen"
+  },
+  "lolita": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780679723165 already exists",
+    "existing": "lolita"
+  },
+  "lord-of-the-flies-book": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780399501487 already exists",
+    "existing": "lord-of-the-flies"
+  },
+  "the-great-gatsby": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780743273565 already exists",
+    "existing": "the-great-gatsby"
+  },
+  "catch-22": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781451626650 already exists",
+    "existing": "catch-22"
+  },
+  "their-eyes-were-watching-god": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780061120060 already exists",
+    "existing": "their-eyes-were-watching-god"
+  },
+  "gone-with-the-wind": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781451635621 already exists",
+    "existing": "gone-with-the-wind"
+  },
+  "the-grapes-of-wrath": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780143039433 already exists",
+    "existing": "the-grapes-of-wrath"
+  },
+  "a-farewell-to-arms": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780684801469 already exists",
+    "existing": "a-farewell-to-arms"
+  },
+  "flowers-for-algernon": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780156030304 already exists",
+    "existing": "flowers-for-algernon"
+  },
+  "animal-farm": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780451526342 already exists",
+    "existing": "animal-farm"
+  },
+  "in-cold-blood": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780679745587 already exists",
+    "existing": "in-cold-blood"
+  },
+  "a-child-called-it": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781558743663 already exists",
+    "existing": "a-child-called-it"
+  },
+  "the-curious-incident-of-the-dog-in-the-night-time-book": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781400032716 already exists",
+    "existing": "the-curious-incident-of-the-dog-in-the-night-time"
+  },
+  "saga-series": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781607066019 already exists",
+    "existing": "saga"
+  },
+  "two-boys-kissing": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780307931917 already exists",
+    "existing": "two-boys-kissing"
+  },
+  "i-am-jazz": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9780803741072 already exists",
+    "existing": "i-am-jazz"
+  },
+  "a-day-in-the-life-of-marlon-bundo": {
+    "status": "\u274c DUPLICATE",
+    "reason": "Exact title/author match with a-day-in-the-life-of-marlon-bundo",
+    "existing": "a-day-in-the-life-of-marlon-bundo"
+  },
+  "sex-is-a-funny-word": {
+    "status": "\u274c DUPLICATE",
+    "reason": "ISBN 9781609806064 already exists",
+    "existing": "sex-is-a-funny-word"
+  }
+}

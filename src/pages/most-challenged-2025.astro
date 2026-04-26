@@ -1,0 +1,189 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import BookCard from '../components/BookCard.astro';
+import { getCollection } from 'astro:content';
+
+const ala2025 = [
+  'sold',
+  'the-perks-of-being-a-wallflower',
+  'gender-queer',
+  'empire-of-storms',
+  'last-night-at-the-telegraph-club',
+  'tricks',
+  'a-court-of-thorns-and-roses',
+  'a-clockwork-orange',
+  'identical',
+  'looking-for-alaska',
+  'storm-and-fury',
+];
+
+const rankMap = new Map([
+  ['sold', '1'],
+  ['the-perks-of-being-a-wallflower', '2'],
+  ['gender-queer', '3'],
+  ['empire-of-storms', '4'],
+  ['last-night-at-the-telegraph-club', '5 (tie)'],
+  ['tricks', '5 (tie)'],
+  ['a-court-of-thorns-and-roses', '7'],
+  ['a-clockwork-orange', '8 (tie)'],
+  ['identical', '8 (tie)'],
+  ['looking-for-alaska', '8 (tie)'],
+  ['storm-and-fury', '8 (tie)'],
+]);
+
+const books = await getCollection('books');
+const selectedBooks = ala2025
+  .map((slug) => books.find((book) => book.data.slug === slug))
+  .filter(Boolean);
+
+const pageTitle = 'Most Challenged Books of 2025';
+const pageDescription = 'The American Library Association\'s most challenged books of 2025, with direct links to why each title was challenged and where to read it anyway.';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={`${pageTitle} | Is It Banned?`} description={pageDescription} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <section class="hero">
+        <p class="eyebrow">ALA 2025 List</p>
+        <h1>The Most Challenged Books of 2025</h1>
+        <p class="subhead">
+          These are the titles the American Library Association identified as the most challenged books in the country in 2025.
+          Some of them have been censorship targets for years. Some climbed fast. All of them tell us what kind of stories book banners are still trying to suppress.
+        </p>
+        <p class="source">
+          Source: <a href="https://www.ala.org/news/2026/04/american-library-association-releases-2025-most-challenged-books-list-national-library" target="_blank" rel="noopener noreferrer">American Library Association, released April 2026</a>
+        </p>
+      </section>
+
+      <section class="context">
+        <div class="context-box">
+          <h2>Why this page matters</h2>
+          <p>
+            Annual challenge lists are a snapshot, not the whole story. They show which books drew the most pressure in a given year,
+            but they also reveal bigger patterns: queer books stay under attack, books about trauma and sexual violence keep getting targeted,
+            and contemporary YA fantasy is firmly in the censorship crosshairs.
+          </p>
+        </div>
+      </section>
+
+      <section class="ranking-list">
+        <h2>ALA's Top Challenged Titles of 2025</h2>
+        <div class="books-grid">
+          {selectedBooks.map((book) => (
+            <div class="ranked-card">
+              <div class="rank-badge">#{rankMap.get(book!.data.slug)}</div>
+              <BookCard book={book} />
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section class="notes">
+        <h2>What stands out</h2>
+        <ul>
+          <li><strong>Ellen Hopkins</strong> placed multiple titles on the list again, which says a lot about how often books about trauma get targeted.</li>
+          <li><strong>Sarah J. Maas</strong> appears twice, showing that commercially massive fantasy is now a routine censorship target.</li>
+          <li><strong>Older titles still rank high</strong>, including <em>A Clockwork Orange</em> and <em>Looking for Alaska</em>, which means the cycle does not burn out on its own.</li>
+          <li><strong>Queer books remain central targets</strong>, including <em>Gender Queer</em> and <em>Last Night at the Telegraph Club</em>.</li>
+        </ul>
+      </section>
+    </main>
+    <Footer />
+
+    <style>
+      main {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 3rem;
+      }
+      .hero {
+        text-align: center;
+        padding: 2rem 0 2.5rem;
+      }
+      .eyebrow {
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        font-size: 0.8rem;
+        font-weight: 800;
+        color: var(--accent);
+        margin-bottom: 0.75rem;
+      }
+      h1 {
+        font-size: 2.75rem;
+        line-height: 1.1;
+        margin-bottom: 1rem;
+      }
+      .subhead {
+        max-width: 760px;
+        margin: 0 auto 1rem;
+        font-size: 1.1rem;
+        color: rgb(var(--gray-dark));
+        line-height: 1.7;
+      }
+      .source {
+        font-size: 0.95rem;
+        color: rgb(var(--gray));
+      }
+      .source a {
+        color: var(--accent);
+      }
+      .context {
+        margin-bottom: 2rem;
+      }
+      .context-box {
+        background: #fff7f7;
+        border: 1px solid #f3c7c7;
+        border-radius: 12px;
+        padding: 1.25rem;
+      }
+      .context-box h2,
+      .ranking-list h2,
+      .notes h2 {
+        margin-bottom: 0.75rem;
+      }
+      .books-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.5rem;
+      }
+      .ranked-card {
+        position: relative;
+      }
+      .rank-badge {
+        display: inline-block;
+        margin-bottom: 0.5rem;
+        background: var(--accent);
+        color: #fff;
+        border-radius: 999px;
+        padding: 0.35rem 0.8rem;
+        font-size: 0.85rem;
+        font-weight: 800;
+      }
+      .notes {
+        margin-top: 2.5rem;
+      }
+      .notes ul {
+        padding-left: 1.2rem;
+        line-height: 1.7;
+      }
+      .notes li {
+        margin-bottom: 0.8rem;
+      }
+      @media (max-width: 720px) {
+        h1 {
+          font-size: 2rem;
+        }
+        .subhead {
+          font-size: 1rem;
+        }
+      }
+    </style>
+  </body>
+</html>

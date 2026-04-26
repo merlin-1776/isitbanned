@@ -17,7 +17,7 @@ description: "Raina Telgemeier's Stonewall Honor graphic novel has 57 documented
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780545326995/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780545326995"
 whyRead: "A beautiful, accessible graphic novel that speaks to young readers. That's why it scares the censors."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0545326990/ref=nosim?tag=isitbanned-20"
 ---
 
 Raina Telgemeier's Stonewall Honor graphic novel has 57 documented bans.

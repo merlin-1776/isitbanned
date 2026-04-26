@@ -17,7 +17,7 @@ description: "Russell Freedman's Newbery Medal biography of Eleanor Roosevelt in
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780395845028/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780395845028"
 whyRead: "A biography of one of America's most admired women. Censors target even this."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0395845025/ref=nosim?tag=isitbanned-20"
 ---
 
 Russell Freedman's Newbery Medal biography of Eleanor Roosevelt inspired generations.

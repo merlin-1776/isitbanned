@@ -17,7 +17,7 @@ description: "Sarah J. Maas' BookTok phenomenon became the #1 NYT series. The au
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635575569/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781635575569"
 whyRead: "This series has the reading world obsessed. Censors have it targeted. That tells you something."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1635575567/ref=nosim?tag=isitbanned-20"
 ---
 
 Sarah J. Maas' BookTok phenomenon became the #1 NYT series. The author is now the 3rd most-banned author in America.

@@ -17,7 +17,7 @@ description: "Jazz Jennings' picture book became one of the most-banned children
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780803741072/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780803741072"
 whyRead: "A child's story of gender identity. The bans reveal who's afraid of trans kids."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0803741073/ref=nosim?tag=isitbanned-20"
 ---
 
 Jazz Jennings' picture book became one of the most-banned children's books in America.

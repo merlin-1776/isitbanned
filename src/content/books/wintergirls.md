@@ -17,7 +17,7 @@ description: "Laurie Halse Anderson's unflinching look at anorexia."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780670062072/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780670062072"
 whyRead: "Another Anderson book targeting dangerous realities."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0670062073/ref=nosim?tag=isitbanned-20"
 ---
 
 Laurie Halse Anderson's unflinching look at anorexia.

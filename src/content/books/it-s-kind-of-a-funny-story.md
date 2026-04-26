@@ -18,7 +18,7 @@ description: "Ned Vizzini's darkly comic novel about teen depression and hospita
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780439093408/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780439093408"
 whyRead: "This book treats mental illness with honesty and humor. Censors want to erase both."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0439093406/ref=nosim?tag=isitbanned-20"
 ---
 
 Ned Vizzini's darkly comic novel about teen depression and hospitalization became a film and beloved YA classic.

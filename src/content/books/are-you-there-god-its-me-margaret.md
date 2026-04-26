@@ -18,7 +18,7 @@ description: "Judy Blume's classic has ~3 bans and a 2023 film. A perennial chal
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481409940/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781481409940"
 whyRead: "A book about growing up that refuses to be embarrassed. The bans reveal adult discomfort with adolescence."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1481409948/ref=nosim?tag=isitbanned-20"
 ---
 
 Judy Blume's classic has ~3 bans and a 2023 film. A perennial challenge target.

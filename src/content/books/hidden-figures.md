@@ -17,7 +17,7 @@ description: "Margot Lee Shetterly's nonfiction bestseller about Black women mat
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780062363596/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780062363596"
 whyRead: "A beautifully researched history that gives credit where it's due. Some people would prefer silence."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/006236359X/ref=nosim?tag=isitbanned-20"
 ---
 
 Margot Lee Shetterly's nonfiction bestseller about Black women mathematicians became a major film.

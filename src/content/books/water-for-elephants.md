@@ -17,7 +17,7 @@ description: "Sara Gruen's #1 NYT bestseller about life in a Depression-era circ
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781565125605/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781565125605"
 whyRead: "This book is loved by millions. It's also challenged repeatedly. That gap tells you something about who decides what gets read."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1565125606/ref=nosim?tag=isitbanned-20"
 ---
 
 Sara Gruen's #1 NYT bestseller about life in a Depression-era circus became a film and Broadway show.

@@ -29,7 +29,7 @@ banLocations:
     district: "School District of Palm Beach County"
     year: 2025
 totalChallenges: 22
-description: "Storm and Fury follows Trinity Marrow, an eighteen-year-old with a dangerous secret, who is caught between warring angels and demons. It has been challenged for sexual content, violence, and religious themes involving angels and demons."
+description: "Jennifer L. Armentrout's fantasy novel tied for #8 on ALA's 2025 most-challenged books list, reflecting how aggressively current YA fantasy is being targeted."
 bookshopUrl: "https://bookshop.org/a/2537/9781335015303"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781335015303/k/keyword"
 whyRead: "Armentrout's paranormal romance combines gargoyle mythology with a protagonist who's losing her sight. It's fast, fierce, and unapologetically genre fiction."

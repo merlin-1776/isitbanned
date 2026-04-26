@@ -17,7 +17,7 @@ description: "This literary bestseller tells the story of Amir and Hassan, child
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781573222457/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781573222457"
 whyRead: "The scenes people want to censor are the ones that matter most. They're where the book becomes real."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1573222453/ref=nosim?tag=isitbanned-20"
 ---
 
 This literary bestseller tells the story of Amir and Hassan, childhood friends in Afghanistan. Became a Broadway play and massive success.

@@ -17,7 +17,7 @@ description: "Kristin Hannah's novel about women's friendships and liberation ha
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780783964768/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9780783964768"
 whyRead: "A story about women choosing themselves. That's why some people want it gone."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/0783964765/ref=nosim?tag=isitbanned-20"
 ---
 
 Kristin Hannah's novel about women's friendships and liberation has been challenged in conservative districts.

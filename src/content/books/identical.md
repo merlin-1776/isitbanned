@@ -14,11 +14,11 @@ banLocations:
     district: "Multiple districts"
     year: 2024
 totalChallenges: 15
-description: "Ellen Hopkins' novel about twin sisters and trauma was #11 on the PEN cumulative banned list."
+description: "Ellen Hopkins' novel about twin sisters and trauma tied for #8 on ALA's 2025 most-challenged books list."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950066/k/keyword"
 bookshopUrl: "https://bookshop.org/a/2537/9781416950066"
 whyRead: "Uncomfortable stories are uncomfortable for a reason. Hopkins doesn't look away."
-amazonUrl: "https://www.amazon.com/dp/ASIN/ref=nosim?tag=isitbanned-20"
+amazonUrl: "https://www.amazon.com/dp/1416950060/ref=nosim?tag=isitbanned-20"
 ---
 
 Ellen Hopkins' novel about twin sisters and trauma was #11 on the PEN cumulative banned list.
