@@ -20,6 +20,8 @@ const searchBooks = books.map((b) => ({
 	banReasons: b.data.banReasons,
 	description: b.data.description,
 }));
+
+const homepageFeaturedBooks = books.slice(0, 24);
 ---
 
 <!doctype html>
@@ -53,7 +55,7 @@ const searchBooks = books.map((b) => ({
 			<section class="books-section">
 				<h2>Most Challenged Books</h2>
 				<div class="books-grid">
-					{books.map((book) => (
+					{homepageFeaturedBooks.map((book) => (
 						<BookCard
 							title={book.data.title}
 							slug={book.data.slug}
