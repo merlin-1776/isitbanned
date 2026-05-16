@@ -13,6 +13,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Ellen Hopkins' novel about twin sisters and trauma tied for #8 on ALA's 2025 most-challenged books list."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950066/k/keyword"

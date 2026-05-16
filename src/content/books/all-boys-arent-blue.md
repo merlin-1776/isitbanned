@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "George M. Johnson's #1 ALA 2024 banned book and memoir-manifesto became key in contemporary censorship conversations."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780593111499/k/keyword"

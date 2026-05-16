@@ -27,6 +27,9 @@ banLocations:
   - state: "Iowa"
     district: "Dubuque Community School District"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 14
 description: "The Sun and Her Flowers is Rupi Kaur's second poetry collection, exploring themes of growth, ancestry, immigration, loss, and self-love. It has been challenged for its sexual references and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781449486792"

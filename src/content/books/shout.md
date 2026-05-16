@@ -13,6 +13,9 @@ banLocations:
   - state: "Texas"
     district: "Multiple districts"
     year: 2020
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 20
 description: "Laurie Halse Anderson's memoir in verse about surviving sexual assault became another of her books targeted by censors, following the success of Speak."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780670012107/k/keyword"

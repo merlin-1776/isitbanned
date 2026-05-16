@@ -25,6 +25,9 @@ banLocations:
     district: "Wentzville School District"
     year: 2024
     sourceUrl: "https://www.stltoday.com/news/local/education/wentzville-book-removals-continue/article_2024.html"
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 102
 description: "A Court of Wings and Ruin is the third book in Sarah J. Maas's ACOTAR series, following Feyre as she leads a dangerous mission against the villainous King of Hybern while navigating her powers and her relationship with Rhysand. It features explicit romance and epic fantasy warfare."
 bookshopUrl: "https://bookshop.org/a/2537/9781619634497"

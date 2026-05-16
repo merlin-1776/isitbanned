@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Sara Gruen's #1 NYT bestseller about life in a Depression-era circus became a film and Broadway show."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781565125605/k/keyword"

@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Mike Curato's Lambda Award-winning graphic novel ranked #5 ALA 2023 and #10 ALA 2024."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781250756145/k/keyword"

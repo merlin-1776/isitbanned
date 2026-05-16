@@ -8,6 +8,9 @@ banLocations:
     - state: "Texas"
       district: "Frisco Independent School District"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 1
 description: "'Monstress, Vol. 2: The Blood"
 amazonUrl: "https://www.amazon.com/dp/395981061X/ref=nosim?tag=isitbanned-20"

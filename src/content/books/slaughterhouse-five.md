@@ -13,6 +13,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Kurt Vonnegut's semi-autobiographical anti-war novel about the firebombing of Dresden ranks among the greatest American novels."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780385333481/k/keyword"

@@ -13,6 +13,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Anthony Burgess' dystopian novel tied for #8 on ALA's 2025 most-challenged books list, decades after its first censorship fights."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780393341768/k/keyword"

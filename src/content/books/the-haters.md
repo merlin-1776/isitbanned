@@ -28,6 +28,9 @@ banLocations:
   - state: "Iowa"
     district: "Dubuque Community School District"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 18
 description: "The Haters follows three jazz camp dropouts who start a band and go on a chaotic road trip through the American South. From the author of Me and Earl and the Dying Girl, it has been challenged for sexual content, language, and drug references."
 bookshopUrl: "https://bookshop.org/a/2537/9781419720789"

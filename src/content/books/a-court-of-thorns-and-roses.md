@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Sarah J. Maas' BookTok phenomenon became the #1 NYT series. The author is now the 3rd most-banned author in America."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781635575569/k/keyword"

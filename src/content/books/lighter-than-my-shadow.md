@@ -17,6 +17,9 @@ banLocations:
     - state: "Pennsylvania"
       district: "Eastern Lancaster County School District"
       year: 2021
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 4
 description: "'Lighter Than My Shadow"
 amazonUrl: "https://www.amazon.com/dp/1549301098/ref=nosim?tag=isitbanned-20"

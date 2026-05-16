@@ -13,6 +13,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Stephen Chbosky's coming-of-age novel placed #2 on ALA's 2025 most-challenged books list and remains a frequent censorship target."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780671027346/k/keyword"

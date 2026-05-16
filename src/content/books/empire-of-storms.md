@@ -25,6 +25,9 @@ banLocations:
   - state: "Missouri"
     district: "Francis Howell School District"
     year: 2023
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 96
 description: "The fifth Throne of Glass novel placed #4 on ALA's 2025 most-challenged books list as Sarah J. Maas remained a major censorship target."
 bookshopUrl: "https://bookshop.org/a/2537/9781619636071"

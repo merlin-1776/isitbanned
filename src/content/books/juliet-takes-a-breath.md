@@ -20,6 +20,9 @@ banLocations:
     - state: "Texas"
       district: "North East Independent School District"
       year: 2021
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 5
 description: "'Juliet Takes a Breath"
 amazonUrl: "https://www.amazon.com/dp/1713625431/ref=nosim?tag=isitbanned-20"

@@ -25,6 +25,9 @@ banLocations:
     district: "Wentzville School District"
     year: 2023
     sourceUrl: "https://www.stltoday.com/news/local/education/wentzville-school-district-book-bans/article_2023.html"
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 104
 description: "A Court of Mist and Fury is the second book in Sarah J. Maas's ACOTAR series, following Feyre as she navigates the aftermath of trauma, discovers new powers, and falls for the mysterious High Lord Rhysand. It contains more explicit romantic content than its predecessor."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781619634466/k/keyword"

@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "This literary bestseller tells the story of Amir and Hassan, childhood friends in Afghanistan. Became a Broadway play and massive success."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781573222457/k/keyword"

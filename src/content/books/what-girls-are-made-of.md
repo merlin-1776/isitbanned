@@ -27,6 +27,9 @@ banLocations:
   - state: "Florida"
     district: "Santa Rosa County Schools"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 18
 description: "What Girls Are Made Of follows sixteen-year-old Nina Faye as she searches for love and validation through her relationship with her boyfriend, interspersed with chapters about the Virgin Mary. It has been challenged for sexual content and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781512410242"

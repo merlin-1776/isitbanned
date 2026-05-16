@@ -11,6 +11,9 @@ banLocations:
     - state: "Texas"
       district: "Katy Independent School District"
       year: 2021
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 2
 description: "'The Handsome Girl & Her Beautiful Boy"
 ---

@@ -11,6 +11,9 @@ banLocations:
     - state: "Florida"
       district: "Indian River County School District"
       year: 2021
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 2
 description: "'Draw Me a Star"
 amazonUrl: "https://www.amazon.com/dp/0590464531/ref=nosim?tag=isitbanned-20"

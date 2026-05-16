@@ -27,6 +27,9 @@ banLocations:
   - state: "Minnesota"
     district: "St. Francis Area Schools"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 20
 description: "Lucky is Alice Sebold's memoir of being raped as a college freshman and the subsequent criminal trial. It has been challenged for its graphic descriptions of sexual assault and violence."
 bookshopUrl: "https://bookshop.org/a/2537/9780316096195"

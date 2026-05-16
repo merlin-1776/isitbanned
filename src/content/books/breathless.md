@@ -27,6 +27,9 @@ banLocations:
   - state: "Florida"
     district: "Lee County Schools"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 28
 description: "Breathless follows Claudine Henry through a transformative summer of first love, self-discovery, and sexual awakening before her senior year. It has been challenged for its frank depiction of teenage sexuality and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780385911962"

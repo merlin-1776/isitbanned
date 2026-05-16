@@ -14,6 +14,9 @@ banLocations:
     - state: "South Carolina"
       district: "Beaufort County School District"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 3
 description: "'Rumble"
 amazonUrl: "https://www.amazon.com/dp/1442482850/ref=nosim?tag=isitbanned-20"

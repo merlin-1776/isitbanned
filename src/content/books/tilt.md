@@ -29,6 +29,9 @@ banLocations:
   - state: "Florida"
     district: "Pasco County Schools"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 20
 description: "Tilt follows three teenagers whose lives intersect around love, sex, and identity, told in Ellen Hopkins's signature verse format. It has been challenged for sexual content, drug use, LGBTQ+ themes, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781416983293"

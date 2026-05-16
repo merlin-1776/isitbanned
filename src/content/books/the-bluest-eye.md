@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Toni Morrison's debut novel about a young Black girl in 1940s Ohio became one of the most-banned books in America despite Morrison's Nobel Prize."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780307278449/k/keyword"

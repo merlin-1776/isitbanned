@@ -27,6 +27,9 @@ banLocations:
   - state: "Florida"
     district: "Pasco County Schools"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 30
 description: "Set in 1950s San Francisco Chinatown, Last Night at the Telegraph Club follows Lily Hu as she discovers her attraction to women during the McCarthy era, navigating identity, family expectations, and the threat of deportation. It has been challenged for its LGBTQ+ content."
 bookshopUrl: "https://bookshop.org/a/2537/9780525555254"

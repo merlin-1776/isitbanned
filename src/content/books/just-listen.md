@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 10
 description: "Sarah Dessen's novel about a girl recovering from assault became a trusted resource for trauma survivors."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780670059706/k/keyword"

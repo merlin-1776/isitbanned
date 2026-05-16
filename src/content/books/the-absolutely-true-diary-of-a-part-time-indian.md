@@ -13,6 +13,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Sherman Alexie's National Book Award winner was #1 ALA 2010-2019 challenge target."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316013697/k/keyword"

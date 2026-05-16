@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Ellen Hopkins' novel in verse about a teenager's descent into crystal meth addiction became a #1 NYT bestseller."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416940470/k/keyword"

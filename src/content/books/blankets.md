@@ -17,6 +17,9 @@ banLocations:
     - state: "Missouri"
       district: "Nixa Public Schools"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 4
 description: "'Blankets"
 amazonUrl: "https://www.amazon.com/dp/1770462201/ref=nosim?tag=isitbanned-20"

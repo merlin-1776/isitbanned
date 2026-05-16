@@ -13,6 +13,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Ellen Hopkins' novel in verse about teens in the sex trade became the #1 most-banned book of 2022-23."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781416950073/k/keyword"

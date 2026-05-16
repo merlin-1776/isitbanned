@@ -14,6 +14,9 @@ banLocations:
     - state: "Florida"
       district: "Walton County School District"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 3
 description: "'Normal People"
 amazonUrl: "https://www.amazon.com/dp/1984822187/ref=nosim?tag=isitbanned-20"

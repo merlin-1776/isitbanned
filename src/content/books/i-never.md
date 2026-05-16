@@ -17,6 +17,9 @@ banLocations:
     - state: "Utah"
       district: "Granite School District"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 4
 description: "'I Never"
 amazonUrl: "https://www.amazon.com/dp/1328595870/ref=nosim?tag=isitbanned-20"

@@ -11,6 +11,9 @@ banLocations:
     - state: "North Carolina"
       district: "Moore County Schools"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 2
 description: "'Life is Funny"
 amazonUrl: "https://www.amazon.com/dp/0606248285/ref=nosim?tag=isitbanned-20"

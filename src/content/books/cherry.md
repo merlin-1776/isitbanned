@@ -11,6 +11,9 @@ banLocations:
     - state: "Texas"
       district: "Prosper Independent School District"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 2
 description: "'Cherry"
 amazonUrl: "https://www.amazon.com/dp/1665282487/ref=nosim?tag=isitbanned-20"

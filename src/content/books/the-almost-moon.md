@@ -25,6 +25,9 @@ banLocations:
   - state: "Florida"
     district: "Martin County Schools"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 13
 description: "Alice Sebold's novel about Helen Knightly, who kills her elderly mother and then spends the next 24 hours unraveling the complex history of their relationship. Challenged for violence, sexual content, and disturbing themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780316067362/k/keyword"

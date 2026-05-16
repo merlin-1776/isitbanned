@@ -25,6 +25,9 @@ banLocations:
     district: "Wentzville School District"
     year: 2022
     sourceUrl: "https://www.thedailybeast.com/most-banned-book-author-in-america-ellen-hopkins-calls-bs-on-parents-concern/"
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 25
 description: "People Kill People by Ellen Hopkins examines gun violence through six interconnected perspectives. Banned across multiple states for its unflinching portrayal of guns, hate, and the choices that lead to tragedy."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481442961/k/keyword"

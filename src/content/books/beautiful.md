@@ -28,6 +28,9 @@ banLocations:
   - state: "Florida"
     district: "Pinellas County Schools"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 18
 description: "Beautiful follows Cassie as she reinvents herself at a new school, falling into a world of drugs, sex, and toxic friendship. It has been challenged for its depictions of underage drug use, sexual content, and language."
 bookshopUrl: "https://bookshop.org/a/2537/9781416978305"

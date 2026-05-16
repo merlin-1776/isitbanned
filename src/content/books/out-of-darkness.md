@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Ashley Hope Pérez's Printz Honor novel about a 1937 school explosion and young love became intensely targeted."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780823445035/k/keyword"

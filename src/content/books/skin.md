@@ -11,6 +11,9 @@ banLocations:
     - state: "Texas"
       district: "Frisco Independent School District"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 2
 description: "'Skin"
 amazonUrl: "https://www.amazon.com/dp/1405223286/ref=nosim?tag=isitbanned-20"

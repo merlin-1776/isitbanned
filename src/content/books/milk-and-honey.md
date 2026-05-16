@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Rupi Kaur's #1 NYT bestselling poetry collection about love, loss, and healing reached millions. Now it's Instagram poetry's most-banned entry."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781449474256/k/keyword"

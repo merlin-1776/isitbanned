@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 10
 description: "Judy Blume's 1975 YA novel about teenage sexuality has been challenged for 50 years."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781481414432/k/keyword"

@@ -27,6 +27,9 @@ banLocations:
   - state: "Florida"
     district: "School District of Palm Beach County"
     year: 2025
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 25
 description: "The DUFF follows seventeen-year-old Bianca Piper, who is labeled the 'Designated Ugly Fat Friend' and begins a complicated enemies-with-benefits relationship with the school's resident womanizer. It has been challenged for sexual content and language."
 bookshopUrl: "https://bookshop.org/a/2537/9780316084239"

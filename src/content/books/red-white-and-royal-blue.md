@@ -20,6 +20,9 @@ banLocations:
     - state: "Virginia"
       district: "Spotsylvania County Public Schools"
       year: 2022
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 5
 description: "'Red, White, and Royal Blue"
 amazonUrl: "https://www.amazon.com/dp/1250316774/ref=nosim?tag=isitbanned-20"

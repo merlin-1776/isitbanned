@@ -24,6 +24,9 @@ banLocations:
   - state: "Iowa"
     district: "Lake Mills Community School District"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 12
 description: "Nicola Yoon's YA novel about Madeline Whittier, a teenager with severe combined immunodeficiency who has never left her house, until she falls for the boy next door. Challenged for sexual content and diversity themes."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780553496642/k/keyword"

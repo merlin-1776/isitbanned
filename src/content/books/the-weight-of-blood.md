@@ -20,6 +20,9 @@ banLocations:
   - state: "Missouri"
     district: "Wentzville School District"
     year: 2023
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 7
 description: "A reimagining of Stephen King's Carrie set in a small Georgia town, exploring race, identity, and violence when the school's first integrated prom goes horrifically wrong. Challenged for violence, racial themes, sexual content, and profanity."
 coverImage: "https://covers.openlibrary.org/b/isbn/9780063029156-L.jpg"

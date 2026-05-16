@@ -12,6 +12,9 @@ banLocations:
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
+  - state: "Tennessee"
+    district: "Knox County Schools"
+    year: 2026
 totalChallenges: 15
 description: "Juno Dawson's #3 ALA 2023 banned book is a sex education guide for LGBTQ+ teens being aggressively challenged."
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781728236773/k/keyword"
