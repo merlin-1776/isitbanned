@@ -5,13 +5,13 @@ author: "Marjorie Liu"
 banReasons:
   - "Violence"
 banLocations:
-    - state: "Texas"
-      district: "Frisco Independent School District"
-      year: 2022
+  - state: "Texas"
+    district: "Frisco Independent School District"
+    year: 2022
   - state: "Tennessee"
     district: "Knox County Schools"
     year: 2026
-totalChallenges: 1
+totalChallenges: 2
 description: "'Monstress, Vol. 2: The Blood"
 amazonUrl: "https://www.amazon.com/dp/395981061X/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9783959810616"

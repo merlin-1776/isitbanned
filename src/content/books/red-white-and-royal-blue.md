@@ -5,25 +5,25 @@ author: "Casey McQuiston"
 banReasons:
   - "Sexual Content"
 banLocations:
-    - state: "Florida"
-      district: "Escambia County Public Schools"
-      year: 2022
-    - state: "Michigan"
-      district: "Dearborn Public Schools"
-      year: 2022
-    - state: "Texas"
-      district: "Keller ISD"
-      year: 2022
-    - state: "Utah"
-      district: "Granite School District"
-      year: 2022
-    - state: "Virginia"
-      district: "Spotsylvania County Public Schools"
-      year: 2022
+  - state: "Florida"
+    district: "Escambia County Public Schools"
+    year: 2022
+  - state: "Michigan"
+    district: "Dearborn Public Schools"
+    year: 2022
+  - state: "Texas"
+    district: "Keller ISD"
+    year: 2022
+  - state: "Utah"
+    district: "Granite School District"
+    year: 2022
+  - state: "Virginia"
+    district: "Spotsylvania County Public Schools"
+    year: 2022
   - state: "Tennessee"
     district: "Knox County Schools"
     year: 2026
-totalChallenges: 5
+totalChallenges: 6
 description: "'Red, White, and Royal Blue"
 amazonUrl: "https://www.amazon.com/dp/1250316774/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781250316776"

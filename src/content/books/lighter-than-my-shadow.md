@@ -5,22 +5,22 @@ author: "Katie Green"
 banReasons:
   - "Sexual Content"
 banLocations:
-    - state: "Missouri"
-      district: "Raytown Quality Schools"
-      year: 2022
-    - state: "Missouri"
-      district: "Rockwood School District"
-      year: 2022
-    - state: "Missouri"
-      district: "Webster Groves School District"
-      year: 2022
-    - state: "Pennsylvania"
-      district: "Eastern Lancaster County School District"
-      year: 2021
+  - state: "Missouri"
+    district: "Raytown Quality Schools"
+    year: 2022
+  - state: "Missouri"
+    district: "Rockwood School District"
+    year: 2022
+  - state: "Missouri"
+    district: "Webster Groves School District"
+    year: 2022
+  - state: "Pennsylvania"
+    district: "Eastern Lancaster County School District"
+    year: 2021
   - state: "Tennessee"
     district: "Knox County Schools"
     year: 2026
-totalChallenges: 4
+totalChallenges: 5
 description: "'Lighter Than My Shadow"
 amazonUrl: "https://www.amazon.com/dp/1549301098/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781407086187"
