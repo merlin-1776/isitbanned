@@ -97,6 +97,7 @@ const seriesBooks = series
 					{datePublished && <> · {datePublished.split('-')[0]}</>}
 				</p>
 				{isbn13 && <p class="isbn">ISBN: {isbn13}</p>}
+				<p class="answer-capsule"><strong>Short answer:</strong> {title} has been challenged or banned {totalChallenges} times across {uniqueStates.length} states, most often for {banReasons.slice(0, 3).join(', ')}.</p>
 			</div>
 
 			<div class="challenges-count">
@@ -339,6 +340,16 @@ const seriesBooks = series
 				font-size: 0.85rem;
 				color: rgb(var(--gray));
 				margin-top: 0.25em;
+			}
+			.answer-capsule {
+				margin-top: 1em;
+				padding: 1em 1.2em;
+				background: #fff7ed;
+				border: 1px solid #fed7aa;
+				border-left: 4px solid var(--accent);
+				border-radius: 8px;
+				font-size: 1rem;
+				line-height: 1.7;
 			}
 			.challenges-count {
 				display: flex;
