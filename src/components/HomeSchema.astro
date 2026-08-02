@@ -3,6 +3,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io';
 const basePath = '';
+const { faqs = [] } = Astro.props;
 ---
 
 <script
@@ -23,6 +24,26 @@ const basePath = '';
 		}
 	})}
 />
+
+{
+	faqs.length > 0 && (
+		<script
+			type="application/ld+json"
+			set:html={JSON.stringify({
+				"@context": "https://schema.org",
+				"@type": "FAQPage",
+				"mainEntity": faqs.map((item) => ({
+					"@type": "Question",
+					"name": item.q,
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": item.a,
+					},
+				})),
+			})}
+		/>
+	)
+}
 
 <script
 	type="application/ld+json"

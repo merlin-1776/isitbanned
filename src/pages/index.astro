@@ -22,20 +22,39 @@ const searchBooks = books.map((b) => ({
 }));
 
 const homepageFeaturedBooks = books.slice(0, 24);
+const faqs = [
+	{
+		q: 'How can I check if a book is banned or challenged?',
+		a: 'Search by title or author to see whether a book has been challenged, where the challenges happened, why the book was flagged, and how often it appears in documented cases.',
+	},
+	{
+		q: 'What is the difference between a banned book and a challenged book?',
+		a: 'A challenged book is one someone tried to remove or restrict. A banned book has actually been removed, restricted, or blocked in a school, library, or district setting.',
+	},
+	{
+		q: 'Can I browse banned books by state or reason?',
+		a: 'Yes. Is It Banned organizes books by title, author, state, series, and ban reason so readers can move from a single book to the broader pattern around it.',
+	},
+	{
+		q: 'Where does the banned book data come from?',
+		a: 'The site compiles documented challenge and ban records, then organizes them into searchable pages so readers can quickly see where, when, and why a title was challenged.',
+	},
+];
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<HomeSchema />
+		<HomeSchema faqs={faqs} />
 	</head>
 	<body>
 		<Header />
 		<main>
 			<section class="hero">
-				<h1>Is your favorite book <span class="highlight">banned?</span></h1>
-				<p class="hero-sub">Search thousands of banned and challenged books. Find out where, when, and why.</p>
+				<h1>Banned Books by <span class="highlight">Title, State, and Reason</span></h1>
+				<p class="hero-sub">Search thousands of banned and challenged books. See where a title was challenged, why it was flagged, and how often it appears in documented cases.</p>
+				<p class="hero-answer">Use the search to check a single title fast, or browse by state, author, series, and ban reason to understand the bigger pattern.</p>
 				<SearchBar books={searchBooks} />
 			</section>
 
@@ -70,6 +89,20 @@ const homepageFeaturedBooks = books.slice(0, 24);
 					<a href={`/books/`}>View All Books →</a>
 				</div>
 			</section>
+
+			<section class="faq-section">
+				<div class="faq-shell">
+					<h2>Banned Books FAQ</h2>
+					<div class="faq-grid">
+						{faqs.map((item) => (
+							<article class="faq-card">
+								<h3>{item.q}</h3>
+								<p>{item.a}</p>
+							</article>
+						))}
+					</div>
+				</div>
+			</section>
 		</main>
 		<Footer />
 		<style>
@@ -93,6 +126,12 @@ const homepageFeaturedBooks = books.slice(0, 24);
 				max-width: 500px;
 				margin-left: auto;
 				margin-right: auto;
+			}
+			.hero-answer {
+				margin: 0 auto 1.5em;
+				max-width: 720px;
+				font-size: 1rem;
+				color: rgb(var(--gray-dark));
 			}
 			.random-section {
 				text-align: center;
@@ -186,11 +225,46 @@ const homepageFeaturedBooks = books.slice(0, 24);
 				background: var(--accent-dark);
 				color: #fff;
 			}
+			.faq-section {
+				padding: 2em 0 3em;
+			}
+			.faq-shell {
+				max-width: 980px;
+				margin: 0 auto;
+			}
+			.faq-shell h2 {
+				text-align: center;
+				margin-bottom: 1.2em;
+				font-size: 2em;
+			}
+			.faq-grid {
+				display: grid;
+				grid-template-columns: repeat(2, minmax(0, 1fr));
+				gap: 1.25em;
+			}
+			.faq-card {
+				padding: 1.25em;
+				border: 1px solid #e5e7eb;
+				border-radius: 14px;
+				background: #fff;
+				box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05);
+			}
+			.faq-card h3 {
+				margin-bottom: 0.5em;
+				font-size: 1.1rem;
+			}
+			.faq-card p {
+				margin: 0;
+				color: rgb(var(--gray-dark));
+			}
 			@media (max-width: 720px) {
 				.hero h1 {
 					font-size: 2em;
 				}
 				.books-grid {
+					grid-template-columns: 1fr;
+				}
+				.faq-grid {
 					grid-template-columns: 1fr;
 				}
 			}
