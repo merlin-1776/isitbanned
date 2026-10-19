@@ -12,6 +12,10 @@ banLocations:
     - state: "Florida"
       district: "Escambia County School District"
       year: 2024
+    - state: "Florida"
+      district: "Duval County Public Schools"
+      year: 2026
+      sourceUrl: "https://jaxtoday.org/2026/10/08/duval-schools-books-removed/"
 totalChallenges: 3
 description: "Handle with Care"
 amazonUrl: "https://www.amazon.com/dp/0743296427/ref=nosim?tag=isitbanned-20"

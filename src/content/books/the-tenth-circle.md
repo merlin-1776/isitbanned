@@ -8,6 +8,10 @@ banLocations:
     - state: "Florida"
       district: "Indian River County School District"
       year: 2021
+    - state: "Florida"
+      district: "Duval County Public Schools"
+      year: 2026
+      sourceUrl: "https://jaxtoday.org/2026/10/08/duval-schools-books-removed/"
 totalChallenges: 1
 description: "'The Tenth Circle"
 amazonUrl: "https://www.amazon.com/dp/0340839279/ref=nosim?tag=isitbanned-20"
