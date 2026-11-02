@@ -6,6 +6,10 @@ banReasons:
   - "Sexual Content"
 banLocations:
     - state: "Utah"
+      district: "Utah public schools (statewide)"
+      year: 2026
+      sourceUrl: "https://ilovelibraries.org/article/u-s-book-challenges-update-october-2026-edition/"
+    - state: "Utah"
       district: "Granite School District"
       year: 2022
     - state: "Georgia"

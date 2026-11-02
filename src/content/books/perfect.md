@@ -11,6 +11,10 @@ banReasons:
   - "LGBTQ+ Themes"
   - "Language"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    year: 2026
+    sourceUrl: "https://ilovelibraries.org/article/u-s-book-challenges-update-october-2026-edition/"
   - state: "Florida"
     district: "Hillsborough County Public Schools"
     year: 2025

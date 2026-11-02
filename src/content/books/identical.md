@@ -10,6 +10,10 @@ banReasons:
   - "Sexual Abuse"
   - "Drug Use"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    year: 2026
+    sourceUrl: "https://ilovelibraries.org/article/u-s-book-challenges-update-october-2026-edition/"
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
