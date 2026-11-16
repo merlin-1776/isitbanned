@@ -53,7 +53,7 @@ const faqData = [
 		"name": `Where is ${title} banned?`,
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": `As of 2025, ${title} has been banned or challenged in ${uniqueStates.join(', ')}. Notable bans include ${banLocations.slice(0, 3).map((l) => `${l.district || l.state} (${l.year || 'ongoing'})`).join(', ')}.`
+			"text": `As of ${new Date().getFullYear()}, ${title} has been banned or challenged in ${uniqueStates.join(', ')}. Notable bans include ${banLocations.slice(0, 3).map((l) => `${l.district || l.state} (${l.year || 'ongoing'})`).join(', ')}.`
 		}
 	}
 ];

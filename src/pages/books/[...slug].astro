@@ -245,7 +245,7 @@ const seriesBooks = series
 
 				<div class="faq-item">
 					<h3>Where is {title} banned?</h3>
-					<p>As of 2025, {title} has been banned or challenged in {uniqueStates.join(', ')}. Notable bans include {banLocations.slice(0, 3).map((l) => `${l.district || l.state} (${l.year || 'ongoing'})`).join(', ')}.</p>
+					<p>As of {new Date().getFullYear()}, {title} has been banned or challenged in {uniqueStates.join(', ')}. Notable bans include {banLocations.slice(0, 3).map((l) => `${l.district || l.state} (${l.year || 'ongoing'})`).join(', ')}.</p>
 				</div>
 			</section>
 		</main>
