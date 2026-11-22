@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Clay County School District"
     year: 2023
@@ -35,6 +38,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978161963449
 whyRead: "Maas closes the first ACOTAR arc with epic battles and emotional payoffs. It's the book that made BookTok a cultural force."
 amazonUrl: "https://www.amazon.com/dp/161963449X/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 A Court of Wings and Ruin brings the first arc of the ACOTAR series to a climactic conclusion. Feyre infiltrates the Spring Court as a spy, then rallies the divided High Lords of Prythian to stand against the King of Hybern, who threatens to destroy the wall between the faerie and human realms. The book combines large-scale fantasy warfare with intimate character moments and explicit romantic scenes, and its 700-page length gives Maas room to resolve the complex political and personal storylines she's built across the trilogy. Fans consider it one of the strongest entries in the series.
 

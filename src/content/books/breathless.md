@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Language"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Brevard Public Schools"
     year: 2025
@@ -37,6 +40,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978038591196
 whyRead: "Niven's novel about a college swimmer navigating consent and sexual identity is timely, frank, and treats its characters like adults."
 amazonUrl: "https://www.amazon.com/dp/0241502209/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Jennifer Niven's 2020 YA novel tells the story of Claudine Henry, who escapes her complicated family life for a summer on a Georgia island. There she meets Jeremiah Crew, and what follows is a story about first love that doesn't shy away from the physical realities of teenage relationships. Niven, known for All the Bright Places, brings the same emotional honesty to Breathless, treating her protagonist's sexual awakening as a natural and healthy part of growing up rather than something to be whispered about or punished for.
 

@@ -10,6 +10,9 @@ banReasons:
   - "Violence"
   - "Age Inappropriateness"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Broward County Public Schools"
     year: 2025
@@ -35,6 +38,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978141696059
 whyRead: "Scott's novella about a kidnapped girl is 170 pages of controlled horror. It's not gratuitous. It's the truth about what captivity does to a person."
 amazonUrl: "https://www.amazon.com/dp/1416960597/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Elizabeth Scott's Living Dead Girl is one of the most disturbing and deliberately uncomfortable YA novels ever published. Alice was kidnapped by a man named Ray when she was ten. Five years later, she exists in a state of dissociation, following Ray's rules, enduring his abuse, and watching him begin to look for her replacement. The novel is written in stripped-down, almost clinical prose that mirrors Alice's emotional numbness. Scott doesn't sensationalize the abuse; instead, she renders it with a flatness that's somehow more devastating than graphic detail would be. The book is short (170 pages) and relentless.
 

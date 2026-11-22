@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Racial Content"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
@@ -22,6 +25,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9780307278449"
 whyRead: "A Nobel Prize winner being aggressively banned tells you everything about whose voices the censors fear."
 amazonUrl: "https://www.amazon.com/dp/0307278441/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Toni Morrison's debut novel about a young Black girl in 1940s Ohio became one of the most-banned books in America despite Morrison's Nobel Prize.
 

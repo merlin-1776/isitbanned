@@ -10,6 +10,9 @@ banReasons:
   - "Language"
   - "Drug/Alcohol Use"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Brevard Public Schools"
     year: 2024
@@ -38,6 +41,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978141972078
 whyRead: "Andrews' novel about three jazz camp dropouts on an impromptu road trip is a love letter to music, friendship, and doing something stupid because you're young enough to survive it."
 amazonUrl: "https://www.amazon.com/dp/1760292974/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Jesse Andrews's follow-up to Me and Earl and the Dying Girl is a road-trip comedy about three teenagers who bail on jazz camp to form a band and tour the South in a borrowed car. Wes, Corey, and Ash have more enthusiasm than talent, and their trip involves sketchy gigs, worse accommodations, and the romantic tension that inevitably develops when teenagers share close quarters. Andrews writes with the same off-kilter humor that made his debut a hit: self-deprecating, profane, and genuinely funny in ways that don't require a laugh track.
 

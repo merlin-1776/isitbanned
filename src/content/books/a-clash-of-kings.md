@@ -10,6 +10,9 @@ banReasons:
   - "Violence"
   - "Language"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Broward County Public Schools"
     year: 2025
@@ -35,6 +38,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978055357990
 whyRead: "Martin's second Song of Ice and Fire novel expands the world that became Game of Thrones. It's epic fantasy for adults, and it doesn't apologize for that."
 amazonUrl: "https://www.amazon.com/dp/8371507895/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 George R. R. Martin's second entry in the A Song of Ice and Fire saga picks up after the death of King Robert Baratheon as five claimants battle for the Iron Throne. The War of the Five Kings tears Westeros apart while supernatural threats gather beyond the Wall. Martin's signature approach, treating fantasy with the brutal realism of historical fiction, means that characters die without warning, power corrupts without exception, and the line between hero and villain barely exists. The 2012 HBO adaptation brought the story to a massive audience, but the novels remain far more detailed and, in many passages, far more graphic.
 

@@ -11,6 +11,9 @@ banReasons:
   - "Sensitive Topics"
 banLocations:
   - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
+  - state: "Utah"
     district: "Davis School District"
     year: 2026
     sourceUrl: "https://kutv.com/news/local/stephen-king-novel-different-seasons-banned-from-utah-schools"
@@ -33,6 +36,8 @@ amazonUrl: "https://www.amazon.com/dp/1501143484/ref=nosim?tag=isitbanned-20"
 bookshopUrl: "https://bookshop.org/a/2537/9781501143489"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9781501143489/k/keyword"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Stephen King's *Different Seasons* is a 1982 collection of four novellas: *Rita Hayworth and Shawshank Redemption*, *Apt Pupil*, *The Body*, and *The Breathing Method*. Two of those stories became *The Shawshank Redemption* and *Stand by Me*, which means a lot of readers know the adaptations without realizing they came from the same book. The collection is less supernatural than much of King's catalog and more interested in the ways ordinary people slide toward obsession, cruelty, or moral compromise.
 

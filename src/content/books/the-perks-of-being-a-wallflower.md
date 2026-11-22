@@ -10,6 +10,9 @@ banReasons:
   - "Sexual Content"
   - "Mental Health"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
@@ -23,6 +26,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9780671027346"
 whyRead: "This book gave voice to millions of lonely teenagers. It's banned for treating them like humans."
 amazonUrl: "https://www.amazon.com/dp/0671027344/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Stephen Chbosky's novel about a high school freshman became a cult classic, film, and #4 PEN banned book.
 

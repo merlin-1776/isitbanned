@@ -10,6 +10,9 @@ banReasons:
   - "Violence"
   - "Occult/Supernatural"
 banLocations:
+    - state: "Utah"
+      district: "Utah public schools (statewide)"
+      sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
     - state: "Florida"
       district: "Brevard County Public Schools"
       year: 2024
@@ -26,6 +29,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9780060987107"
 capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/9780060987107/k/keyword"
 whyRead: "Maguire's reimagining of Oz is a sophisticated political allegory wrapped in fantasy. If you think you know the Wicked Witch, you don't."
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Gregory Maguire took one of American fiction's most iconic villains and asked a simple question: what if she wasn't? Wicked follows Elphaba, the green-skinned girl who grows up to become the Wicked Witch of the West, from her birth in Oz through her radical student days and her eventual collision with a corrupt government. Maguire's Oz isn't the technicolor dreamscape of the movie. It's a police state run by a fraudulent Wizard, and Elphaba is its most dangerous dissident. The novel is dense, literary, and deeply political, exploring how societies create their monsters.
 

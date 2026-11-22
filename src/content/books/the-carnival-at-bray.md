@@ -10,6 +10,9 @@ banReasons:
   - "Drug/Alcohol Use"
   - "Language"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Hillsborough County Public Schools"
     year: 2025
@@ -35,6 +38,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978146773054
 whyRead: "Foley's novel about a girl who moves to Ireland and falls in love with grunge music is a love letter to the 1990s and the power of live music."
 amazonUrl: "https://www.amazon.com/dp/1322096767/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Jessie Ann Foley's Morris Award-winning debut follows Maggie Lynch, whose mother's remarriage uproots her from Chicago to a small town on the Irish coast in 1993. Maggie is grieving the loss of her uncle Kevin, a musician and free spirit who introduced her to Nirvana, the Pixies, and the idea that life doesn't have to follow the script. When Maggie gets a chance to see Nirvana play in Rome, she embarks on a solo trip across Europe that's part pilgrimage, part coming-of-age. Foley captures the specific cultural moment of the early '90s grunge era with period-perfect detail and genuine affection.
 

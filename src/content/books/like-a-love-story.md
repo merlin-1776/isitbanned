@@ -9,6 +9,9 @@ banReasons:
   - "LGBTQ+ Themes"
   - "Sexual Content"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Hillsborough County Public Schools"
     year: 2025
@@ -34,6 +37,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978006283936
 whyRead: "Nazemian's novel set during the AIDS crisis follows three teenagers navigating love, activism, and fear. It's the queer historical fiction the 1980s deserved."
 amazonUrl: "https://www.amazon.com/dp/0062839381/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Abdi Nazemian's Like a Love Story is set in 1989 New York, at the height of the AIDS crisis, and follows three interconnected teenagers. Reza is an Iranian American boy terrified that his attraction to men will kill him. Judy is an aspiring fashion designer who idolizes her uncle, a gay man with AIDS. Art is an openly gay activist fighting for visibility. Their stories interweave against a backdrop of ACT UP protests, the early days of the queer rights movement, and the terror of a disease that the government was largely ignoring. Nazemian writes the period with specificity and emotional weight.
 

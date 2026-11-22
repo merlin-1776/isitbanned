@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Hillsborough County Public Schools"
     year: 2025
@@ -37,6 +40,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978161963611
 whyRead: "Maas closes the Throne of Glass series with an 1,000-page epic. It's a testament to how far YA fantasy has come since Tolkien."
 amazonUrl: "https://www.amazon.com/dp/1547604387/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah removed *Kingdom of Ash* from public schools statewide on November 17, 2026, after decisions by the Davis, Jordan, and Tooele districts met the state’s removal threshold, according to [The Salt Lake Tribune](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Kingdom of Ash closes out the seven-book Throne of Glass series with a 980-page finale that's equal parts battle epic and love story. Aelin Galathynius has been captured and tortured by the dark god Maeve, and her allies must fight across multiple fronts to free her and save Erilea from destruction. Maas delivers sprawling battle sequences, romantic payoffs that fans waited years for, and the kind of emotional catharsis that comes from investing thousands of pages in characters. The book is long, intense, and deliberately operates at maximum emotional volume.
 

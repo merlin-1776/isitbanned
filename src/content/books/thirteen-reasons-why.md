@@ -9,6 +9,9 @@ banReasons:
   - "Suicide Content"
   - "Mental Health Themes"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
@@ -19,6 +22,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9781595141712"
 whyRead: "We'd rather censor conversations about suicide than listen to young people struggling."
 amazonUrl: "https://www.amazon.com/dp/1595141715/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Jay Asher's novel about a student who leaves behind tapes about her suicide became a controversial Netflix series.
 

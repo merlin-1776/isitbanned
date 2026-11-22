@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Escambia County School District"
     year: 2023
@@ -35,6 +38,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9781619634466"
 whyRead: "The second ACOTAR book, where the series finds its real story. Maas writes fantasy romance that takes female desire seriously."
 amazonUrl: "https://www.amazon.com/dp/1619634465/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 A Court of Mist and Fury picks up after the traumatic events of the first book, with Feyre struggling with PTSD and a deteriorating relationship. When she's drawn into the orbit of Rhysand, the enigmatic High Lord of the Night Court, she discovers both new powers and a deeper understanding of the political machinations threatening the faerie realms. The novel is beloved by fans for its portrayal of recovery from trauma, its complex political world-building, and its slow-burn romance that becomes significantly more explicit than the first book.
 

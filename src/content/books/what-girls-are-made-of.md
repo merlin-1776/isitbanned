@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Language"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Broward County Public Schools"
     year: 2025
@@ -37,6 +40,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978151241024
 whyRead: "Arnold's verse novel about a teenage girl navigating her first sexual relationship and religious identity is uncomfortably honest, which is exactly its value."
 amazonUrl: "https://www.amazon.com/dp/1512434388/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Elana K. Arnold's National Book Award finalist alternates between two stories: Nina, a sixteen-year-old willing to reshape herself entirely to keep her boyfriend's love, and a retelling of the Virgin Mary's story that questions how culture has used the Madonna figure to police female sexuality. The book examines what happens when girls are taught that their value lies in being desired, and what it costs to perform the version of femininity that boys and men expect. Arnold writes about sex directly and without apology, treating Nina's body and choices as her own even when those choices are driven by desperation.
 

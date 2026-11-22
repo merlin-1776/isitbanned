@@ -11,6 +11,9 @@ banReasons:
   - "Language"
   - "LGBTQ+ Themes"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Broward County Public Schools"
     year: 2025
@@ -39,6 +42,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978141698329
 whyRead: "Hopkins tells the story of two interconnected families dealing with addiction, teen pregnancy, and terminal illness through her signature verse style."
 amazonUrl: "https://www.amazon.com/dp/1416983309/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Tilt is classic Ellen Hopkins: multiple narrators, verse format, and subject matter that adults wish teenagers weren't dealing with but teenagers absolutely are. The novel follows three teens connected through family. Mikayla is in a sexual relationship and dealing with the consequences. Shane is coming to terms with his sexuality. Harley is falling for an older man. Their stories intersect and diverge as each character navigates desire, identity, and the gap between what they want and what the adults around them expect. Hopkins writes in the space where coming-of-age meets crisis.
 

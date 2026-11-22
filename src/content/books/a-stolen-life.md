@@ -9,6 +9,9 @@ banReasons:
   - "Kidnapping/Captivity"
   - "Sexual Abuse"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
@@ -22,6 +25,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9781451629194"
 whyRead: "This is one woman's true story. Censoring it means silencing her."
 amazonUrl: "https://www.amazon.com/dp/1451629192/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Jaycee Dugard's memoir of her 18-year abduction became a powerful account of resilience.
 

@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Broward County Public Schools"
     year: 2025
@@ -37,6 +40,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978006274235
 whyRead: "Arnold reimagines Little Red Riding Hood as a girl tracking the predator in her community. It's a feminist thriller that doesn't pull punches."
 amazonUrl: "https://www.amazon.com/dp/0062742361/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Elana K. Arnold's Red Hood rewrites Little Red Riding Hood as a story about female power, bodily autonomy, and the violence that men inflict on women. Bisou Martel lives in a small town on the edge of a forest. After she kills a wolf that attacked her, she begins to uncover a lineage of women who have fought back against predators, both animal and human. The novel braids menstruation, sexuality, and violence into a single metaphorical framework, treating the female body not as something to be ashamed of but as a source of strength. It's visceral, unapologetic, and deliberately provocative.
 

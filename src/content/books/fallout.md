@@ -10,6 +10,9 @@ banReasons:
   - "Drug/Alcohol Use"
   - "Language"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Colorado"
     district: "Elizabeth School District"
     year: 2024
@@ -35,6 +38,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978141695009
 whyRead: "Hopkins completes the Crank trilogy, showing how one person's addiction radiates outward and damages everyone it touches."
 amazonUrl: "https://www.amazon.com/dp/1442471808/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Ellen Hopkins's Fallout is the conclusion of the Crank trilogy, but it shifts perspective from Kristina Snow to her three children, each raised in different circumstances after their mother's meth addiction shattered the family. Hunter lives with his grandparents and struggles with anger. Autumn was adopted and discovers her birth mother's identity. Summer lives with Kristina and her current boyfriend, witnessing the ongoing destruction of addiction firsthand. Hopkins traces the intergenerational damage of substance abuse through three distinct voices, showing how one person's choices ripple outward for decades.
 

@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "Brevard Public Schools"
     year: 2024
@@ -37,6 +40,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978006274232
 whyRead: "Heathfield's dark fairy tale retelling strips away the romance and reveals the horror underneath. The princess doesn't need saving; she needs escape."
 amazonUrl: "https://www.amazon.com/dp/0062742337/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Elana K. Arnold's Damsel opens like every fairy tale you've heard: a prince slays a dragon, rescues a maiden, and brings her home to be his queen. Then it peels back the story to reveal the rot underneath. The rescued girl, Ama, has no memory of her life before the dragon's lair. As she pieces together the truth about her kingdom's traditions, she discovers that the fairy tale cycle of rescue and marriage conceals something far more sinister. Arnold's novel is a pointed deconstruction of the damsel-in-distress trope and a meditation on how stories about women's passivity perpetuate real violence.
 

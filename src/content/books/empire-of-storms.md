@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Florida"
     district: "St. Johns County School District"
     year: 2023
@@ -35,6 +38,8 @@ capitalBooksUrl: "https://store.capitalbooksonk.com/browse/filter/t/978161963607
 whyRead: "Maas's Throne of Glass series grows up with its readers. Empire of Storms is where the stakes and the romance both escalate dramatically."
 amazonUrl: "https://www.amazon.com/dp/1619636077/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Empire of Storms is the fifth installment in Sarah J. Maas's Throne of Glass series, a sprawling fantasy saga that follows Aelin Galathynius, an assassin turned queen, as she fights to reclaim her kingdom and defeat the dark forces threatening her world. By this point in the series, the characters are older and the romantic content has escalated significantly, including an explicit sex scene that has been the primary target of challenges. The book also features intense battle sequences and themes of sacrifice and destiny that have made the series a global bestseller.
 

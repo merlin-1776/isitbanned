@@ -9,6 +9,9 @@ banReasons:
   - "Sexual Content"
   - "Violence"
 banLocations:
+  - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
   - state: "Multiple"
     district: "Multiple districts"
     year: 2024
@@ -22,6 +25,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9781565125605"
 whyRead: "This book is loved by millions. It's also challenged repeatedly. That gap tells you something about who decides what gets read."
 amazonUrl: "https://www.amazon.com/dp/1565125606/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 Sara Gruen's #1 NYT bestseller about life in a Depression-era circus became a film and Broadway show.
 

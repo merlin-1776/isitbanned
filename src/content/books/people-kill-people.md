@@ -12,6 +12,9 @@ banReasons:
   - "Drug/Alcohol Content"
 banLocations:
   - state: "Utah"
+    district: "Utah public schools (statewide)"
+    sourceUrl: "https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/"
+  - state: "Utah"
     district: "Alpine School District"
     year: 2024
     sourceUrl: "https://en.wikipedia.org/wiki/Ellen_Hopkins"
@@ -35,6 +38,8 @@ bookshopUrl: "https://bookshop.org/a/2537/9781481442961"
 whyRead: "Hopkins tackles gun violence through multiple perspectives, building toward a shooting with the slow inevitability of a tragedy everyone sees coming."
 amazonUrl: "https://www.amazon.com/dp/1481442945/ref=nosim?tag=isitbanned-20"
 ---
+
+Utah has removed this title from public schools statewide under its sensitive-materials law. It appears on the [Salt Lake Tribune’s November 18, 2026 list of statewide removals](https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/).
 
 People Kill People follows six young people whose lives converge at a gun show in Arizona. Written in Hopkins's signature verse style, it traces lines of hate, fear, and desperation through characters on different sides of the gun debate, immigration, and white supremacy. The narrator is Rand, a personification of hatred itself. The novel doesn't preach a particular political position. It shows how ordinary people get pushed toward violence by ideology, trauma, and access to weapons.
 
