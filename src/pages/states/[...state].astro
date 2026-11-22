@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import BookCard from '../../components/BookCard.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
+import utahOfficial from '../../data/utah-statewide-2026-11-17.json';
 
 export async function getStaticPaths() {
 	const books = await getCollection('books');
@@ -34,6 +35,9 @@ export async function getStaticPaths() {
 }
 
 const { stateName, books } = Astro.props;
+const isUtah = stateName === 'Utah';
+const officialSlugs = new Set(utahOfficial.map((book) => book.slug));
+const utahOther = isUtah ? books.filter((book: any) => !officialSlugs.has(book.data.slug)) : [];
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io';
 const basePath = '';
@@ -65,7 +69,7 @@ const collectionSchema = {
 	"@context": "https://schema.org",
 	"@type": "CollectionPage",
 	"name": `Books Banned in ${stateName}`,
-	"description": `${books.length} books have been banned or challenged in ${stateName}. Browse the full list.`,
+	"description": isUtah ? 'Browse Is It Banned records of statewide removals and other Utah book challenges.' : `${books.length} books have been banned or challenged in ${stateName}. Browse the full list.`,
 };
 ---
 
@@ -74,7 +78,7 @@ const collectionSchema = {
 	<head>
 		<BaseHead
 			title={`Books Banned in ${stateName} | ${SITE_TITLE}`}
-			description={`${books.length} books have been banned or challenged in ${stateName}. See which books are restricted and why.`}
+			description={isUtah ? 'Explore Utah statewide school removals and other documented Utah book challenges, with sources and individual book pages.' : `${books.length} books have been banned or challenged in ${stateName}. See which books are restricted and why.`}
 		/>
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 		<script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
@@ -89,13 +93,20 @@ const collectionSchema = {
 
 			<div class="state-header">
 				<h1>Books Banned in {stateName}</h1>
-				<p class="state-stats">
-					{books.length} banned book{books.length > 1 ? 's' : ''}
-				</p>
+		<p class="state-stats">{isUtah ? `${books.length} titles in our Utah records, including statewide and local cases` : `${books.length} banned books`}</p>
 			</div>
 
+			{isUtah && <section class="utah-context">
+				<h2>Utah statewide school removals</h2>
+				<p>Utah's statewide list identifies materials to be removed from student access in all Utah public schools. It is separate from a challenge or removal in an individual district, and does not mean the books are unavailable everywhere.</p>
+				<p>The <a href="https://schools.utah.gov/curr/librarymedia">Utah State Board of Education</a> links to its official statewide spreadsheet, marked updated November 17, 2026. We matched its {utahOfficial.length} title and author entries to individual book pages. The list below reflects that dated spreadsheet, not necessarily subsequent changes. Source checked November 22, 2026.</p>
+				<h3>Statewide removal list: {utahOfficial.length} titles</h3>
+				<ul>{utahOfficial.map((book) => <li><a href={`/books/${book.slug}`}>{book.title}</a> — {book.author}</li>)}</ul>
+				<h2>Other Utah records</h2>
+				<p>The titles below have a Utah record on this site but do not appear in the November 17, 2026 statewide spreadsheet. A local case or challenge does not by itself establish statewide removal.</p>
+			</section>}
 			<div class="books-grid">
-				{books.map((book: any) => (
+				{(isUtah ? utahOther : books).map((book: any) => (
 					<BookCard
 						title={book.data.title}
 						slug={book.data.slug}
