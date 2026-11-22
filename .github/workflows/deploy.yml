@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to Cloudflare Pages
 
 on:
   push:
@@ -7,16 +7,15 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: cloudflare-production
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -25,16 +24,29 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - uses: actions/upload-pages-artifact@v3
+      - name: Mark build for deployment verification
+        run: printf '\n<!-- deployment-commit:%s -->\n' "$GITHUB_SHA" >> dist/index.html
+      - name: Deploy production
+        uses: cloudflare/wrangler-action@v3
         with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
+          accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=isitbanned --branch=main
+      - name: Verify production freshness
+        shell: bash
+        run: |
+          set -euo pipefail
+          for base in https://isitbanned.pages.dev https://isitbanned.com; do
+            ok=false
+            for attempt in {1..12}; do
+              if curl --fail --silent --show-error --location --max-time 20 -H 'Cache-Control: no-cache' "$base/?deployment-check=$GITHUB_SHA" | grep -Fq "deployment-commit:$GITHUB_SHA"; then
+                ok=true
+                break
+              fi
+              sleep 10
+            done
+            if [ "$ok" != true ]; then
+              echo "Production freshness check failed for $base" >&2
+              exit 1
+            fi
+          done

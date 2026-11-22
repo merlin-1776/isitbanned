@@ -3,7 +3,7 @@
 - **Stack:** Astro 6 static site
 - **Hosting:** Cloudflare Pages (project: isitbanned)
 - **Domain:** isitbanned.com
-- **Deploy:** npx astro build && npx wrangler pages deploy dist --project-name=isitbanned
+- **Deploy:** GitHub Actions builds and deploys every main-branch push to Cloudflare Pages production, then verifies the commit marker on both production hostnames. Manual fallback: npx astro build && npx wrangler pages deploy dist --project-name=isitbanned --branch=main.
 
 ## Buy Links & Fulfillment
 - **Capital Books links:** point to store.capitalbooksonk.com/browse/filter/t/ISBN13/k/keyword
