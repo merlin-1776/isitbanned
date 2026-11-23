@@ -37,6 +37,7 @@ export async function getStaticPaths() {
 const { stateName, books } = Astro.props;
 const isUtah = stateName === 'Utah';
 const officialSlugs = new Set(utahOfficial.map((book) => book.slug));
+const maasTitles = utahOfficial.filter((book) => book.author === 'Maas, Sarah J.');
 const utahOther = isUtah ? books.filter((book: any) => !officialSlugs.has(book.data.slug)) : [];
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://merlin-1776.github.io';
@@ -98,9 +99,26 @@ const collectionSchema = {
 
 			{isUtah && <section class="utah-context">
 				<h2>Utah statewide school removals</h2>
+                <p><strong>Source checked November 22, 2026</strong> · State spreadsheet updated November 17, 2026</p>
+                <div class="utah-feature">
+                    <h3>45 books. 8 by Sarah J. Maas.</h3>
+                    <p>Utah's November 17 statewide school-removal list includes {utahOfficial.length} titles, including {maasTitles.length} by Sarah J. Maas. Each spine below represents one title; highlighted spines represent Maas titles.</p>
+                    <div class="spines" role="img" aria-label={`${utahOfficial.length} books on the statewide list, including ${maasTitles.length} by Sarah J. Maas`}>
+                        {utahOfficial.map((book) => <span class:list={['spine', { maas: book.author === 'Maas, Sarah J.' }]} title={`${book.title} by ${book.author}`}></span>)}
+                    </div>
+                    <p class="graphic-source">Source: Utah State Board of Education, November 17, 2026 spreadsheet. <a href="https://schools.utah.gov/curr/librarymedia">View state source</a>. <a href="/graphics/utah-statewide-2026-11-17.svg" download>Download this graphic</a>.</p>
+                </div>
+                <h3>Latest addition in this snapshot</h3>
+                <p><a href="/books/kingdom-of-ash">Kingdom of Ash</a> by Sarah J. Maas is the 45th title on the November 17 list. <a href="https://www.kpcw.org/state-regional/2026-11-18/utah-bans-another-sarah-j-maas-book-from-all-public-schools">KPCW reported the addition on November 18</a>.</p>
 				<p>Utah's statewide list identifies materials to be removed from student access in all Utah public schools. It is separate from a challenge or removal in an individual district, and does not mean the books are unavailable everywhere.</p>
 				<p>The <a href="https://schools.utah.gov/curr/librarymedia">Utah State Board of Education</a> links to its official statewide spreadsheet, marked updated November 17, 2026. We matched its {utahOfficial.length} title and author entries to individual book pages. The list below reflects that dated spreadsheet, not necessarily subsequent changes. Source checked November 22, 2026.</p>
-				<h3>Statewide removal list: {utahOfficial.length} titles</h3>
+				<h3>How a title reaches the statewide list</h3>
+                <p>Utah's education department says a title qualifies when it has been removed as objective sensitive material by at least 3 school districts, or by at least 2 districts and 5 charter schools. <a href="https://schools.utah.gov/curr/librarymedia">Read the state's explanation</a>.</p>
+                <h3>Sarah J. Maas titles on the statewide list</h3>
+                <ul>{maasTitles.map((book) => <li><a href={`/books/${book.slug}`}>{book.title}</a></li>)}</ul>
+                <h3>How to cite this page</h3>
+                <p>Is It Banned, “Books Banned in Utah,” https://isitbanned.com/states/utah/. Statewide list based on the Utah State Board of Education spreadsheet updated November 17, 2026; source checked November 22, 2026. Include the date you accessed this page.</p>
+                <h3>Statewide removal list: {utahOfficial.length} titles</h3>
 				<ul>{utahOfficial.map((book) => <li><a href={`/books/${book.slug}`}>{book.title}</a> — {book.author}</li>)}</ul>
 				<h2>Other Utah records</h2>
 				<p>The titles below have a Utah record on this site but do not appear in the November 17, 2026 statewide spreadsheet. A local case or challenge does not by itself establish statewide removal.</p>
@@ -151,8 +169,14 @@ const collectionSchema = {
 				font-size: 1.1rem;
 				margin: 0;
 			}
-			.books-grid {
-				display: grid;
+			.utah-feature { background: #f4efe3; border-left: 5px solid #a83e2d; padding: 1.25rem; margin: 1.5rem 0; color: #222; }
+            .utah-feature h3 { margin-top: 0; }
+            .spines { display: grid; grid-template-columns: repeat(15, minmax(0, 1fr)); gap: 4px; max-width: 650px; }
+            .spine { display: block; height: 56px; background: #315c60; border-radius: 2px 2px 0 0; }
+            .spine.maas { background: #bf4933; }
+            .graphic-source { font-size: .85rem; margin-bottom: 0; }
+            .books-grid {
+                display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 				gap: 1.5em;
 			}
