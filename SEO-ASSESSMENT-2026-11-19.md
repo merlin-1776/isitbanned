@@ -43,6 +43,14 @@ The visible query report contained 293 rows / 469 impressions, substantially bel
 
 ## Prioritized next actions
 
+### Search for Agents pilot — added 2026-11-26
+
+- **Status: planned, not enabled.** Ross requested an IsItBanned pilot and inclusion in the SEO roadmap. The live `/.well-known/search?q=1984` returned the site's HTML homepage, not search results, on 2026-11-26.
+- **Owner:** Merlin. Enable Cloudflare Search for Agents for `isitbanned.com` after confirming the account's billing plan, usage, and an acceptable cost limit or receiving Ross's approval for usage charges. Cloudflare says billing starts 2026-12-01; included monthly usage is 5 million ingestion tokens, 10 GB-month storage, 1,000 semantic and 1,000 full-text queries per account; overages are usage-priced. The default public endpoint can receive third-party queries.
+- **Verify:** allow indexing to complete; check discovery metadata and test title, author, and state queries at `/.well-known/search`; check indexed coverage and whether results link to accurate source pages. Record current usage and periodically review agent requests, costs, and any measurable referrals. Establish a baseline before attributing traffic changes to the pilot.
+- **Expansion:** evaluate other owned sites only after the pilot; CBR infrastructure changes require Ross's approval and Staff coordination. This does not replace conventional SEO or guarantee AI citations or referral traffic.
+- **Sources:** https://blog.cloudflare.com/search-for-agents/ and https://developers.cloudflare.com/ai-search/platform/limits-pricing/
+
 1. **Correct trust-critical book data signals.** Remove the fabricated rating markup unless genuine, visible review data exists; separately audit the universal “banned” labeling against record-level source evidence and define the challenged/restricted/removed distinction.
 2. **Build an edit card for `/books/` before changing its snippet.** It owns 555 impressions but only one click at average position 27.9. First recover the page’s full query distribution/intent from Search Console where available; then decide whether title/description, hub copy, or internal links are the right lever. No net-new page is justified by this report alone.
 3. **Make the dataset verifiable and measurable.** Add a real dataset as-of/methodology/source trail, verify whether the sitemap is registered in Search Console, and resolve GA4 access if it is intended to be part of this site’s measurement loop.
